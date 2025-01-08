@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 6rem;
+}
+
+.admin {
+    background-color: #3662CC;
+}
+
+.user {
+    background: linear-gradient(164.98deg, #53B2FF 2.74%, #1E87FF 21.4%, #30A2FF 43.46%, #279CFF 57.89%, #128DFF 64.36%, #118CFF 71.9%, #0056D8 87.59%)
+}
+
+.auth {
+    height: 4rem;
+    background-color: #fff;
+    
+}
+
+img {
+    stroke: #1e1e1e;
+}

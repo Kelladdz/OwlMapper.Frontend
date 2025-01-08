@@ -1,0 +1,1107 @@
+[
+    {
+        "id": "1_03",
+        "line": "1",
+        name: "Dzierzoniów  Piłsudskiego - Bielawa Nowobielawska"
+    },
+    {
+        "id": "1_05",
+        "line": "1",
+        name: "Batalionów Chłopskich - Jodłownik"
+    },
+    {
+        "id": "1_20",
+        "line": "1",
+        name: "Bielawa Leśny Dworek - Dzierżoniów dworzec  PKP"
+    },
+    {
+        "id": "1_17",
+        "line": "1",
+        name: "Batalionów Chłopskich - Bielawa Leśny Dworek"
+    },
+    {
+        "id": "1_16",
+        "line": "1",
+        name: "Dzierzoniów  Piłsudskiego - Dzierżoniów dworzec  PKP"
+    },
+    {
+        "id": "1_07",
+        "line": "1",
+        name: "Dzierzoniów  Piłsudskiego - Bielawa Leśny Dworek"
+    },
+    {
+        "id": "1_09",
+        "line": "1",
+        name: "MZK - Jodłownik"
+    },
+    {
+        "id": "1_19",
+        "line": "1",
+        name: "Batalionów Chłopskich - Dzierzoniów  Piłsudskiego"
+    },
+    {
+        "id": "1_04",
+        "line": "1",
+        name: "Batalionów Chłopskich - Bielawa Nowobielawska"
+    },
+    {
+        "id": "1_15",
+        "line": "1",
+        name: "Bielawa Nowobielawska - Dzierżoniów dworzec  PKP"
+    },
+    {
+        "id": "1_13",
+        "line": "1",
+        name: "Bielawa Leśny Dworek - Dzierzoniów  Piłsudskiego"
+    },
+    {
+        "id": "1_01",
+        "line": "1",
+        name: "Dzierzoniów  Piłsudskiego - Bielawa Nowobielawska"
+    },
+    {
+        "id": "1_18",
+        "line": "1",
+        name: "Jodłownik - Dzierżoniów dworzec  PKP"
+    },
+    {
+        "id": "1_11",
+        "line": "1",
+        name: "Jodłownik - Dzierzoniów  Piłsudskiego"
+    },
+    {
+        "id": "1_12",
+        "line": "1",
+        name: "Bielawa Nowobielawska - Dzierżoniów dworzec  PKP"
+    },
+    {
+        "id": "1_21",
+        "line": "1",
+        name: "Dzierzoniów  Piłsudskiego - Bielawa Leśny Dworek"
+    },
+    {
+        "id": "1_08",
+        "line": "1",
+        name: "Dzierzoniów  Piłsudskiego - Jodłownik"
+    },
+    {
+        "id": "1_06",
+        "line": "1",
+        name: "Dzierzoniów  Piłsudskiego - Jodłownik"
+    },
+    {
+        "id": "1_10",
+        "line": "1",
+        name: "MZK - Bielawa Nowobielawska"
+    },
+    {
+        "id": "1_23",
+        "line": "1",
+        name: "Jodłownik - Dzierzoniów  Piłsudskiego"
+    },
+    {
+        "id": "1_14",
+        "line": "1",
+        name: "Bielawa Leśny Dworek - Dzierżoniów dworzec  PKP"
+    },
+    {
+        "id": "1_24",
+        "line": "1",
+        name: "Bielawa Leśny Dworek - Dzierzoniów  Piłsudskiego"
+    },
+    {
+        "id": "1_22",
+        "line": "1",
+        name: "Bielawa Pl. Kościelny - Bielawa Nowobielawska"
+    },
+    {
+        "id": "1_02",
+        "line": "1",
+        name: "Bielawa Nowobielawska - Dzierzoniów  Piłsudskiego"
+    },  
+        {
+            "id": "15_03",
+            "line": "15",
+            name: "Dzierzoniów  Piłsudskiego - Kamionki III"
+        },
+        {
+            "id": "15_17",
+            "line": "15",
+            name: "Dzierzoniów  Piłsudskiego - Dzierżoniów dworzec  PKP"
+        },
+        {
+            "id": "15_04",
+            "line": "15",
+            name: "Dzierzoniów  Piłsudskiego - Kamionki III"
+        },
+        {
+            "id": "15_05",
+            "line": "15",
+            name: "Dzierżoniów dworzec  PKP - Pieszyce Mostek"
+        },
+        {
+            "id": "15_07",
+            "line": "15",
+            name: "Kamionki III - Dzierżoniów dworzec  PKP"
+        },
+        {
+            "id": "15_16",
+            "line": "15",
+            name: "Kamionki III - Dzierżoniów dworzec  PKP"
+        },
+        {
+            "id": "15_11",
+            "line": "15",
+            name: "Kamionki III - Batalionów Chłopskich"
+        },
+        {
+            "id": "15_06",
+            "line": "15",
+            name: "Kamionki III - Dzierzoniów  Piłsudskiego"
+        },
+        {
+            "id": "15_02",
+            "line": "15",
+            name: "Dzierzoniów  Piłsudskiego - Pieszyce Mostek"
+        },
+        {
+            "id": "15_09",
+            "line": "15",
+            name: "Kamionki III - Dzierzoniów  Piłsudskiego"
+        },
+        {
+            "id": "15_01",
+            "line": "15",
+            name: "Dzierzoniów  Piłsudskiego - Kamionki III"
+        },
+        {
+            "id": "15_15",
+            "line": "15",
+            name: "Dzierżoniów dworzec  PKP - Kamionki III"
+        },
+        {
+            "id": "15_14",
+            "line": "15",
+            name: "Dzierżoniów dworzec  PKP - Dzierzoniów  Piłsudskiego"
+        },
+        {
+            "id": "15_08",
+            "line": "15",
+            name: "Pieszyce Mostek - Dzierżoniów dworzec  PKP"
+        },
+        {
+            "id": "15_12",
+            "line": "15",
+            name: "Dzierżoniów dworzec  PKP - Kamionki III"
+        },
+        {
+            "id": "15_13",
+            "line": "15",
+            name: "Dzierżoniów dworzec  PKP - Dzierzoniów  Piłsudskiego"
+        },
+        {
+            "id": "15_10",
+            "line": "15",
+            name: "Kamionki III - Dzierżoniów dworzec  PKP"
+        },
+        
+            {
+                "id": "21_02",
+                "line": "21",
+                name: "Dzierzoniów  Piłsudskiego - Rościszów IV"
+            },
+            {
+                "id": "21_09",
+                "line": "21",
+                name: "Rościszów IV - Batalionów Chłopskich"
+            },
+            {
+                "id": "21_10",
+                "line": "21",
+                name: "Rościszów IV - Dzierżoniów dworzec  PKP"
+            },
+            {
+                "id": "21_12",
+                "line": "21",
+                name: "KŁSOK Sp. z o.o. - Kilińskiego"
+            },
+            {
+                "id": "21_08",
+                "line": "21",
+                name: "Rościszów IV - Dzierżoniów  ul.Strefowa"
+            },
+            {
+                "id": "21_13",
+                "line": "21",
+                name: "KŁSOK Sp. z o.o. - Dzierzoniów  Piłsudskiego"
+            },
+            {
+                "id": "21_05",
+                "line": "21",
+                name: "Dzierżoniów  ul.Strefowa - Rościszów IV"
+            },
+            {
+                "id": "21_06",
+                "line": "21",
+                name: "Rościszów IV - Dzierzoniów  Piłsudskiego"
+            },
+            {
+                "id": "21_11",
+                "line": "21",
+                name: "Dzierżoniów dworzec  PKP - Dzierzoniów  Piłsudskiego"
+            },
+            {
+                "id": "21_07",
+                "line": "21",
+                name: "Rościszów IV - Dzierzoniów  Piłsudskiego"
+            },
+            {
+                "id": "21_04",
+                "line": "21",
+                name: "Dzierzoniów  Piłsudskiego - Rościszów IV"
+            },
+            {
+                "id": "21_03",
+                "line": "21",
+                name: "Rościszów IV - Dzierzoniów  Piłsudskiego"
+            },
+            {
+                "id": "21_01",
+                "line": "21",
+                name: "Kilińskiego - Rościszów IV"
+            },
+            
+                {
+                    "id": "31_03",
+                    "line": "31",
+                    name: "Dzierżoniów dworzec  PKP - Kośmin"
+                },
+                {
+                    "id": "31_02",
+                    "line": "31",
+                    name: "Dworzec PKP - Dzierżoniów dworzec  PKP"
+                },
+                {
+                    "id": "31_06",
+                    "line": "31",
+                    name: "Kośmin - Dzierżoniów dworzec  PKP"
+                },
+                {
+                    "id": "31_01",
+                    "line": "31",
+                    name: "Dzierżoniów dworzec  PKP - Dworzec PKP"
+                },
+                {
+                    "id": "31_08",
+                    "line": "31",
+                    name: "Piława Górna Kopanica - Dzierżoniów dworzec  PKP"
+                },
+                {
+                    "id": "31_04",
+                    "line": "31",
+                    name: "Dzierżoniów dworzec  PKP - Piława Górna Kopanica"
+                },
+                
+                    {
+                        "id": "2_26",
+                        "line": "2",
+                        name: "Dzierżoniów dworzec  PKP - Dzierzoniów  Piłsudskiego"
+                    },
+                    {
+                        "id": "2_27",
+                        "line": "2",
+                        name: "Bielawa Słowiańska - Dzierzoniów  Piłsudskiego"
+                    },
+                    {
+                        "id": "2_15",
+                        "line": "2",
+                        name: "Dzierzoniów  Piłsudskiego - Bielawa Słowiańska"
+                    },
+                    {
+                        "id": "2_33",
+                        "line": "2",
+                        name: "Dzierzoniów Os. Zielone - Bielawa Camping Sudety"
+                    },
+                    {
+                        "id": "2_18",
+                        "line": "2",
+                        name: "Dzierzoniów Os. Zielone - Bielawa Słowiańska"
+                    },
+                    {
+                        "id": "2_30",
+                        "line": "2",
+                        name: "Dzierzoniów  Piłsudskiego - Bielawa Camping Sudety"
+                    },
+                    {
+                        "id": "2_01",
+                        "line": "2",
+                        name: "Bielawa Słowiańska - Dzierzoniów Os. Zielone"
+                    },
+                    {
+                        "id": "2_29",
+                        "line": "2",
+                        name: "Dzierzoniów  Piłsudskiego - Bielawa Słowiańska"
+                    },
+                    {
+                        "id": "2_13",
+                        "line": "2",
+                        name: "Dzierzoniów Os. Zielone - Bielawa Słowiańska"
+                    },
+                    {
+                        "id": "2_34",
+                        "line": "2",
+                        name: "Dzierzoniów Os. Zielone - Dzierżoniów dworzec  PKP"
+                    },
+                    {
+                        "id": "2_16",
+                        "line": "2",
+                        name: "Bielawa Słowiańska - Dzierżoniów  ul.Strefowa"
+                    },
+                    {
+                        "id": "2_09",
+                        "line": "2",
+                        name: "Bielawa Camping Sudety - Dzierzoniów Os. Zielone"
+                    },
+                    {
+                        "id": "2_08",
+                        "line": "2",
+                        name: "Bielawa Słowiańska - Dzierżoniów dworzec  PKP"
+                    },
+                    {
+                        "id": "2_28",
+                        "line": "2",
+                        name: "Bielawa Camping Sudety - Dzierzoniów  Piłsudskiego"
+                    },
+                    {
+                        "id": "2_31",
+                        "line": "2",
+                        name: "Dzierżoniów dworzec  PKP - Bielawa Słowiańska"
+                    },
+                    {
+                        "id": "2_21",
+                        "line": "2",
+                        name: "Dzierzoniów Os. Zielone - Bielawa Camping Sudety"
+                    },
+                    {
+                        "id": "2_25",
+                        "line": "2",
+                        name: "Zajezdnia Kłosok - Dzierzoniów  Piłsudskiego"
+                    },
+                    {
+                        "id": "2_24",
+                        "line": "2",
+                        name: "Zajezdnia Kłosok - Dzierzoniów Os. Zielone"
+                    },
+                    {
+                        "id": "2_14",
+                        "line": "2",
+                        name: "Dzierzoniów Os. Zielone - Bielawa Słowiańska"
+                    },
+                    {
+                        "id": "2_06",
+                        "line": "2",
+                        name: "Bielawa Słowiańska - Dzierzoniów  Piłsudskiego"
+                    },
+                    {
+                        "id": "2_04",
+                        "line": "2",
+                        name: "Bielawa Słowiańska - Dzierzoniów Os. Zielone"
+                    },
+                    {
+                        "id": "2_20",
+                        "line": "2",
+                        name: "Dzierzoniów Os. Zielone - Bielawa Camping Sudety"
+                    },
+                    {
+                        "id": "2_02",
+                        "line": "2",
+                        name: "Dzierzoniów Os. Zielone - Bielawa Słowiańska"
+                    },
+                    {
+                        "id": "2_19",
+                        "line": "2",
+                        name: "Dzierzoniów  Piłsudskiego - Bielawa Camping Sudety"
+                    },
+                    {
+                        "id": "2_17",
+                        "line": "2",
+                        name: "Dzierżoniów  ul.Strefowa - Bielawa Słowiańska"
+                    },
+                    {
+                        "id": "2_32",
+                        "line": "2",
+                        name: "Bielawa Camping Sudety - Dzierzoniów Os. Zielone"
+                    },
+                    {
+                        "id": "2_22",
+                        "line": "2",
+                        name: "Dzierzoniów Os. Zielone - Dzierżoniów  ul.Strefowa"
+                    },
+                    {
+                        "id": "2_03",
+                        "line": "2",
+                        name: "Bielawa Słowiańska - Dzierzoniów Os. Zielone"
+                    },
+                    {
+                        "id": "2_10",
+                        "line": "2",
+                        name: "Bielawa Camping Sudety - Dzierzoniów Os. Zielone"
+                    },
+                    {
+                        "id": "2_07",
+                        "line": "2",
+                        name: "Bielawa Słowiańska - Dzierżoniów dworzec  PKP"
+                    },
+                    {
+                        "id": "2_23",
+                        "line": "2",
+                        name: "Dzierżoniów  ul.Strefowa - Bielawa Camping Sudety"
+                    },
+                    {
+                        "id": "2_12",
+                        "line": "2",
+                        name: "Bielawa Camping Sudety - Dzierżoniów dworzec  PKP"
+                    },
+                    {
+                        "id": "2_11",
+                        "line": "2",
+                        name: "Bielawa Camping Sudety - Dzierżoniów dworzec  PKP"
+                    },
+                    {
+                        "id": "2_05",
+                        "line": "2",
+                        name: "Bielawa Słowiańska - Dzierzoniów Os. Zielone"
+                    },
+                    
+                        {
+                            "id": "22_05",
+                            "line": "22",
+                            name: "Bratoszów II - Batalionów Chłopskich"
+                        },
+                        {
+                            "id": "22_04",
+                            "line": "22",
+                            name: "Bratoszów II - Dzierżoniów dworzec  PKP"
+                        },
+                        {
+                            "id": "22_01",
+                            "line": "22",
+                            name: "Bratoszów II - Bratoszów II"
+                        },
+                        {
+                            "id": "22_03",
+                            "line": "22",
+                            name: "Dzierżoniów dworzec  PKP - Bratoszów II"
+                        },
+                        {
+                            "id": "22_07",
+                            "line": "22",
+                            name: "Dzierzoniów  Piłsudskiego - Bratoszów II"
+                        },
+                        {
+                            "id": "22_02",
+                            "line": "22",
+                            name: "Pieszyce Bielawska - Bratoszów II"
+                        },
+                        {
+                            "id": "22_08",
+                            "line": "22",
+                            name: "Bratoszów II - Dzierzoniów  Piłsudskiego"
+                        },
+                        {
+                            "id": "22_06",
+                            "line": "22",
+                            name: "Dzierżoniów DT.Ślązak - Pieszyce Bielawska"
+                        },
+                        
+                            {
+                                "id": "3_06",
+                                "line": "3",
+                                name: "Bielawa Pl. Kościelny - Dzierzoniów  Piłsudskiego"
+                            },
+                            {
+                                "id": "3_17",
+                                "line": "3",
+                                name: "Dzierzoniów  Piłsudskiego - Bielawa Pl. Kościelny"
+                            },
+                            {
+                                "id": "3_05",
+                                "line": "3",
+                                name: "Batalionów Chłopskich - Dzierzoniów  Piłsudskiego"
+                            },
+                            {
+                                "id": "3_04",
+                                "line": "3",
+                                name: "Bielawa Pl. Kościelny - Bielawa Pl. Kościelny"
+                            },
+                            {
+                                "id": "3_19",
+                                "line": "3",
+                                name: "Bielawa Nowobielawska - Dzierżoniów dworzec  PKP"
+                            },
+                            {
+                                "id": "3_01",
+                                "line": "3",
+                                name: "Bielawa Pl. Kościelny - Dzierzoniów  Piłsudskiego"
+                            },
+                            {
+                                "id": "3_14",
+                                "line": "3",
+                                name: "MZK - Bielawa Pl. Kościelny"
+                            },
+                            {
+                                "id": "3_11",
+                                "line": "3",
+                                name: "Dzierzoniów  Piłsudskiego - Bielawa Pl. Kościelny"
+                            },
+                            {
+                                "id": "3_03",
+                                "line": "3",
+                                name: "Bielawa Pl. Kościelny - Bielawa Pl. Kościelny"
+                            },
+                            {
+                                "id": "3_12",
+                                "line": "3",
+                                name: "Dzierzoniów  Piłsudskiego - Bielawa Pl. Kościelny"
+                            },
+                            {
+                                "id": "3_20",
+                                "line": "3",
+                                name: "Bielawa Leśny Dworek - Dzierzoniów  Piłsudskiego"
+                            },
+                            {
+                                "id": "3_02",
+                                "line": "3",
+                                name: "Dzierzoniów  Piłsudskiego - Bielawa Pl. Kościelny"
+                            },
+                            {
+                                "id": "3_18",
+                                "line": "3",
+                                name: "Bielawa Nowobielawska - Dzierzoniów  Piłsudskiego"
+                            },
+                            {
+                                "id": "3_15",
+                                "line": "3",
+                                name: "Bielawa Pl. Kościelny - Dzierżoniów dworzec  PKP"
+                            },
+                            
+                                {
+                                    "id": "30_06",
+                                    "line": "30",
+                                    name: "Dzierżoniów dworzec  PKP - Podlesie"
+                                },
+                                {
+                                    "id": "30_03",
+                                    "line": "30",
+                                    name: "Dzierżoniów Strefa Metzeler -"
+                                },
+                                {
+                                    "id": "30_02",
+                                    "line": "30",
+                                    name: "Dzierżoniów dworzec  PKP -"
+                                },
+                                {
+                                    "id": "30_05",
+                                    "line": "30",
+                                    name: "- Ząbkowicka"
+                                },
+                                {
+                                    "id": "30_01",
+                                    "line": "30",
+                                    name: "- Dzierżoniów dworzec  PKP"
+                                },
+                                {
+                                    "id": "30_07",
+                                    "line": "30",
+                                    name: "Podlesie - Dzierżoniów dworzec  PKP"
+                                },
+                                {
+                                    "id": "30_09",
+                                    "line": "30",
+                                    name: "- Ząbkowicka"
+                                },
+                                {
+                                    "id": "30_08",
+                                    "line": "30",
+                                    name: "Ząbkowicka - Batalionów Chłopskich"
+                                },
+                                {
+                                    "id": "30_04",
+                                    "line": "30",
+                                    name: "- Dzierżoniów Strefa Metzeler"
+                                },
+                                
+                                    {
+                                        "id": "35_03",
+                                        "line": "35",
+                                        name: "Dzierżoniów Strefa Metzeler - Dzierżoniów dworzec  PKP"
+                                    },
+                                    {
+                                        "id": "35_05",
+                                        "line": "35",
+                                        name: "Dzierżoniów dworzec  PKP - Kośmin"
+                                    },
+                                    {
+                                        "id": "35_02",
+                                        "line": "35",
+                                        name: "Kośmin - Dzierżoniów dworzec  PKP"
+                                    },
+                                    {
+                                        "id": "35_01",
+                                        "line": "35",
+                                        name: "Dzierżoniów dworzec  PKP - Kośmin"
+                                    },
+                                    {
+                                        "id": "35_06",
+                                        "line": "35",
+                                        name: "Kośmin - Dzierżoniów dworzec  PKP"
+                                    },
+                                    {
+                                        "id": "35_04",
+                                        "line": "35",
+                                        name: "Kośmin - Dzierżoniów Strefa Metzeler"
+                                    },
+                                    
+                                        {
+                                            "id": "36_03",
+                                            "line": "36",
+                                            name: "Dzierżoniów dworzec  PKP - Niemcza dworzec PKP"
+                                        },
+                                        {
+                                            "id": "36_06",
+                                            "line": "36",
+                                            name: "Dzierżoniów Strefa Metzeler - Niemcza Remiza"
+                                        },
+                                        {
+                                            "id": "36_04",
+                                            "line": "36",
+                                            name: "Dzierżoniów Strefa Metzeler - Dzierżoniów Strefa Metzeler"
+                                        },
+                                        {
+                                            "id": "36_02",
+                                            "line": "36",
+                                            name: "Dzierżoniów dworzec  PKP - Niemcza Remiza"
+                                        },
+                                        {
+                                            "id": "36_07",
+                                            "line": "36",
+                                            name: "Niemcza dworzec PKP - Dzierżoniów dworzec  PKP"
+                                        },
+                                        {
+                                            "id": "36_08",
+                                            "line": "36",
+                                            name: "Niemcza Remiza - Dzierżoniów Strefa Metzeler"
+                                        },
+                                        {
+                                            "id": "36_01",
+                                            "line": "36",
+                                            name: "Niemcza Remiza - Dzierżoniów dworzec  PKP"
+                                        },
+                                        {
+                                            "id": "36_09",
+                                            "line": "36",
+                                            name: "Niemcza Remiza - Dzierżoniów Strefa Metzeler"
+                                        },
+                                        {
+                                            "id": "36_05",
+                                            "line": "36",
+                                            name: "Dzierżoniów dworzec  PKP - Niemcza Remiza"
+                                        },
+                                        
+                                            {
+                                                "id": "45_01",
+                                                "line": "45",
+                                                name: "Dzierżoniów dworzec  PKP - Niemcza Remiza"
+                                            },
+                                            {
+                                                "id": "45_03",
+                                                "line": "45",
+                                                name: "Sklep - Batalionów Chłopskich"
+                                            },
+                                            {
+                                                "id": "45_11",
+                                                "line": "45",
+                                                name: "Niemcza Remiza - Dzierżoniów dworzec  PKP"
+                                            },
+                                            {
+                                                "id": "45_02",
+                                                "line": "45",
+                                                name: "Niemcza Remiza - Dzierżoniów dworzec  PKP"
+                                            },
+                                            {
+                                                "id": "45_09",
+                                                "line": "45",
+                                                name: "Niemcza Remiza - Dzierżoniów dworzec  PKP"
+                                            },
+                                            {
+                                                "id": "45_05",
+                                                "line": "45",
+                                                name: "Dzierżoniów dworzec  PKP - Niemcza Remiza"
+                                            },
+                                            {
+                                                "id": "45_04",
+                                                "line": "45",
+                                                name: "Dzierżoniów dworzec  PKP - Niemcza Remiza"
+                                            },
+                                            {
+                                                "id": "45_08",
+                                                "line": "45",
+                                                name: "Niemcza Remiza - Dzierżoniów dworzec  PKP"
+                                            },
+                                            {
+                                                "id": "45_12",
+                                                "line": "45",
+                                                name: "Niemcza Remiza - Dzierzoniów  Piłsudskiego"
+                                            },
+                                            {
+                                                "id": "45_10",
+                                                "line": "45",
+                                                name: "Niemcza Remiza - Dzierżoniów dworzec  PKP"
+                                            },
+                                            
+                                                {
+                                                    "id": "46_08",
+                                                    "line": "46",
+                                                    name: "Gola Dzierżoniowska - Dzierżoniów dworzec  PKP"
+                                                },
+                                                {
+                                                    "id": "46_02",
+                                                    "line": "46",
+                                                    name: "Dzierżoniów dworzec  PKP - Gola Dzierżoniowska"
+                                                },
+                                                {
+                                                    "id": "46_05",
+                                                    "line": "46",
+                                                    name: "Dzierżoniów dworzec  PKP - Niemcza Remiza"
+                                                },
+                                                {
+                                                    "id": "46_07",
+                                                    "line": "46",
+                                                    name: "Niemcza Remiza - Dzierżoniów dworzec  PKP"
+                                                },
+                                                {
+                                                    "id": "46_04",
+                                                    "line": "46",
+                                                    name: "Dzierżoniów dworzec  PKP - Niemcza Remiza"
+                                                },
+                                                {
+                                                    "id": "46_06",
+                                                    "line": "46",
+                                                    name: "Dzierżoniów dworzec  PKP - skrzyżowanie"
+                                                },
+                                                {
+                                                    "id": "46_09",
+                                                    "line": "46",
+                                                    name: "Niemcza Remiza - Dzierżoniów dworzec  PKP"
+                                                },
+                                                {
+                                                    "id": "46_01",
+                                                    "line": "46",
+                                                    name: "Niemcza Remiza - Dzierżoniów dworzec  PKP"
+                                                },
+                                                {
+                                                    "id": "46_03",
+                                                    "line": "46",
+                                                    name: "Dzierżoniów dworzec  PKP - Niemcza Remiza"
+                                                },
+                                                
+                                                    {
+                                                        "id": "49_01",
+                                                        "line": "49",
+                                                        name: "Kietlin - Dzierżoniów dworzec  PKP"
+                                                    },
+                                                    {
+                                                        "id": "49_02",
+                                                        "line": "49",
+                                                        name: "Dzierżoniów dworzec  PKP - Kietlin"
+                                                    },
+                                                    
+                                                        {
+                                                            "id": "5_02",
+                                                            "line": "5",
+                                                            name: "Jodłownik - Dzierzoniów  Piłsudskiego"
+                                                        },
+                                                        {
+                                                            "id": "5_01",
+                                                            "line": "5",
+                                                            name: "Dzierzoniów  Piłsudskiego - Jodłownik"
+                                                        },
+                                                        {
+                                                            "id": "5_03",
+                                                            "line": "5",
+                                                            name: "Batalionów Chłopskich - Jodłownik"
+                                                        },
+                                                        
+                                                            {
+                                                                "id": "6_22",
+                                                                "line": "6",
+                                                                name: "Batalionów Chłopskich - Dzierzoniów  Piłsudskiego"
+                                                            },
+                                                            {
+                                                                "id": "6_01",
+                                                                "line": "6",
+                                                                name: "Grodziszcze Sklep - Dzierzoniów  Piłsudskiego"
+                                                            },
+                                                            {
+                                                                "id": "6_24",
+                                                                "line": "6",
+                                                                name: "MZK - Ostroszowice Ośrodek zdrowia"
+                                                            },
+                                                            {
+                                                                "id": "6_19",
+                                                                "line": "6",
+                                                                name: "Dzierzoniów  Piłsudskiego - Ostroszowice Ośrodek zdrowia"
+                                                            },
+                                                            {
+                                                                "id": "6_06",
+                                                                "line": "6",
+                                                                name: "Dzierzoniów  Piłsudskiego - Ostroszowice Ośrodek zdrowia"
+                                                            },
+                                                            {
+                                                                "id": "6_28",
+                                                                "line": "6",
+                                                                name: "Grodziszcze Sklep - Dzierżoniów dworzec  PKP"
+                                                            },
+                                                            {
+                                                                "id": "6_14",
+                                                                "line": "6",
+                                                                name: "Grodziszcze Sklep - Dzierżoniów dworzec  PKP"
+                                                            },
+                                                            {
+                                                                "id": "6_11",
+                                                                "line": "6",
+                                                                name: "Ostroszowice Ośrodek zdrowia - Dzierzoniów  Piłsudskiego"
+                                                            },
+                                                            {
+                                                                "id": "6_12",
+                                                                "line": "6",
+                                                                name: "Grodziszcze Sklep - Dzierzoniów  Piłsudskiego"
+                                                            },
+                                                            {
+                                                                "id": "6_16",
+                                                                "line": "6",
+                                                                name: "Rudnica III - Dzierzoniów  Piłsudskiego"
+                                                            },
+                                                            {
+                                                                "id": "6_04",
+                                                                "line": "6",
+                                                                name: "Dzierżoniów dworzec  PKP - Grodziszcze Sklep"
+                                                            },
+                                                            {
+                                                                "id": "6_03",
+                                                                "line": "6",
+                                                                name: "Dzierzoniów  Piłsudskiego - Grodziszcze Sklep"
+                                                            },
+                                                            {
+                                                                "id": "6_23",
+                                                                "line": "6",
+                                                                name: "Dzierzoniów  Piłsudskiego - Grodziszcze Sklep"
+                                                            },
+                                                            {
+                                                                "id": "6_15",
+                                                                "line": "6",
+                                                                name: "Grodziszcze Sklep - Dzierzoniów  Piłsudskiego"
+                                                            },
+                                                            {
+                                                                "id": "6_05",
+                                                                "line": "6",
+                                                                name: "Dzierzoniów  Piłsudskiego - Grodziszcze Sklep"
+                                                            },
+                                                            {
+                                                                "id": "6_27",
+                                                                "line": "6",
+                                                                name: "Grodziszcze Sklep - Dzierzoniów  Piłsudskiego"
+                                                            },
+                                                            {
+                                                                "id": "6_13",
+                                                                "line": "6",
+                                                                name: "Ostroszowice Ośrodek zdrowia - Dzierżoniów dworzec  PKP"
+                                                            },
+                                                            {
+                                                                "id": "6_25",
+                                                                "line": "6",
+                                                                name: "Batalionów Chłopskich - Grodziszcze Sklep"
+                                                            },
+                                                            {
+                                                                "id": "6_29",
+                                                                "line": "6",
+                                                                name: "Grodziszcze Sklep - Dzierzoniów  Piłsudskiego"
+                                                            },
+                                                            {
+                                                                "id": "6_02",
+                                                                "line": "6",
+                                                                name: "Dzierzoniów  Piłsudskiego - Rudnica III"
+                                                            },
+                                                            {
+                                                                "id": "6_20",
+                                                                "line": "6",
+                                                                name: "MZK - Rudnica III"
+                                                            },
+                                                            {
+                                                                "id": "6_21",
+                                                                "line": "6",
+                                                                name: "Rudnica III - Dzierżoniów dworzec  PKP"
+                                                            },
+                                                            {
+                                                                "id": "6_26",
+                                                                "line": "6",
+                                                                name: "Ostroszowice Ośrodek zdrowia - Dzierzoniów  Piłsudskiego"
+                                                            },
+                                                            {
+                                                                "id": "6_08",
+                                                                "line": "6",
+                                                                name: "Batalionów Chłopskich - Ostroszowice Ośrodek zdrowia"
+                                                            },
+                                                            
+                                                                {
+                                                                    "id": "60_14",
+                                                                    "line": "60",
+                                                                    name: "Pieszyce Sklep - Bielawa Słowiańska"
+                                                                },
+                                                                {
+                                                                    "id": "60_02",
+                                                                    "line": "60",
+                                                                    name: "Pieszyce Sklep - Bielawa Pl. Kościelny"
+                                                                },
+                                                                {
+                                                                    "id": "60_13",
+                                                                    "line": "60",
+                                                                    name: "Bielawa Słowiańska - Pieszyce Sklep"
+                                                                },
+                                                                {
+                                                                    "id": "60_05",
+                                                                    "line": "60",
+                                                                    name: "Bielawa Pl. Kościelny - Pieszyce Mostek"
+                                                                },
+                                                                {
+                                                                    "id": "60_16",
+                                                                    "line": "60",
+                                                                    name: "Pieszyce Mostek - Bielawa Pl. Kościelny"
+                                                                },
+                                                                {
+                                                                    "id": "60_03",
+                                                                    "line": "60",
+                                                                    name: "Bielawa Pl. Kościelny - Pieszyce Sklep"
+                                                                },
+                                                                {
+                                                                    "id": "60_11",
+                                                                    "line": "60",
+                                                                    name: "Zajezdnia Kłosok - Ogrodowa"
+                                                                },
+                                                                {
+                                                                    "id": "60_08",
+                                                                    "line": "60",
+                                                                    name: "Ogrodowa - Pieszyce Mostek"
+                                                                },
+                                                                {
+                                                                    "id": "60_12",
+                                                                    "line": "60",
+                                                                    name: "Pieszyce Mostek - Bielawa Camping Sudety"
+                                                                },
+                                                                {
+                                                                    "id": "60_15",
+                                                                    "line": "60",
+                                                                    name: "Dzierżoniów dworzec  PKP - Ogrodowa"
+                                                                },
+                                                                {
+                                                                    "id": "60_07",
+                                                                    "line": "60",
+                                                                    name: "Pieszyce Mostek - Bielawa Pl. Kościelny"
+                                                                },
+                                                                {
+                                                                    "id": "60_09",
+                                                                    "line": "60",
+                                                                    name: "Ogrodowa - Pieszyce Sklep"
+                                                                },
+                                                                {
+                                                                    "id": "60_01",
+                                                                    "line": "60",
+                                                                    name: "Bielawa Pl. Kościelny - Pieszyce Sklep"
+                                                                },
+                                                                {
+                                                                    "id": "60_10",
+                                                                    "line": "60",
+                                                                    name: "Pieszyce Sklep - Dzierżoniów dworzec  PKP"
+                                                                },
+                                                                {
+                                                                    "id": "60_04",
+                                                                    "line": "60",
+                                                                    name: "MZK - Bielawa Pl. Kościelny"
+                                                                },
+                                                                
+                                                                    {
+                                                                        "id": "A_01",
+                                                                        "line": "A",
+                                                                        name: "Staszica - Dzierzoniów  Piłsudskiego"
+                                                                    },
+                                                                    {
+                                                                        "id": "A_03",
+                                                                        "line": "A",
+                                                                        name: "Staszica - Przedszkole"
+                                                                    },
+                                                                    {
+                                                                        "id": "A_05",
+                                                                        "line": "A",
+                                                                        name: "Przedszkole - Dzierzoniów  Piłsudskiego"
+                                                                    },
+                                                                    {
+                                                                        "id": "A_04",
+                                                                        "line": "A",
+                                                                        name: "Batalionów Chłopskich - Przedszkole"
+                                                                    },
+                                                                    {
+                                                                        "id": "A_02",
+                                                                        "line": "A",
+                                                                        name: "Dzierzoniów  Piłsudskiego - Staszica"
+                                                                    },
+                                                                    {
+                                                                        "id": "A_07",
+                                                                        "line": "A",
+                                                                        name: "Dzierzoniów  Piłsudskiego - Dzierżoniów dworzec  PKP"
+                                                                    },
+                                                                    {
+                                                                        "id": "A_06",
+                                                                        "line": "A",
+                                                                        name: "Przedszkole - Staszica"
+                                                                    },
+                                                                    
+                                                                        {
+                                                                            "id": "B_01",
+                                                                            "line": "B",
+                                                                            name: "Dzierzoniów  Piłsudskiego - Dzierżoniów Dolny Nowowiejska"
+                                                                        },
+                                                                        {
+                                                                            "id": "B_02",
+                                                                            "line": "B",
+                                                                            name: "Dzierżoniów Dolny Nowowiejska - Dzierzoniów  Piłsudskiego"
+                                                                        },
+                                                                        {
+                                                                            "id": "B_03",
+                                                                            "line": "B",
+                                                                            name: "Dzierżoniów Dolny Nowowiejska - Dzierzoniów  Piłsudskiego"
+                                                                        },
+                                                                        {
+                                                                            "id": "B_05",
+                                                                            "line": "B",
+                                                                            name: "Batalionów Chłopskich - Dzierzoniów  Piłsudskiego"
+                                                                        },
+                                                                        {
+                                                                            "id": "B_04",
+                                                                            "line": "B",
+                                                                            name: "Dzierżoniów dworzec  PKP - Dzierzoniów  Piłsudskiego"
+                                                                        }
+                                                                    ]
+                                                                
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+        

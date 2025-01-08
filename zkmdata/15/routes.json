@@ -1,0 +1,3629 @@
+[
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "1"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "2"
+    },
+    {
+        "id": "85",
+        "stopId": "85",
+        name: "Dzierżoniów DT.Ślązak",
+        "label": "85",
+        "platform": "0",
+        "lat": "50.72577",
+        "lon": "16.645711",
+        "order": "3"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "4"
+    },
+    {
+        "id": "123",
+        "stopId": "123",
+        name: "Dzierżoniów Strefa Metzeler",
+        "label": "123",
+        "platform": "0",
+        "lat": "50.726863",
+        "lon": "16.63007",
+        "order": "5"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "6"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "7"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "8"
+    },
+    {
+        "id": "304",
+        "stopId": "304",
+        name: "Strefowa II",
+        "label": "304",
+        "platform": "0",
+        "lat": "50.74151494702591",
+        "lon": "16.612750967358807",
+        "order": "9"
+    },
+    {
+        "id": "128",
+        "stopId": "128",
+        name: "Dzierżoniów  ul.Strefowa",
+        "label": "128",
+        "platform": "0",
+        "lat": "50.731993",
+        "lon": "16.622788",
+        "order": "10"
+    },
+    {
+        "id": "122",
+        "stopId": "122",
+        name: "Strefa Ekonomiczna",
+        "label": "122",
+        "platform": "0",
+        "lat": "50.729376",
+        "lon": "16.630026",
+        "order": "11"
+    },
+    {
+        "id": "133",
+        "stopId": "133",
+        name: "Zajezdnia PKS",
+        "label": "133",
+        "platform": "0",
+        "lat": "50.724691",
+        "lon": "16.629685",
+        "order": "12"
+    },
+    {
+        "id": "187",
+        "stopId": "187",
+        name: "Dolne",
+        "label": "187",
+        "platform": "0",
+        "lat": "50.725423",
+        "lon": "16.596171",
+        "order": "13"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "14"
+    },
+    {
+        "id": "163",
+        "stopId": "163",
+        name: "Pieszyce Bielawska",
+        "label": "163",
+        "platform": "0",
+        "lat": "50.715765",
+        "lon": "16.587015",
+        "order": "15"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "16"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "17"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "18"
+    },
+    {
+        "id": "150",
+        "stopId": "150",
+        name: "Pieszyce Sklep",
+        "label": "150",
+        "platform": "0",
+        "lat": "50.699455",
+        "lon": "16.568421",
+        "order": "19"
+    },
+    {
+        "id": "297",
+        "stopId": "297",
+        name: "Osiedle Górskie",
+        "label": "297",
+        "platform": "0",
+        "lat": "50.704242",
+        "lon": "16.573859",
+        "order": "20"
+    },
+    {
+        "id": "152",
+        "stopId": "152",
+        name: "VII oddział",
+        "label": "152",
+        "platform": "0",
+        "lat": "50.695911",
+        "lon": "16.563013",
+        "order": "21"
+    },
+    {
+        "id": "154",
+        "stopId": "154",
+        name: "Pieszyce Mostek",
+        "label": "154",
+        "platform": "0",
+        "lat": "50.691255",
+        "lon": "16.554741",
+        "order": "22"
+    },
+    {
+        "id": "156",
+        "stopId": "156",
+        name: "Dolne",
+        "label": "156",
+        "platform": "0",
+        "lat": "50.686053",
+        "lon": "16.546013",
+        "order": "23"
+    },
+    {
+        "id": "158",
+        "stopId": "158",
+        name: "I",
+        "label": "158",
+        "platform": "0",
+        "lat": "50.681281",
+        "lon": "16.543455",
+        "order": "24"
+    },
+    {
+        "id": "160",
+        "stopId": "160",
+        name: "II",
+        "label": "160",
+        "platform": "0",
+        "lat": "50.676238",
+        "lon": "16.544385",
+        "order": "25"
+    },
+    {
+        "id": "162",
+        "stopId": "162",
+        name: "Kamionki III",
+        "label": "162",
+        "platform": "0",
+        "lat": "50.67231",
+        "lon": "16.542805",
+        "order": "26"
+    }
+,
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "1"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "2"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "3"
+    }
+,
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "1"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "2"
+    },
+    {
+        "id": "85",
+        "stopId": "85",
+        name: "Dzierżoniów DT.Ślązak",
+        "label": "85",
+        "platform": "0",
+        "lat": "50.72577",
+        "lon": "16.645711",
+        "order": "3"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "4"
+    },
+    {
+        "id": "123",
+        "stopId": "123",
+        name: "Dzierżoniów Strefa Metzeler",
+        "label": "123",
+        "platform": "0",
+        "lat": "50.726863",
+        "lon": "16.63007",
+        "order": "5"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "6"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "7"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "8"
+    },
+    {
+        "id": "188",
+        "stopId": "188",
+        name: "AUP K.Gajda w Pieszycach",
+        "label": "188",
+        "platform": "0",
+        "lat": "50.73756",
+        "lon": "16.602416",
+        "order": "9"
+    },
+    {
+        "id": "186",
+        "stopId": "186",
+        name: "Kółko Rolnicze",
+        "label": "186",
+        "platform": "0",
+        "lat": "50.732913",
+        "lon": "16.605728",
+        "order": "10"
+    },
+    {
+        "id": "185",
+        "stopId": "185",
+        name: "Szkoła",
+        "label": "185",
+        "platform": "0",
+        "lat": "50.726313",
+        "lon": "16.596456",
+        "order": "11"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "12"
+    },
+    {
+        "id": "163",
+        "stopId": "163",
+        name: "Pieszyce Bielawska",
+        "label": "163",
+        "platform": "0",
+        "lat": "50.715765",
+        "lon": "16.587015",
+        "order": "13"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "14"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "15"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "16"
+    },
+    {
+        "id": "150",
+        "stopId": "150",
+        name: "Pieszyce Sklep",
+        "label": "150",
+        "platform": "0",
+        "lat": "50.699455",
+        "lon": "16.568421",
+        "order": "17"
+    },
+    {
+        "id": "297",
+        "stopId": "297",
+        name: "Osiedle Górskie",
+        "label": "297",
+        "platform": "0",
+        "lat": "50.704242",
+        "lon": "16.573859",
+        "order": "18"
+    },
+    {
+        "id": "152",
+        "stopId": "152",
+        name: "VII oddział",
+        "label": "152",
+        "platform": "0",
+        "lat": "50.695911",
+        "lon": "16.563013",
+        "order": "19"
+    },
+    {
+        "id": "154",
+        "stopId": "154",
+        name: "Pieszyce Mostek",
+        "label": "154",
+        "platform": "0",
+        "lat": "50.691255",
+        "lon": "16.554741",
+        "order": "20"
+    },
+    {
+        "id": "156",
+        "stopId": "156",
+        name: "Dolne",
+        "label": "156",
+        "platform": "0",
+        "lat": "50.686053",
+        "lon": "16.546013",
+        "order": "21"
+    },
+    {
+        "id": "158",
+        "stopId": "158",
+        name: "I",
+        "label": "158",
+        "platform": "0",
+        "lat": "50.681281",
+        "lon": "16.543455",
+        "order": "22"
+    },
+    {
+        "id": "160",
+        "stopId": "160",
+        name: "II",
+        "label": "160",
+        "platform": "0",
+        "lat": "50.676238",
+        "lon": "16.544385",
+        "order": "23"
+    },
+    {
+        "id": "162",
+        "stopId": "162",
+        name: "Kamionki III",
+        "label": "162",
+        "platform": "0",
+        "lat": "50.67231",
+        "lon": "16.542805",
+        "order": "24"
+    }
+,
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "1"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "2"
+    },
+    {
+        "id": "133",
+        "stopId": "133",
+        name: "Zajezdnia PKS",
+        "label": "133",
+        "platform": "0",
+        "lat": "50.724691",
+        "lon": "16.629685",
+        "order": "3"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "4"
+    },
+    {
+        "id": "142",
+        "stopId": "142",
+        name: "Ogrodowa",
+        "label": "142",
+        "platform": "0",
+        "lat": "50.714973",
+        "lon": "16.586993",
+        "order": "5"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "6"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "7"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "8"
+    },
+    {
+        "id": "150",
+        "stopId": "150",
+        name: "Pieszyce Sklep",
+        "label": "150",
+        "platform": "0",
+        "lat": "50.699455",
+        "lon": "16.568421",
+        "order": "9"
+    },
+    {
+        "id": "297",
+        "stopId": "297",
+        name: "Osiedle Górskie",
+        "label": "297",
+        "platform": "0",
+        "lat": "50.704242",
+        "lon": "16.573859",
+        "order": "10"
+    },
+    {
+        "id": "152",
+        "stopId": "152",
+        name: "VII oddział",
+        "label": "152",
+        "platform": "0",
+        "lat": "50.695911",
+        "lon": "16.563013",
+        "order": "11"
+    },
+    {
+        "id": "154",
+        "stopId": "154",
+        name: "Pieszyce Mostek",
+        "label": "154",
+        "platform": "0",
+        "lat": "50.691255",
+        "lon": "16.554741",
+        "order": "12"
+    }
+,
+    {
+        "id": "162",
+        "stopId": "162",
+        name: "Kamionki III",
+        "label": "162",
+        "platform": "0",
+        "lat": "50.67231",
+        "lon": "16.542805",
+        "order": "1"
+    },
+    {
+        "id": "161",
+        "stopId": "161",
+        name: "II",
+        "label": "161",
+        "platform": "0",
+        "lat": "50.676238",
+        "lon": "16.544385",
+        "order": "2"
+    },
+    {
+        "id": "159",
+        "stopId": "159",
+        name: "I",
+        "label": "159",
+        "platform": "0",
+        "lat": "50.681281",
+        "lon": "16.543455",
+        "order": "3"
+    },
+    {
+        "id": "157",
+        "stopId": "157",
+        name: "Dolne",
+        "label": "157",
+        "platform": "0",
+        "lat": "50.686041",
+        "lon": "16.546066",
+        "order": "4"
+    },
+    {
+        "id": "155",
+        "stopId": "155",
+        name: "Pieszyce Mostek",
+        "label": "155",
+        "platform": "0",
+        "lat": "50.691408",
+        "lon": "16.555272",
+        "order": "5"
+    },
+    {
+        "id": "153",
+        "stopId": "153",
+        name: "VII oddział",
+        "label": "153",
+        "platform": "0",
+        "lat": "50.695453",
+        "lon": "16.56231",
+        "order": "6"
+    },
+    {
+        "id": "296",
+        "stopId": "296",
+        name: "Osiedle Górskie",
+        "label": "296",
+        "platform": "0",
+        "lat": "50.70402",
+        "lon": "16.573817",
+        "order": "7"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "8"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "9"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "10"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "11"
+    },
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "12"
+    },
+    {
+        "id": "182",
+        "stopId": "182",
+        name: "Tkalnia",
+        "label": "182",
+        "platform": "0",
+        "lat": "50.722605",
+        "lon": "16.590325",
+        "order": "13"
+    },
+    {
+        "id": "184",
+        "stopId": "184",
+        name: "Świdnicka",
+        "label": "184",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "14"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "15"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "16"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "17"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "18"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "19"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "20"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "21"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "22"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "23"
+    }
+,
+    {
+        "id": "162",
+        "stopId": "162",
+        name: "Kamionki III",
+        "label": "162",
+        "platform": "0",
+        "lat": "50.67231",
+        "lon": "16.542805",
+        "order": "1"
+    },
+    {
+        "id": "161",
+        "stopId": "161",
+        name: "II",
+        "label": "161",
+        "platform": "0",
+        "lat": "50.676238",
+        "lon": "16.544385",
+        "order": "2"
+    },
+    {
+        "id": "159",
+        "stopId": "159",
+        name: "I",
+        "label": "159",
+        "platform": "0",
+        "lat": "50.681281",
+        "lon": "16.543455",
+        "order": "3"
+    },
+    {
+        "id": "157",
+        "stopId": "157",
+        name: "Dolne",
+        "label": "157",
+        "platform": "0",
+        "lat": "50.686041",
+        "lon": "16.546066",
+        "order": "4"
+    },
+    {
+        "id": "155",
+        "stopId": "155",
+        name: "Pieszyce Mostek",
+        "label": "155",
+        "platform": "0",
+        "lat": "50.691408",
+        "lon": "16.555272",
+        "order": "5"
+    },
+    {
+        "id": "153",
+        "stopId": "153",
+        name: "VII oddział",
+        "label": "153",
+        "platform": "0",
+        "lat": "50.695453",
+        "lon": "16.56231",
+        "order": "6"
+    },
+    {
+        "id": "296",
+        "stopId": "296",
+        name: "Osiedle Górskie",
+        "label": "296",
+        "platform": "0",
+        "lat": "50.70402",
+        "lon": "16.573817",
+        "order": "7"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "8"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "9"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "10"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "11"
+    },
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "12"
+    },
+    {
+        "id": "182",
+        "stopId": "182",
+        name: "Tkalnia",
+        "label": "182",
+        "platform": "0",
+        "lat": "50.722605",
+        "lon": "16.590325",
+        "order": "13"
+    },
+    {
+        "id": "184",
+        "stopId": "184",
+        name: "Świdnicka",
+        "label": "184",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "14"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "15"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "16"
+    }
+,
+    {
+        "id": "162",
+        "stopId": "162",
+        name: "Kamionki III",
+        "label": "162",
+        "platform": "0",
+        "lat": "50.67231",
+        "lon": "16.542805",
+        "order": "1"
+    },
+    {
+        "id": "161",
+        "stopId": "161",
+        name: "II",
+        "label": "161",
+        "platform": "0",
+        "lat": "50.676238",
+        "lon": "16.544385",
+        "order": "2"
+    },
+    {
+        "id": "159",
+        "stopId": "159",
+        name: "I",
+        "label": "159",
+        "platform": "0",
+        "lat": "50.681281",
+        "lon": "16.543455",
+        "order": "3"
+    },
+    {
+        "id": "157",
+        "stopId": "157",
+        name: "Dolne",
+        "label": "157",
+        "platform": "0",
+        "lat": "50.686041",
+        "lon": "16.546066",
+        "order": "4"
+    },
+    {
+        "id": "155",
+        "stopId": "155",
+        name: "Pieszyce Mostek",
+        "label": "155",
+        "platform": "0",
+        "lat": "50.691408",
+        "lon": "16.555272",
+        "order": "5"
+    },
+    {
+        "id": "153",
+        "stopId": "153",
+        name: "VII oddział",
+        "label": "153",
+        "platform": "0",
+        "lat": "50.695453",
+        "lon": "16.56231",
+        "order": "6"
+    },
+    {
+        "id": "296",
+        "stopId": "296",
+        name: "Osiedle Górskie",
+        "label": "296",
+        "platform": "0",
+        "lat": "50.70402",
+        "lon": "16.573817",
+        "order": "7"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "8"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "9"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "10"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "11"
+    },
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "12"
+    },
+    {
+        "id": "182",
+        "stopId": "182",
+        name: "Tkalnia",
+        "label": "182",
+        "platform": "0",
+        "lat": "50.722605",
+        "lon": "16.590325",
+        "order": "13"
+    },
+    {
+        "id": "184",
+        "stopId": "184",
+        name: "Świdnicka",
+        "label": "184",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "14"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "15"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "16"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "17"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "18"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "19"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "20"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "21"
+    },
+    {
+        "id": "68",
+        "stopId": "68",
+        name: "Batalionów Chłopskich",
+        "label": "68",
+        "platform": "0",
+        "lat": "50.719951",
+        "lon": "16.650228",
+        "order": "22"
+    }
+,
+    {
+        "id": "162",
+        "stopId": "162",
+        name: "Kamionki III",
+        "label": "162",
+        "platform": "0",
+        "lat": "50.67231",
+        "lon": "16.542805",
+        "order": "1"
+    },
+    {
+        "id": "161",
+        "stopId": "161",
+        name: "II",
+        "label": "161",
+        "platform": "0",
+        "lat": "50.676238",
+        "lon": "16.544385",
+        "order": "2"
+    },
+    {
+        "id": "159",
+        "stopId": "159",
+        name: "I",
+        "label": "159",
+        "platform": "0",
+        "lat": "50.681281",
+        "lon": "16.543455",
+        "order": "3"
+    },
+    {
+        "id": "157",
+        "stopId": "157",
+        name: "Dolne",
+        "label": "157",
+        "platform": "0",
+        "lat": "50.686041",
+        "lon": "16.546066",
+        "order": "4"
+    },
+    {
+        "id": "155",
+        "stopId": "155",
+        name: "Pieszyce Mostek",
+        "label": "155",
+        "platform": "0",
+        "lat": "50.691408",
+        "lon": "16.555272",
+        "order": "5"
+    },
+    {
+        "id": "153",
+        "stopId": "153",
+        name: "VII oddział",
+        "label": "153",
+        "platform": "0",
+        "lat": "50.695453",
+        "lon": "16.56231",
+        "order": "6"
+    },
+    {
+        "id": "296",
+        "stopId": "296",
+        name: "Osiedle Górskie",
+        "label": "296",
+        "platform": "0",
+        "lat": "50.70402",
+        "lon": "16.573817",
+        "order": "7"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "8"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "9"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "10"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "11"
+    },
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "12"
+    },
+    {
+        "id": "182",
+        "stopId": "182",
+        name: "Tkalnia",
+        "label": "182",
+        "platform": "0",
+        "lat": "50.722605",
+        "lon": "16.590325",
+        "order": "13"
+    },
+    {
+        "id": "184",
+        "stopId": "184",
+        name: "Świdnicka",
+        "label": "184",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "14"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "15"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "16"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "17"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "18"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "19"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "20"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "21"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "22"
+    }
+,
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "1"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "2"
+    },
+    {
+        "id": "85",
+        "stopId": "85",
+        name: "Dzierżoniów DT.Ślązak",
+        "label": "85",
+        "platform": "0",
+        "lat": "50.72577",
+        "lon": "16.645711",
+        "order": "3"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "4"
+    },
+    {
+        "id": "133",
+        "stopId": "133",
+        name: "Zajezdnia PKS",
+        "label": "133",
+        "platform": "0",
+        "lat": "50.724691",
+        "lon": "16.629685",
+        "order": "5"
+    },
+    {
+        "id": "187",
+        "stopId": "187",
+        name: "Dolne",
+        "label": "187",
+        "platform": "0",
+        "lat": "50.725423",
+        "lon": "16.596171",
+        "order": "6"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "7"
+    },
+    {
+        "id": "163",
+        "stopId": "163",
+        name: "Pieszyce Bielawska",
+        "label": "163",
+        "platform": "0",
+        "lat": "50.715765",
+        "lon": "16.587015",
+        "order": "8"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "9"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "10"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "11"
+    },
+    {
+        "id": "150",
+        "stopId": "150",
+        name: "Pieszyce Sklep",
+        "label": "150",
+        "platform": "0",
+        "lat": "50.699455",
+        "lon": "16.568421",
+        "order": "12"
+    },
+    {
+        "id": "297",
+        "stopId": "297",
+        name: "Osiedle Górskie",
+        "label": "297",
+        "platform": "0",
+        "lat": "50.704242",
+        "lon": "16.573859",
+        "order": "13"
+    },
+    {
+        "id": "152",
+        "stopId": "152",
+        name: "VII oddział",
+        "label": "152",
+        "platform": "0",
+        "lat": "50.695911",
+        "lon": "16.563013",
+        "order": "14"
+    },
+    {
+        "id": "154",
+        "stopId": "154",
+        name: "Pieszyce Mostek",
+        "label": "154",
+        "platform": "0",
+        "lat": "50.691255",
+        "lon": "16.554741",
+        "order": "15"
+    }
+,
+    {
+        "id": "162",
+        "stopId": "162",
+        name: "Kamionki III",
+        "label": "162",
+        "platform": "0",
+        "lat": "50.67231",
+        "lon": "16.542805",
+        "order": "1"
+    },
+    {
+        "id": "161",
+        "stopId": "161",
+        name: "II",
+        "label": "161",
+        "platform": "0",
+        "lat": "50.676238",
+        "lon": "16.544385",
+        "order": "2"
+    },
+    {
+        "id": "159",
+        "stopId": "159",
+        name: "I",
+        "label": "159",
+        "platform": "0",
+        "lat": "50.681281",
+        "lon": "16.543455",
+        "order": "3"
+    },
+    {
+        "id": "157",
+        "stopId": "157",
+        name: "Dolne",
+        "label": "157",
+        "platform": "0",
+        "lat": "50.686041",
+        "lon": "16.546066",
+        "order": "4"
+    },
+    {
+        "id": "155",
+        "stopId": "155",
+        name: "Pieszyce Mostek",
+        "label": "155",
+        "platform": "0",
+        "lat": "50.691408",
+        "lon": "16.555272",
+        "order": "5"
+    },
+    {
+        "id": "153",
+        "stopId": "153",
+        name: "VII oddział",
+        "label": "153",
+        "platform": "0",
+        "lat": "50.695453",
+        "lon": "16.56231",
+        "order": "6"
+    },
+    {
+        "id": "296",
+        "stopId": "296",
+        name: "Osiedle Górskie",
+        "label": "296",
+        "platform": "0",
+        "lat": "50.70402",
+        "lon": "16.573817",
+        "order": "7"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "8"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "9"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "10"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "11"
+    },
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "12"
+    },
+    {
+        "id": "182",
+        "stopId": "182",
+        name: "Tkalnia",
+        "label": "182",
+        "platform": "0",
+        "lat": "50.722605",
+        "lon": "16.590325",
+        "order": "13"
+    },
+    {
+        "id": "184",
+        "stopId": "184",
+        name: "Świdnicka",
+        "label": "184",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "14"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "15"
+    },
+    {
+        "id": "123",
+        "stopId": "123",
+        name: "Dzierżoniów Strefa Metzeler",
+        "label": "123",
+        "platform": "0",
+        "lat": "50.726863",
+        "lon": "16.63007",
+        "order": "16"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "17"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "18"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "19"
+    },
+    {
+        "id": "304",
+        "stopId": "304",
+        name: "Strefowa II",
+        "label": "304",
+        "platform": "0",
+        "lat": "50.74151494702591",
+        "lon": "16.612750967358807",
+        "order": "20"
+    },
+    {
+        "id": "128",
+        "stopId": "128",
+        name: "Dzierżoniów  ul.Strefowa",
+        "label": "128",
+        "platform": "0",
+        "lat": "50.731993",
+        "lon": "16.622788",
+        "order": "21"
+    },
+    {
+        "id": "122",
+        "stopId": "122",
+        name: "Strefa Ekonomiczna",
+        "label": "122",
+        "platform": "0",
+        "lat": "50.729376",
+        "lon": "16.630026",
+        "order": "22"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "23"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "24"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "25"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "26"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "27"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "28"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "29"
+    }
+,
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "1"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "2"
+    },
+    {
+        "id": "85",
+        "stopId": "85",
+        name: "Dzierżoniów DT.Ślązak",
+        "label": "85",
+        "platform": "0",
+        "lat": "50.72577",
+        "lon": "16.645711",
+        "order": "3"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "4"
+    },
+    {
+        "id": "133",
+        "stopId": "133",
+        name: "Zajezdnia PKS",
+        "label": "133",
+        "platform": "0",
+        "lat": "50.724691",
+        "lon": "16.629685",
+        "order": "5"
+    },
+    {
+        "id": "187",
+        "stopId": "187",
+        name: "Dolne",
+        "label": "187",
+        "platform": "0",
+        "lat": "50.725423",
+        "lon": "16.596171",
+        "order": "6"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "7"
+    },
+    {
+        "id": "163",
+        "stopId": "163",
+        name: "Pieszyce Bielawska",
+        "label": "163",
+        "platform": "0",
+        "lat": "50.715765",
+        "lon": "16.587015",
+        "order": "8"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "9"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "10"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "11"
+    },
+    {
+        "id": "150",
+        "stopId": "150",
+        name: "Pieszyce Sklep",
+        "label": "150",
+        "platform": "0",
+        "lat": "50.699455",
+        "lon": "16.568421",
+        "order": "12"
+    },
+    {
+        "id": "297",
+        "stopId": "297",
+        name: "Osiedle Górskie",
+        "label": "297",
+        "platform": "0",
+        "lat": "50.704242",
+        "lon": "16.573859",
+        "order": "13"
+    },
+    {
+        "id": "152",
+        "stopId": "152",
+        name: "VII oddział",
+        "label": "152",
+        "platform": "0",
+        "lat": "50.695911",
+        "lon": "16.563013",
+        "order": "14"
+    },
+    {
+        "id": "154",
+        "stopId": "154",
+        name: "Pieszyce Mostek",
+        "label": "154",
+        "platform": "0",
+        "lat": "50.691255",
+        "lon": "16.554741",
+        "order": "15"
+    },
+    {
+        "id": "156",
+        "stopId": "156",
+        name: "Dolne",
+        "label": "156",
+        "platform": "0",
+        "lat": "50.686053",
+        "lon": "16.546013",
+        "order": "16"
+    },
+    {
+        "id": "158",
+        "stopId": "158",
+        name: "I",
+        "label": "158",
+        "platform": "0",
+        "lat": "50.681281",
+        "lon": "16.543455",
+        "order": "17"
+    },
+    {
+        "id": "160",
+        "stopId": "160",
+        name: "II",
+        "label": "160",
+        "platform": "0",
+        "lat": "50.676238",
+        "lon": "16.544385",
+        "order": "18"
+    },
+    {
+        "id": "162",
+        "stopId": "162",
+        name: "Kamionki III",
+        "label": "162",
+        "platform": "0",
+        "lat": "50.67231",
+        "lon": "16.542805",
+        "order": "19"
+    }
+,
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "1"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "2"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "3"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "4"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "5"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "6"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "7"
+    },
+    {
+        "id": "85",
+        "stopId": "85",
+        name: "Dzierżoniów DT.Ślązak",
+        "label": "85",
+        "platform": "0",
+        "lat": "50.72577",
+        "lon": "16.645711",
+        "order": "8"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "9"
+    },
+    {
+        "id": "133",
+        "stopId": "133",
+        name: "Zajezdnia PKS",
+        "label": "133",
+        "platform": "0",
+        "lat": "50.724691",
+        "lon": "16.629685",
+        "order": "10"
+    },
+    {
+        "id": "187",
+        "stopId": "187",
+        name: "Dolne",
+        "label": "187",
+        "platform": "0",
+        "lat": "50.725423",
+        "lon": "16.596171",
+        "order": "11"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "12"
+    },
+    {
+        "id": "163",
+        "stopId": "163",
+        name: "Pieszyce Bielawska",
+        "label": "163",
+        "platform": "0",
+        "lat": "50.715765",
+        "lon": "16.587015",
+        "order": "13"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "14"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "15"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "16"
+    },
+    {
+        "id": "150",
+        "stopId": "150",
+        name: "Pieszyce Sklep",
+        "label": "150",
+        "platform": "0",
+        "lat": "50.699455",
+        "lon": "16.568421",
+        "order": "17"
+    },
+    {
+        "id": "297",
+        "stopId": "297",
+        name: "Osiedle Górskie",
+        "label": "297",
+        "platform": "0",
+        "lat": "50.704242",
+        "lon": "16.573859",
+        "order": "18"
+    },
+    {
+        "id": "152",
+        "stopId": "152",
+        name: "VII oddział",
+        "label": "152",
+        "platform": "0",
+        "lat": "50.695911",
+        "lon": "16.563013",
+        "order": "19"
+    },
+    {
+        "id": "154",
+        "stopId": "154",
+        name: "Pieszyce Mostek",
+        "label": "154",
+        "platform": "0",
+        "lat": "50.691255",
+        "lon": "16.554741",
+        "order": "20"
+    },
+    {
+        "id": "156",
+        "stopId": "156",
+        name: "Dolne",
+        "label": "156",
+        "platform": "0",
+        "lat": "50.686053",
+        "lon": "16.546013",
+        "order": "21"
+    },
+    {
+        "id": "158",
+        "stopId": "158",
+        name: "I",
+        "label": "158",
+        "platform": "0",
+        "lat": "50.681281",
+        "lon": "16.543455",
+        "order": "22"
+    },
+    {
+        "id": "160",
+        "stopId": "160",
+        name: "II",
+        "label": "160",
+        "platform": "0",
+        "lat": "50.676238",
+        "lon": "16.544385",
+        "order": "23"
+    },
+    {
+        "id": "162",
+        "stopId": "162",
+        name: "Kamionki III",
+        "label": "162",
+        "platform": "0",
+        "lat": "50.67231",
+        "lon": "16.542805",
+        "order": "24"
+    }
+,
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "1"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "2"
+    },
+    {
+        "id": "123",
+        "stopId": "123",
+        name: "Dzierżoniów Strefa Metzeler",
+        "label": "123",
+        "platform": "0",
+        "lat": "50.726863",
+        "lon": "16.63007",
+        "order": "3"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "4"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "5"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "6"
+    },
+    {
+        "id": "129",
+        "stopId": "129",
+        name: "PIESZYCE - DZIERŻONIÓW)",
+        "label": "129",
+        "platform": "0",
+        "lat": "50.74231",
+        "lon": "16.612508",
+        "order": "7"
+    },
+    {
+        "id": "186",
+        "stopId": "186",
+        name: "Kółko Rolnicze",
+        "label": "186",
+        "platform": "0",
+        "lat": "50.732913",
+        "lon": "16.605728",
+        "order": "8"
+    },
+    {
+        "id": "185",
+        "stopId": "185",
+        name: "Szkoła",
+        "label": "185",
+        "platform": "0",
+        "lat": "50.726313",
+        "lon": "16.596456",
+        "order": "9"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "10"
+    },
+    {
+        "id": "163",
+        "stopId": "163",
+        name: "Pieszyce Bielawska",
+        "label": "163",
+        "platform": "0",
+        "lat": "50.715765",
+        "lon": "16.587015",
+        "order": "11"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "12"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "13"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "14"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "15"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "16"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "17"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "18"
+    }
+,
+    {
+        "id": "155",
+        "stopId": "155",
+        name: "Pieszyce Mostek",
+        "label": "155",
+        "platform": "0",
+        "lat": "50.691408",
+        "lon": "16.555272",
+        "order": "1"
+    },
+    {
+        "id": "153",
+        "stopId": "153",
+        name: "VII oddział",
+        "label": "153",
+        "platform": "0",
+        "lat": "50.695453",
+        "lon": "16.56231",
+        "order": "2"
+    },
+    {
+        "id": "296",
+        "stopId": "296",
+        name: "Osiedle Górskie",
+        "label": "296",
+        "platform": "0",
+        "lat": "50.70402",
+        "lon": "16.573817",
+        "order": "3"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "4"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "5"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "6"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "7"
+    },
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "8"
+    },
+    {
+        "id": "182",
+        "stopId": "182",
+        name: "Tkalnia",
+        "label": "182",
+        "platform": "0",
+        "lat": "50.722605",
+        "lon": "16.590325",
+        "order": "9"
+    },
+    {
+        "id": "184",
+        "stopId": "184",
+        name: "Świdnicka",
+        "label": "184",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "10"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "11"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "12"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "13"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "14"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "15"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "16"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "17"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "18"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "19"
+    }
+,
+    {
+        "id": "155",
+        "stopId": "155",
+        name: "Pieszyce Mostek",
+        "label": "155",
+        "platform": "0",
+        "lat": "50.691408",
+        "lon": "16.555272",
+        "order": "1"
+    },
+    {
+        "id": "153",
+        "stopId": "153",
+        name: "VII oddział",
+        "label": "153",
+        "platform": "0",
+        "lat": "50.695453",
+        "lon": "16.56231",
+        "order": "2"
+    },
+    {
+        "id": "296",
+        "stopId": "296",
+        name: "Osiedle Górskie",
+        "label": "296",
+        "platform": "0",
+        "lat": "50.70402",
+        "lon": "16.573817",
+        "order": "3"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "4"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "5"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "6"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "7"
+    },
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "8"
+    },
+    {
+        "id": "182",
+        "stopId": "182",
+        name: "Tkalnia",
+        "label": "182",
+        "platform": "0",
+        "lat": "50.722605",
+        "lon": "16.590325",
+        "order": "9"
+    },
+    {
+        "id": "184",
+        "stopId": "184",
+        name: "Świdnicka",
+        "label": "184",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "10"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "11"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "12"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "13"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "14"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "15"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "16"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "17"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "18"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "19"
+    }
+,
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "1"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "2"
+    },
+    {
+        "id": "123",
+        "stopId": "123",
+        name: "Dzierżoniów Strefa Metzeler",
+        "label": "123",
+        "platform": "0",
+        "lat": "50.726863",
+        "lon": "16.63007",
+        "order": "3"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "4"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "5"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "6"
+    },
+    {
+        "id": "129",
+        "stopId": "129",
+        name: "PIESZYCE - DZIERŻONIÓW)",
+        "label": "129",
+        "platform": "0",
+        "lat": "50.74231",
+        "lon": "16.612508",
+        "order": "7"
+    },
+    {
+        "id": "186",
+        "stopId": "186",
+        name: "Kółko Rolnicze",
+        "label": "186",
+        "platform": "0",
+        "lat": "50.732913",
+        "lon": "16.605728",
+        "order": "8"
+    },
+    {
+        "id": "185",
+        "stopId": "185",
+        name: "Szkoła",
+        "label": "185",
+        "platform": "0",
+        "lat": "50.726313",
+        "lon": "16.596456",
+        "order": "9"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "10"
+    },
+    {
+        "id": "163",
+        "stopId": "163",
+        name: "Pieszyce Bielawska",
+        "label": "163",
+        "platform": "0",
+        "lat": "50.715765",
+        "lon": "16.587015",
+        "order": "11"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "12"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "13"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "14"
+    },
+    {
+        "id": "150",
+        "stopId": "150",
+        name: "Pieszyce Sklep",
+        "label": "150",
+        "platform": "0",
+        "lat": "50.699455",
+        "lon": "16.568421",
+        "order": "15"
+    },
+    {
+        "id": "297",
+        "stopId": "297",
+        name: "Osiedle Górskie",
+        "label": "297",
+        "platform": "0",
+        "lat": "50.704242",
+        "lon": "16.573859",
+        "order": "16"
+    },
+    {
+        "id": "152",
+        "stopId": "152",
+        name: "VII oddział",
+        "label": "152",
+        "platform": "0",
+        "lat": "50.695911",
+        "lon": "16.563013",
+        "order": "17"
+    },
+    {
+        "id": "154",
+        "stopId": "154",
+        name: "Pieszyce Mostek",
+        "label": "154",
+        "platform": "0",
+        "lat": "50.691255",
+        "lon": "16.554741",
+        "order": "18"
+    },
+    {
+        "id": "156",
+        "stopId": "156",
+        name: "Dolne",
+        "label": "156",
+        "platform": "0",
+        "lat": "50.686053",
+        "lon": "16.546013",
+        "order": "19"
+    },
+    {
+        "id": "158",
+        "stopId": "158",
+        name: "I",
+        "label": "158",
+        "platform": "0",
+        "lat": "50.681281",
+        "lon": "16.543455",
+        "order": "20"
+    },
+    {
+        "id": "160",
+        "stopId": "160",
+        name: "II",
+        "label": "160",
+        "platform": "0",
+        "lat": "50.676238",
+        "lon": "16.544385",
+        "order": "21"
+    },
+    {
+        "id": "162",
+        "stopId": "162",
+        name: "Kamionki III",
+        "label": "162",
+        "platform": "0",
+        "lat": "50.67231",
+        "lon": "16.542805",
+        "order": "22"
+    }
+,
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "1"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "2"
+    },
+    {
+        "id": "123",
+        "stopId": "123",
+        name: "Dzierżoniów Strefa Metzeler",
+        "label": "123",
+        "platform": "0",
+        "lat": "50.726863",
+        "lon": "16.63007",
+        "order": "3"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "4"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "5"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "6"
+    },
+    {
+        "id": "129",
+        "stopId": "129",
+        name: "PIESZYCE - DZIERŻONIÓW)",
+        "label": "129",
+        "platform": "0",
+        "lat": "50.74231",
+        "lon": "16.612508",
+        "order": "7"
+    },
+    {
+        "id": "186",
+        "stopId": "186",
+        name: "Kółko Rolnicze",
+        "label": "186",
+        "platform": "0",
+        "lat": "50.732913",
+        "lon": "16.605728",
+        "order": "8"
+    },
+    {
+        "id": "185",
+        "stopId": "185",
+        name: "Szkoła",
+        "label": "185",
+        "platform": "0",
+        "lat": "50.726313",
+        "lon": "16.596456",
+        "order": "9"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "10"
+    },
+    {
+        "id": "163",
+        "stopId": "163",
+        name: "Pieszyce Bielawska",
+        "label": "163",
+        "platform": "0",
+        "lat": "50.715765",
+        "lon": "16.587015",
+        "order": "11"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "12"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "13"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "14"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "15"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "16"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "17"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "18"
+    }
+,
+    {
+        "id": "162",
+        "stopId": "162",
+        name: "Kamionki III",
+        "label": "162",
+        "platform": "0",
+        "lat": "50.67231",
+        "lon": "16.542805",
+        "order": "1"
+    },
+    {
+        "id": "161",
+        "stopId": "161",
+        name: "II",
+        "label": "161",
+        "platform": "0",
+        "lat": "50.676238",
+        "lon": "16.544385",
+        "order": "2"
+    },
+    {
+        "id": "159",
+        "stopId": "159",
+        name: "I",
+        "label": "159",
+        "platform": "0",
+        "lat": "50.681281",
+        "lon": "16.543455",
+        "order": "3"
+    },
+    {
+        "id": "157",
+        "stopId": "157",
+        name: "Dolne",
+        "label": "157",
+        "platform": "0",
+        "lat": "50.686041",
+        "lon": "16.546066",
+        "order": "4"
+    },
+    {
+        "id": "155",
+        "stopId": "155",
+        name: "Pieszyce Mostek",
+        "label": "155",
+        "platform": "0",
+        "lat": "50.691408",
+        "lon": "16.555272",
+        "order": "5"
+    },
+    {
+        "id": "153",
+        "stopId": "153",
+        name: "VII oddział",
+        "label": "153",
+        "platform": "0",
+        "lat": "50.695453",
+        "lon": "16.56231",
+        "order": "6"
+    },
+    {
+        "id": "296",
+        "stopId": "296",
+        name: "Osiedle Górskie",
+        "label": "296",
+        "platform": "0",
+        "lat": "50.70402",
+        "lon": "16.573817",
+        "order": "7"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "8"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "9"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "10"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "11"
+    },
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "12"
+    },
+    {
+        "id": "182",
+        "stopId": "182",
+        name: "Tkalnia",
+        "label": "182",
+        "platform": "0",
+        "lat": "50.722605",
+        "lon": "16.590325",
+        "order": "13"
+    },
+    {
+        "id": "184",
+        "stopId": "184",
+        name: "Świdnicka",
+        "label": "184",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "14"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "15"
+    },
+    {
+        "id": "123",
+        "stopId": "123",
+        name: "Dzierżoniów Strefa Metzeler",
+        "label": "123",
+        "platform": "0",
+        "lat": "50.726863",
+        "lon": "16.63007",
+        "order": "16"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "17"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "18"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "19"
+    },
+    {
+        "id": "304",
+        "stopId": "304",
+        name: "Strefowa II",
+        "label": "304",
+        "platform": "0",
+        "lat": "50.74151494702591",
+        "lon": "16.612750967358807",
+        "order": "20"
+    },
+    {
+        "id": "128",
+        "stopId": "128",
+        name: "Dzierżoniów  ul.Strefowa",
+        "label": "128",
+        "platform": "0",
+        "lat": "50.731993",
+        "lon": "16.622788",
+        "order": "21"
+    },
+    {
+        "id": "122",
+        "stopId": "122",
+        name: "Strefa Ekonomiczna",
+        "label": "122",
+        "platform": "0",
+        "lat": "50.729376",
+        "lon": "16.630026",
+        "order": "22"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "23"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "24"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "25"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "26"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "27"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "28"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "29"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "30"
+    }
+]

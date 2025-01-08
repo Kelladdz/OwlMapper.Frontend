@@ -1,0 +1,16 @@
+.cancel-modal-btn,
+.delete-modal-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 7rem;
+    height: 2.5rem;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #D4D4D4;
+    font-size: 1rem;
+}
+.delete-modal-btn {
+    color: red;
+}

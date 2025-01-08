@@ -1,0 +1,229 @@
+.container {
+    height: 34rem;
+    animation: show-list .2s cubic-bezier(.39,.65,0,.99);
+    margin: 1rem 1rem 0.5rem 1rem;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.collapsed {
+    animation: hide-list .2s cubic-bezier(.39,.65,0,.99);
+    height: 0rem;
+}
+
+.label {
+    height: 2rem;
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.06rem;
+    margin-bottom: 1rem;
+}
+
+.line-box {
+    width: 6rem;
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 100%;
+    display: flex;
+    position: relative;
+}
+
+.variant-box:first-of-type .line-box {
+    align-items: end;
+}
+
+.variant-box:last-of-type .line-box {
+    align-items: start;
+}
+
+.variant-box:first-of-type .line-box .line,
+.variant-box:last-of-type .line-box .line {
+    height: 50%;
+}
+
+.line {
+    width: 1rem;
+    color: #fff;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-weight: 700;
+    letter-spacing: -0.06rem;
+    color: white;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.lines-label {
+    color: white;
+    font-size: 0.75rem;
+    font-weight: 700;
+}
+
+.lines-btns {
+    display: flex;
+    gap: 0.25rem;
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+}
+
+.line-btn, .active-line-btn {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.line-btn {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.active-line-btn {
+    background-color: rgba(200, 200, 200, 0.2);
+}
+
+.destination {
+    font-size: 1rem;
+    font-weight: 700;
+    color: white;
+    letter-spacing: -0.06rem;
+    margin-left: 0.5rem;
+    max-width: 9rem;
+}
+
+.remaining {
+    font-weight: 700;
+    color: white;
+    letter-spacing: -0.06rem;
+}
+
+.time {
+    color: white;
+    font-size: 1rem;
+}
+
+.list {
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 21.5rem;
+    overflow-y: auto;
+    overflow-x: hidden;
+    border-radius: 10px;
+}
+
+.list::-webkit-scrollbar {
+	width: .5rem;
+}
+
+.list::-webkit-scrollbar-track{ 
+    border-radius: 30px;
+	background-color: #194e7c;
+	width: .4rem;
+}
+
+.list::-webkit-scrollbar-thumb {
+	background-color:#fff;
+	border-radius: 30px;
+	width: .4rem;
+} 
+
+.departure-box {
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding-inline: 0.5rem;
+    position: relative;
+    animation: show-departure-box .2s cubic-bezier(.39,.65,0,.99);
+    cursor: pointer;
+}
+
+.l-side, .r-side {
+    display: flex;
+    align-items: center;
+}
+
+.r-side {
+    gap: 0.5rem;
+    margin-right: 1rem;
+    position: absolute;
+    right: 0.5rem;
+}
+
+
+.departure-box:hover,
+.line-btn:hover,
+.active-line-btn {
+    background-color: rgba(200, 200, 200, 0.2);
+}
+
+.route {
+    font-weight: 700;
+    letter-spacing: -0.06rem;
+    color: white;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    width: 100%;
+}
+
+.btns {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    margin-top: 1.5rem;
+    width: 100%;
+}
+
+.btn {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 12rem;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@keyframes show-list {
+    from {
+        height: 0rem;
+    }
+    to {
+        height: 34rem;
+    }
+}
+
+@keyframes hide-list {
+    from {
+        height: 34rem;
+    }
+    to {
+        height: 0rem;
+    }
+}
+
+@keyframes show-departure-box {
+    from {
+        height: 0rem;
+    }
+    to {
+        height: 3rem;
+    }
+}

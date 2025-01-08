@@ -1,0 +1,2026 @@
+[
+    {
+        "id": "155",
+        "stopId": "155",
+        name: "Pieszyce Mostek",
+        "label": "155",
+        "platform": "0",
+        "lat": "50.691408",
+        "lon": "16.555272",
+        "order": "1"
+    },
+    {
+        "id": "153",
+        "stopId": "153",
+        name: "VII oddział",
+        "label": "153",
+        "platform": "0",
+        "lat": "50.695453",
+        "lon": "16.56231",
+        "order": "2"
+    },
+    {
+        "id": "296",
+        "stopId": "296",
+        name: "Osiedle Górskie",
+        "label": "296",
+        "platform": "0",
+        "lat": "50.70402",
+        "lon": "16.573817",
+        "order": "3"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "4"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "5"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "6"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "7"
+    },
+    {
+        "id": "143",
+        "stopId": "143",
+        name: "Ogrodowa",
+        "label": "143",
+        "platform": "0",
+        "lat": "50.7149",
+        "lon": "16.587008",
+        "order": "8"
+    },
+    {
+        "id": "62",
+        "stopId": "62",
+        name: "Ogródki działkowe",
+        "label": "62",
+        "platform": "0",
+        "lat": "50.694913",
+        "lon": "16.614988",
+        "order": "9"
+    },
+    {
+        "id": "56",
+        "stopId": "56",
+        name: "Bohaterów Getta",
+        "label": "56",
+        "platform": "0",
+        "lat": "50.692756",
+        "lon": "16.619108",
+        "order": "10"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "11"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "12"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "13"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "14"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "15"
+    },
+    {
+        "id": "306",
+        "stopId": "306",
+        name: "Stacja Bielawa Zachodnia",
+        "label": "306",
+        "platform": "0",
+        "lat": "0.0",
+        "lon": "0.0",
+        "order": "16"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "17"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "18"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "19"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "20"
+    }
+,
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "1"
+    },
+    {
+        "id": "142",
+        "stopId": "142",
+        name: "Ogrodowa",
+        "label": "142",
+        "platform": "0",
+        "lat": "50.714973",
+        "lon": "16.586993",
+        "order": "2"
+    }
+,
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "1"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "2"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "3"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "4"
+    },
+    {
+        "id": "143",
+        "stopId": "143",
+        name: "Ogrodowa",
+        "label": "143",
+        "platform": "0",
+        "lat": "50.7149",
+        "lon": "16.587008",
+        "order": "5"
+    },
+    {
+        "id": "62",
+        "stopId": "62",
+        name: "Ogródki działkowe",
+        "label": "62",
+        "platform": "0",
+        "lat": "50.694913",
+        "lon": "16.614988",
+        "order": "6"
+    },
+    {
+        "id": "56",
+        "stopId": "56",
+        name: "Bohaterów Getta",
+        "label": "56",
+        "platform": "0",
+        "lat": "50.692756",
+        "lon": "16.619108",
+        "order": "7"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "8"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "9"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "10"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "11"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "12"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "13"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "14"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "15"
+    },
+    {
+        "id": "14",
+        "stopId": "14",
+        name: "Kasztanowa",
+        "label": "14",
+        "platform": "0",
+        "lat": "50.674175",
+        "lon": "16.5981",
+        "order": "16"
+    },
+    {
+        "id": "12",
+        "stopId": "12",
+        name: "Os. Białe",
+        "label": "12",
+        "platform": "0",
+        "lat": "50.673498",
+        "lon": "16.596043",
+        "order": "17"
+    },
+    {
+        "id": "11",
+        "stopId": "11",
+        name: "Bielawa Słowiańska",
+        "label": "11",
+        "platform": "0",
+        "lat": "50.669325",
+        "lon": "16.599905",
+        "order": "18"
+    }
+,
+    {
+        "id": "11",
+        "stopId": "11",
+        name: "Bielawa Słowiańska",
+        "label": "11",
+        "platform": "0",
+        "lat": "50.669325",
+        "lon": "16.599905",
+        "order": "1"
+    },
+    {
+        "id": "10",
+        "stopId": "10",
+        name: "Waryńskiego (Bieltex V)",
+        "label": "10",
+        "platform": "0",
+        "lat": "50.669593",
+        "lon": "16.603583",
+        "order": "2"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "3"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "4"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "5"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "6"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "7"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "8"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "9"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "10"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "11"
+    },
+    {
+        "id": "57",
+        "stopId": "57",
+        name: "Bohaterów Getta",
+        "label": "57",
+        "platform": "0",
+        "lat": "50.692821",
+        "lon": "16.619126",
+        "order": "12"
+    },
+    {
+        "id": "63",
+        "stopId": "63",
+        name: "Ogródki działkowe",
+        "label": "63",
+        "platform": "0",
+        "lat": "50.695511",
+        "lon": "16.613898",
+        "order": "13"
+    },
+    {
+        "id": "142",
+        "stopId": "142",
+        name: "Ogrodowa",
+        "label": "142",
+        "platform": "0",
+        "lat": "50.714973",
+        "lon": "16.586993",
+        "order": "14"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "15"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "16"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "17"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "18"
+    }
+,
+    {
+        "id": "155",
+        "stopId": "155",
+        name: "Pieszyce Mostek",
+        "label": "155",
+        "platform": "0",
+        "lat": "50.691408",
+        "lon": "16.555272",
+        "order": "1"
+    },
+    {
+        "id": "153",
+        "stopId": "153",
+        name: "VII oddział",
+        "label": "153",
+        "platform": "0",
+        "lat": "50.695453",
+        "lon": "16.56231",
+        "order": "2"
+    },
+    {
+        "id": "296",
+        "stopId": "296",
+        name: "Osiedle Górskie",
+        "label": "296",
+        "platform": "0",
+        "lat": "50.70402",
+        "lon": "16.573817",
+        "order": "3"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "4"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "5"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "6"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "7"
+    },
+    {
+        "id": "143",
+        "stopId": "143",
+        name: "Ogrodowa",
+        "label": "143",
+        "platform": "0",
+        "lat": "50.7149",
+        "lon": "16.587008",
+        "order": "8"
+    },
+    {
+        "id": "62",
+        "stopId": "62",
+        name: "Ogródki działkowe",
+        "label": "62",
+        "platform": "0",
+        "lat": "50.694913",
+        "lon": "16.614988",
+        "order": "9"
+    },
+    {
+        "id": "56",
+        "stopId": "56",
+        name: "Bohaterów Getta",
+        "label": "56",
+        "platform": "0",
+        "lat": "50.692756",
+        "lon": "16.619108",
+        "order": "10"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "11"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "12"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "13"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "14"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "15"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "16"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "17"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "18"
+    },
+    {
+        "id": "14",
+        "stopId": "14",
+        name: "Kasztanowa",
+        "label": "14",
+        "platform": "0",
+        "lat": "50.674175",
+        "lon": "16.5981",
+        "order": "19"
+    },
+    {
+        "id": "13",
+        "stopId": "13",
+        name: "Bielawa Camping Sudety",
+        "label": "13",
+        "platform": "0",
+        "lat": "50.677798",
+        "lon": "16.590336",
+        "order": "20"
+    }
+,
+    {
+        "id": "Zajezdn",
+        "stopId": "Zajezdn",
+        name: "Zajezdnia Kłosok",
+        "label": "Zajezdn",
+        "platform": "0",
+        "lat": "0.0",
+        "lon": "0.0",
+        "order": "1"
+    },
+    {
+        "id": "142",
+        "stopId": "142",
+        name: "Ogrodowa",
+        "label": "142",
+        "platform": "0",
+        "lat": "50.714973",
+        "lon": "16.586993",
+        "order": "2"
+    }
+,
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "1"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "2"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "3"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "4"
+    },
+    {
+        "id": "143",
+        "stopId": "143",
+        name: "Ogrodowa",
+        "label": "143",
+        "platform": "0",
+        "lat": "50.7149",
+        "lon": "16.587008",
+        "order": "5"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "6"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "7"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "8"
+    }
+,
+    {
+        "id": "142",
+        "stopId": "142",
+        name: "Ogrodowa",
+        "label": "142",
+        "platform": "0",
+        "lat": "50.714973",
+        "lon": "16.586993",
+        "order": "1"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "2"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "3"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "4"
+    },
+    {
+        "id": "150",
+        "stopId": "150",
+        name: "Pieszyce Sklep",
+        "label": "150",
+        "platform": "0",
+        "lat": "50.699455",
+        "lon": "16.568421",
+        "order": "5"
+    }
+,
+    {
+        "id": "142",
+        "stopId": "142",
+        name: "Ogrodowa",
+        "label": "142",
+        "platform": "0",
+        "lat": "50.714973",
+        "lon": "16.586993",
+        "order": "1"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "2"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "3"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "4"
+    },
+    {
+        "id": "150",
+        "stopId": "150",
+        name: "Pieszyce Sklep",
+        "label": "150",
+        "platform": "0",
+        "lat": "50.699455",
+        "lon": "16.568421",
+        "order": "5"
+    },
+    {
+        "id": "297",
+        "stopId": "297",
+        name: "Osiedle Górskie",
+        "label": "297",
+        "platform": "0",
+        "lat": "50.704242",
+        "lon": "16.573859",
+        "order": "6"
+    },
+    {
+        "id": "152",
+        "stopId": "152",
+        name: "VII oddział",
+        "label": "152",
+        "platform": "0",
+        "lat": "50.695911",
+        "lon": "16.563013",
+        "order": "7"
+    },
+    {
+        "id": "154",
+        "stopId": "154",
+        name: "Pieszyce Mostek",
+        "label": "154",
+        "platform": "0",
+        "lat": "50.691255",
+        "lon": "16.554741",
+        "order": "8"
+    }
+,
+    {
+        "id": "155",
+        "stopId": "155",
+        name: "Pieszyce Mostek",
+        "label": "155",
+        "platform": "0",
+        "lat": "50.691408",
+        "lon": "16.555272",
+        "order": "1"
+    },
+    {
+        "id": "153",
+        "stopId": "153",
+        name: "VII oddział",
+        "label": "153",
+        "platform": "0",
+        "lat": "50.695453",
+        "lon": "16.56231",
+        "order": "2"
+    },
+    {
+        "id": "296",
+        "stopId": "296",
+        name: "Osiedle Górskie",
+        "label": "296",
+        "platform": "0",
+        "lat": "50.70402",
+        "lon": "16.573817",
+        "order": "3"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "4"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "5"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "6"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "7"
+    },
+    {
+        "id": "143",
+        "stopId": "143",
+        name: "Ogrodowa",
+        "label": "143",
+        "platform": "0",
+        "lat": "50.7149",
+        "lon": "16.587008",
+        "order": "8"
+    },
+    {
+        "id": "62",
+        "stopId": "62",
+        name: "Ogródki działkowe",
+        "label": "62",
+        "platform": "0",
+        "lat": "50.694913",
+        "lon": "16.614988",
+        "order": "9"
+    },
+    {
+        "id": "56",
+        "stopId": "56",
+        name: "Bohaterów Getta",
+        "label": "56",
+        "platform": "0",
+        "lat": "50.692756",
+        "lon": "16.619108",
+        "order": "10"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "11"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "12"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "13"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "14"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "15"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "16"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "17"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "18"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "19"
+    }
+,
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "1"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "2"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "3"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "4"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "5"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "6"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "7"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "8"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "9"
+    },
+    {
+        "id": "57",
+        "stopId": "57",
+        name: "Bohaterów Getta",
+        "label": "57",
+        "platform": "0",
+        "lat": "50.692821",
+        "lon": "16.619126",
+        "order": "10"
+    },
+    {
+        "id": "63",
+        "stopId": "63",
+        name: "Ogródki działkowe",
+        "label": "63",
+        "platform": "0",
+        "lat": "50.695511",
+        "lon": "16.613898",
+        "order": "11"
+    },
+    {
+        "id": "142",
+        "stopId": "142",
+        name: "Ogrodowa",
+        "label": "142",
+        "platform": "0",
+        "lat": "50.714973",
+        "lon": "16.586993",
+        "order": "12"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "13"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "14"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "15"
+    },
+    {
+        "id": "150",
+        "stopId": "150",
+        name: "Pieszyce Sklep",
+        "label": "150",
+        "platform": "0",
+        "lat": "50.699455",
+        "lon": "16.568421",
+        "order": "16"
+    },
+    {
+        "id": "297",
+        "stopId": "297",
+        name: "Osiedle Górskie",
+        "label": "297",
+        "platform": "0",
+        "lat": "50.704242",
+        "lon": "16.573859",
+        "order": "17"
+    },
+    {
+        "id": "152",
+        "stopId": "152",
+        name: "VII oddział",
+        "label": "152",
+        "platform": "0",
+        "lat": "50.695911",
+        "lon": "16.563013",
+        "order": "18"
+    },
+    {
+        "id": "154",
+        "stopId": "154",
+        name: "Pieszyce Mostek",
+        "label": "154",
+        "platform": "0",
+        "lat": "50.691255",
+        "lon": "16.554741",
+        "order": "19"
+    }
+,
+    {
+        "id": "66",
+        "stopId": "66",
+        name: "MZK",
+        "label": "66",
+        "platform": "0",
+        "lat": "50.715416",
+        "lon": "16.650555",
+        "order": "1"
+    },
+    {
+        "id": "48",
+        "stopId": "48",
+        name: "Gazownia",
+        "label": "48",
+        "platform": "0",
+        "lat": "50.701316",
+        "lon": "16.643836",
+        "order": "2"
+    },
+    {
+        "id": "46",
+        "stopId": "46",
+        name: "Bieltex I",
+        "label": "46",
+        "platform": "0",
+        "lat": "50.695393",
+        "lon": "16.63842",
+        "order": "3"
+    },
+    {
+        "id": "42",
+        "stopId": "42",
+        name: "Bata",
+        "label": "42",
+        "platform": "0",
+        "lat": "50.693475",
+        "lon": "16.629056",
+        "order": "4"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "5"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "6"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "7"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "8"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "9"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "10"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "11"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "12"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "13"
+    }
+,
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "1"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "2"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "3"
+    },
+    {
+        "id": "306",
+        "stopId": "306",
+        name: "Stacja Bielawa Zachodnia",
+        "label": "306",
+        "platform": "0",
+        "lat": "0.0",
+        "lon": "0.0",
+        "order": "4"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "5"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "6"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "7"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "8"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "9"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "10"
+    },
+    {
+        "id": "57",
+        "stopId": "57",
+        name: "Bohaterów Getta",
+        "label": "57",
+        "platform": "0",
+        "lat": "50.692821",
+        "lon": "16.619126",
+        "order": "11"
+    },
+    {
+        "id": "63",
+        "stopId": "63",
+        name: "Ogródki działkowe",
+        "label": "63",
+        "platform": "0",
+        "lat": "50.695511",
+        "lon": "16.613898",
+        "order": "12"
+    },
+    {
+        "id": "142",
+        "stopId": "142",
+        name: "Ogrodowa",
+        "label": "142",
+        "platform": "0",
+        "lat": "50.714973",
+        "lon": "16.586993",
+        "order": "13"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "14"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "15"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "16"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "17"
+    }
+,
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "1"
+    },
+    {
+        "id": "149",
+        "stopId": "149",
+        name: "IX oddział",
+        "label": "149",
+        "platform": "0",
+        "lat": "50.703598",
+        "lon": "16.573303",
+        "order": "2"
+    },
+    {
+        "id": "147",
+        "stopId": "147",
+        name: "kino",
+        "label": "147",
+        "platform": "0",
+        "lat": "50.705621",
+        "lon": "16.576081",
+        "order": "3"
+    },
+    {
+        "id": "145",
+        "stopId": "145",
+        name: "Urząd Miejski",
+        "label": "145",
+        "platform": "0",
+        "lat": "50.71148",
+        "lon": "16.583193",
+        "order": "4"
+    },
+    {
+        "id": "143",
+        "stopId": "143",
+        name: "Ogrodowa",
+        "label": "143",
+        "platform": "0",
+        "lat": "50.7149",
+        "lon": "16.587008",
+        "order": "5"
+    },
+    {
+        "id": "62",
+        "stopId": "62",
+        name: "Ogródki działkowe",
+        "label": "62",
+        "platform": "0",
+        "lat": "50.694913",
+        "lon": "16.614988",
+        "order": "6"
+    },
+    {
+        "id": "56",
+        "stopId": "56",
+        name: "Bohaterów Getta",
+        "label": "56",
+        "platform": "0",
+        "lat": "50.692756",
+        "lon": "16.619108",
+        "order": "7"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "8"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "9"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "10"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "11"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "12"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "13"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "14"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "15"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "16"
+    }
+,
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "1"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "2"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "3"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "4"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "5"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "6"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "7"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "8"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "9"
+    },
+    {
+        "id": "57",
+        "stopId": "57",
+        name: "Bohaterów Getta",
+        "label": "57",
+        "platform": "0",
+        "lat": "50.692821",
+        "lon": "16.619126",
+        "order": "10"
+    },
+    {
+        "id": "63",
+        "stopId": "63",
+        name: "Ogródki działkowe",
+        "label": "63",
+        "platform": "0",
+        "lat": "50.695511",
+        "lon": "16.613898",
+        "order": "11"
+    },
+    {
+        "id": "142",
+        "stopId": "142",
+        name: "Ogrodowa",
+        "label": "142",
+        "platform": "0",
+        "lat": "50.714973",
+        "lon": "16.586993",
+        "order": "12"
+    },
+    {
+        "id": "144",
+        "stopId": "144",
+        name: "Urząd Miejski",
+        "label": "144",
+        "platform": "0",
+        "lat": "50.711328",
+        "lon": "16.582878",
+        "order": "13"
+    },
+    {
+        "id": "146",
+        "stopId": "146",
+        name: "kino",
+        "label": "146",
+        "platform": "0",
+        "lat": "50.706701",
+        "lon": "16.577241",
+        "order": "14"
+    },
+    {
+        "id": "148",
+        "stopId": "148",
+        name: "IX oddział",
+        "label": "148",
+        "platform": "0",
+        "lat": "50.702645",
+        "lon": "16.572123",
+        "order": "15"
+    },
+    {
+        "id": "151",
+        "stopId": "151",
+        name: "Pieszyce Sklep",
+        "label": "151",
+        "platform": "0",
+        "lat": "50.69979",
+        "lon": "16.569091",
+        "order": "16"
+    }
+]

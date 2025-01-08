@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    height: 1rem;
+}
+
+.label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 1rem;
+    letter-spacing: -0.01rem;
+}

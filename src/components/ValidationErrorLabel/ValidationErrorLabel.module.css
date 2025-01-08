@@ -1,0 +1,8 @@
+.message {
+    height: 1.5rem;
+    gap: .5rem;
+    font-size: .685rem;
+    font-weight: 500;
+    color: red;
+    position: relative;
+}

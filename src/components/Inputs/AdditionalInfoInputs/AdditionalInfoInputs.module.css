@@ -1,0 +1,30 @@
+.inputs-box {
+    height: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.input-box {
+    display: flex;
+    align-items: center;
+}
+
+.label {
+    font-size: .75rem;
+    font-weight: 500;
+    color: #1e1e1e;
+    text-wrap: nowrap;
+    margin-right: .5rem;
+}
+
+.input {
+    border: 1px solid #D4D4D4;
+    border-radius: 5px;
+    height: 2rem;
+    padding-left: .5rem;
+    font-size: .75rem;
+    font-weight: 500;
+    color: #1e1e1e;
+    width: 100%;
+}

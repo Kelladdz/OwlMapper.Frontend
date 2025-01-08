@@ -1,0 +1,17 @@
+export const PATHS = {
+    user: '/user',
+    admin: '/admin',
+    createLine: '/admin/lines/create',
+    createLineSuccess: '/admin/lines/create/success',
+    createVariant: '/admin/lines/:lineName/variants/create',
+    createVariantSuccess: '/admin/lines/:lineName/variants/create/success',
+    editVariant: '/admin/lines/:lineName/variants/:variantId/edit',
+    editVariantSuccess: '/admin/lines/:lineName/variants/:variantId/edit/success',
+    deleteLineSuccess: '/admin/lines/delete/success',
+    deleteVariantSuccess: '/admin/lines/:lineName/variants/delete/success',
+    allLines: '/admin/lines',
+    createBusStops: '/admin/bus-stops/create',
+    busStops: '/admin/bus-stops',
+    createSchedule: '/admin/schedules/create',
+    signIn: '/signin',
+}

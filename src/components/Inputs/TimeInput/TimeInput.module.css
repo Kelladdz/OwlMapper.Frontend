@@ -1,0 +1,42 @@
+
+.container {
+    display: flex;
+    align-items: center;
+    height: 2rem;
+    width: 4.5rem;
+    border-radius: 5px;
+    border: 1px solid #D4D4D4;
+    gap: .5rem;
+}
+
+.input {
+    border: transparent;
+    width: 2rem;
+    text-align: center; 
+    margin-left: .5rem;  
+    font-size: 0.75rem;
+}
+
+.input:focus-visible {
+    outline: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.amount-change-box {
+    height: 1rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 0.5rem;
+}
+
+.decrement {
+    transform: rotateX(180deg);
+    margin-top: .1rem;
+}

@@ -1,0 +1,268 @@
+[
+    {
+        "name": "Dzierzoniów Os. Zielone",
+        "latitude": "50.743448",
+        ""longitude": "16.638635",
+        "order": "1"
+    },
+    {
+        "id": "139",
+        "stopId": "139",
+        name: "Złota kotłownia",
+        "label": "139",
+        "platform": "0",
+        "latitude": "50.741598",
+        ""longitude": "16.64249",
+        "order": "2"
+    },
+    {
+        "id": "138",
+        "stopId": "138",
+        name: "Złota III",
+        "label": "138",
+        "platform": "0",
+        "latitude": "50.73934",
+        ""longitude": "16.64219",
+        "order": "3"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "latitude": "50.737558",
+        ""longitude": "16.641568",
+        "order": "4"
+    },
+    {
+        "id": "94",
+        "stopId": "94",
+        name: "Sikorskiego I",
+        "label": "94",
+        "platform": "0",
+        "latitude": "50.7366559283571",
+        ""longitude": "16.647580583992205",
+        "order": "5"
+    },
+    {
+        "id": "96",
+        "stopId": "96",
+        name: "Sikorskiego II",
+        "label": "96",
+        "platform": "0",
+        "latitude": "50.73975904193937",
+        ""longitude": "16.650967406081612",
+        "order": "6"
+    },
+    {
+        "id": "91",
+        "stopId": "91",
+        name: "Korczaka",
+        "label": "91",
+        "platform": "0",
+        "latitude": "50.739622853396774",
+        ""longitude": "16.655668044319093",
+        "order": "7"
+    },
+    {
+        "id": "89",
+        "stopId": "89",
+        name: "Wrocławska (szkoła nr 4)",
+        "label": "89",
+        "platform": "0",
+        "latitude": "50.7365",
+        ""longitude": "16.658848",
+        "order": "8"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "latitude": "50.73015873827369",
+        ""longitude": "16.652470813492187",
+        "order": "9"
+    },
+    {
+        "id": "136",
+        "stopId": "136",
+        name: "Ząbkowicka",
+        "label": "136",
+        "platform": "0",
+        "latitude": "50.72701",
+        ""longitude": "16.65679",
+        "order": "10"
+    },
+    {
+        "id": "130",
+        "stopId": "130",
+        name: "Wojska Polskiego I",
+        "label": "130",
+        "platform": "0",
+        "latitude": "50.722418",
+        ""longitude": "16.665911",
+        "order": "11"
+    },
+    {
+        "id": "121",
+        "stopId": "121",
+        name: "Staszica",
+        "label": "121",
+        "platform": "0",
+        "latitude": "50.720208",
+        ""longitude": "16.65726",
+        "order": "12"
+    },
+    {
+        "id": "66",
+        "stopId": "66",
+        name: "MZK",
+        "label": "66",
+        "platform": "0",
+        "latitude": "50.715416",
+        ""longitude": "16.650555",
+        "order": "13"
+    },
+    {
+        "id": "48",
+        "stopId": "48",
+        name: "Gazownia",
+        "label": "48",
+        "platform": "0",
+        "latitude": "50.701316",
+        ""longitude": "16.643836",
+        "order": "14"
+    },
+    {
+        "id": "46",
+        "stopId": "46",
+        name: "Bieltex I",
+        "label": "46",
+        "platform": "0",
+        "latitude": "50.695393",
+        ""longitude": "16.63842",
+        "order": "15"
+    },
+    {
+        "id": "42",
+        "stopId": "42",
+        name: "Bata",
+        "label": "42",
+        "platform": "0",
+        "latitude": "50.693475",
+        ""longitude": "16.629056",
+        "order": "16"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "latitude": "50.689485",
+        ""longitude": "16.624483",
+        "order": "17"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "latitude": "50.68432",
+        ""longitude": "16.619266",
+        "order": "18"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "latitude": "50.680813",
+        ""longitude": "16.622536",
+        "order": "19"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "latitude": "50.678351",
+        ""longitude": "16.619393",
+        "order": "20"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "latitude": "50.68003",
+        ""longitude": "16.612923",
+        "order": "21"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "latitude": "50.682008",
+        ""longitude": "16.608875",
+        "order": "22"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "latitude": "50.678456",
+        ""longitude": "16.606",
+        "order": "23"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "latitude": "50.674135",
+        ""longitude": "16.60298",
+        "order": "24"
+    },
+    {
+        "id": "14",
+        "stopId": "14",
+        name: "Kasztanowa",
+        "label": "14",
+        "platform": "0",
+        "latitude": "50.674175",
+        ""longitude": "16.5981",
+        "order": "25"
+    },
+    {
+        "id": "12",
+        "stopId": "12",
+        name: "Os. Białe",
+        "label": "12",
+        "platform": "0",
+        "latitude": "50.673498",
+        ""longitude": "16.596043",
+        "order": "26"
+    },
+    {
+        "id": "11",
+        "stopId": "11",
+        name: "Bielawa Słowiańska",
+        "label": "11",
+        "platform": "0",
+        "latitude": "50.669325",
+        ""longitude": "16.599905",
+        "order": "27"
+    }
+]

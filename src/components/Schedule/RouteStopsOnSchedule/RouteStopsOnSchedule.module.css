@@ -1,0 +1,26 @@
+.route-stops-box {
+    position: relative;
+    width: 13.25rem;
+}
+
+.route-stops-label {
+    position: absolute;
+    left: 2.8125rem;
+    top: 0.875rem;
+    width: 9.4375rem;
+    height: 1.25rem;
+    border: 2px solid #1e1e1e; 
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1rem;
+}
+
+.time-line {
+    width: 2px;
+    position: absolute;
+    left: 3.21rem;
+    top: 2.95rem;
+    background-color: #1e1e1e;
+    border-radius: 5px;
+}

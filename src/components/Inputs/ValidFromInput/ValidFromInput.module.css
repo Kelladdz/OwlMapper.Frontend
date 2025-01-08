@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    align-items: center;
+    height: 3rem;
+    width: 100%;
+}
+
+.container > .input:focus-visible {
+    transform: translateX(-4px);
+}
+
+.label {
+    font-size: .75rem;
+    font-weight: 500;
+    color: #1e1e1e;
+    text-wrap: nowrap;
+    margin-right: .5rem;
+    min-width: 6.75rem;
+}
+
+.input {
+    border: 1px solid #D4D4D4;
+    border-radius: 5px;
+    height: 2rem;
+    padding-left: .5rem;
+    font-size: .75rem;
+    font-weight: 500;
+    color: #1e1e1e;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+
+.input:focus-visible {
+    outline: none;
+    
+}
+
+.calendar {
+    font-size: .75rem;
+    font-weight: 500;
+    color: #1e1e1e;
+    text-transform: uppercase;
+    font-family: Inter!important;
+}
+
+.calendar .react-datepicker__day--selected {
+    background-color: #3662CC;
+    color: white;
+}

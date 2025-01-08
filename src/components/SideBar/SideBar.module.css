@@ -1,0 +1,21 @@
+.sidebar {
+    width: 18rem;
+    border-right: 1px solid #D4D4D4;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.sidebar:last-child {
+    padding-bottom: 1rem;
+}
+
+.sidenav {
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+}
+
+.sidenav:first-child {
+    margin-top: 1rem;
+}

@@ -1,0 +1,9 @@
+.form {
+    margin-inline: 1rem;
+    width: calc(100% - 2rem);
+    margin-top: 1rem;
+}
+
+.validation-error-box {
+    margin-left: 5rem
+}

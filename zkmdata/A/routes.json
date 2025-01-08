@@ -1,0 +1,538 @@
+[
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "1"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "2"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "3"
+    }
+,
+    {
+        "id": "347",
+        "stopId": "347",
+        name: "Przedszkole",
+        "label": "347",
+        "platform": "0",
+        "lat": "50.75485985159461",
+        "lon": "16.681714904429676",
+        "order": "1"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "2"
+    },
+    {
+        "id": "88",
+        "stopId": "88",
+        name: "Wrocławska (szkoła nr 4)",
+        "label": "88",
+        "platform": "0",
+        "lat": "50.736085",
+        "lon": "16.658693",
+        "order": "3"
+    },
+    {
+        "id": "92",
+        "stopId": "92",
+        name: "Korczaka",
+        "label": "92",
+        "platform": "0",
+        "lat": "50.740207305091815",
+        "lon": "16.654699311500327",
+        "order": "4"
+    },
+    {
+        "id": "95",
+        "stopId": "95",
+        name: "Sikorskiego II",
+        "label": "95",
+        "platform": "0",
+        "lat": "50.74020293204104",
+        "lon": "16.65127158531975",
+        "order": "5"
+    },
+    {
+        "id": "93",
+        "stopId": "93",
+        name: "Sikorskiego I",
+        "label": "93",
+        "platform": "0",
+        "lat": "50.73713951623782",
+        "lon": "16.647880780426465",
+        "order": "6"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "7"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "8"
+    },
+    {
+        "id": "137",
+        "stopId": "137",
+        name: "Złota II",
+        "label": "137",
+        "platform": "0",
+        "lat": "50.735423",
+        "lon": "16.636745",
+        "order": "9"
+    },
+    {
+        "id": "126",
+        "stopId": "126",
+        name: "Technika Szpitalna",
+        "label": "126",
+        "platform": "0",
+        "lat": "50.733443",
+        "lon": "16.634298",
+        "order": "10"
+    },
+    {
+        "id": "122",
+        "stopId": "122",
+        name: "Strefa Ekonomiczna",
+        "label": "122",
+        "platform": "0",
+        "lat": "50.729376",
+        "lon": "16.630026",
+        "order": "11"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "12"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "13"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "14"
+    },
+    {
+        "id": "304",
+        "stopId": "304",
+        name: "Strefowa II",
+        "label": "304",
+        "platform": "0",
+        "lat": "50.74151494702591",
+        "lon": "16.612750967358807",
+        "order": "15"
+    },
+    {
+        "id": "128",
+        "stopId": "128",
+        name: "Dzierżoniów  ul.Strefowa",
+        "label": "128",
+        "platform": "0",
+        "lat": "50.731993",
+        "lon": "16.622788",
+        "order": "16"
+    },
+    {
+        "id": "127",
+        "stopId": "127",
+        name: "Technika Szpitalna",
+        "label": "127",
+        "platform": "0",
+        "lat": "50.734158",
+        "lon": "16.635188",
+        "order": "17"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "18"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "19"
+    },
+    {
+        "id": "136",
+        "stopId": "136",
+        name: "Ząbkowicka",
+        "label": "136",
+        "platform": "0",
+        "lat": "50.72701",
+        "lon": "16.65679",
+        "order": "20"
+    },
+    {
+        "id": "130",
+        "stopId": "130",
+        name: "Wojska Polskiego I",
+        "label": "130",
+        "platform": "0",
+        "lat": "50.722418",
+        "lon": "16.665911",
+        "order": "21"
+    },
+    {
+        "id": "121",
+        "stopId": "121",
+        name: "Staszica",
+        "label": "121",
+        "platform": "0",
+        "lat": "50.720208",
+        "lon": "16.65726",
+        "order": "22"
+    }
+,
+    {
+        "id": "347",
+        "stopId": "347",
+        name: "Przedszkole",
+        "label": "347",
+        "platform": "0",
+        "lat": "50.75485985159461",
+        "lon": "16.681714904429676",
+        "order": "1"
+    },
+    {
+        "id": "89",
+        "stopId": "89",
+        name: "Wrocławska (szkoła nr 4)",
+        "label": "89",
+        "platform": "0",
+        "lat": "50.7365",
+        "lon": "16.658848",
+        "order": "2"
+    },
+    {
+        "id": "101",
+        "stopId": "101",
+        name: "Bielawska Stadion",
+        "label": "101",
+        "platform": "0",
+        "lat": "50.73311",
+        "lon": "16.656781",
+        "order": "3"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "4"
+    }
+,
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "1"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "2"
+    },
+    {
+        "id": "88",
+        "stopId": "88",
+        name: "Wrocławska (szkoła nr 4)",
+        "label": "88",
+        "platform": "0",
+        "lat": "50.736085",
+        "lon": "16.658693",
+        "order": "3"
+    },
+    {
+        "id": "347",
+        "stopId": "347",
+        name: "Przedszkole",
+        "label": "347",
+        "platform": "0",
+        "lat": "50.75485985159461",
+        "lon": "16.681714904429676",
+        "order": "4"
+    }
+,
+    {
+        "id": "121",
+        "stopId": "121",
+        name: "Staszica",
+        "label": "121",
+        "platform": "0",
+        "lat": "50.720208",
+        "lon": "16.65726",
+        "order": "1"
+    },
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "2"
+    },
+    {
+        "id": "88",
+        "stopId": "88",
+        name: "Wrocławska (szkoła nr 4)",
+        "label": "88",
+        "platform": "0",
+        "lat": "50.736085",
+        "lon": "16.658693",
+        "order": "3"
+    },
+    {
+        "id": "347",
+        "stopId": "347",
+        name: "Przedszkole",
+        "label": "347",
+        "platform": "0",
+        "lat": "50.75485985159461",
+        "lon": "16.681714904429676",
+        "order": "4"
+    }
+,
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "1"
+    },
+    {
+        "id": "88",
+        "stopId": "88",
+        name: "Wrocławska (szkoła nr 4)",
+        "label": "88",
+        "platform": "0",
+        "lat": "50.736085",
+        "lon": "16.658693",
+        "order": "2"
+    },
+    {
+        "id": "92",
+        "stopId": "92",
+        name: "Korczaka",
+        "label": "92",
+        "platform": "0",
+        "lat": "50.740207305091815",
+        "lon": "16.654699311500327",
+        "order": "3"
+    },
+    {
+        "id": "95",
+        "stopId": "95",
+        name: "Sikorskiego II",
+        "label": "95",
+        "platform": "0",
+        "lat": "50.74020293204104",
+        "lon": "16.65127158531975",
+        "order": "4"
+    },
+    {
+        "id": "93",
+        "stopId": "93",
+        name: "Sikorskiego I",
+        "label": "93",
+        "platform": "0",
+        "lat": "50.73713951623782",
+        "lon": "16.647880780426465",
+        "order": "5"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "6"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "7"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "8"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "9"
+    },
+    {
+        "id": "136",
+        "stopId": "136",
+        name: "Ząbkowicka",
+        "label": "136",
+        "platform": "0",
+        "lat": "50.72701",
+        "lon": "16.65679",
+        "order": "10"
+    },
+    {
+        "id": "130",
+        "stopId": "130",
+        name: "Wojska Polskiego I",
+        "label": "130",
+        "platform": "0",
+        "lat": "50.722418",
+        "lon": "16.665911",
+        "order": "11"
+    },
+    {
+        "id": "121",
+        "stopId": "121",
+        name: "Staszica",
+        "label": "121",
+        "platform": "0",
+        "lat": "50.720208",
+        "lon": "16.65726",
+        "order": "12"
+    }
+,
+    {
+        "id": "121",
+        "stopId": "121",
+        name: "Staszica",
+        "label": "121",
+        "platform": "0",
+        "lat": "50.720208",
+        "lon": "16.65726",
+        "order": "1"
+    },
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "2"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "3"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "4"
+    }
+]

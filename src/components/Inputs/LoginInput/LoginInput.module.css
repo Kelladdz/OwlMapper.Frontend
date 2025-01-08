@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container:first-of-type {
+    margin-bottom: 1rem;
+}
+
+.input {
+    width: calc(100% - 5rem);
+    outline: none;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+    padding-left: 0.5rem;
+}
+
+.label {
+    font-size: 0.75rem;
+}

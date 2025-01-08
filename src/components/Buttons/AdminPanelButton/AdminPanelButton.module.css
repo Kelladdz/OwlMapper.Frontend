@@ -1,0 +1,22 @@
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin-top: 0.5rem;
+    width: 8rem;
+    background-color: transparent;
+    color: #1e1e1e;
+    font-size: .75rem;
+    font-weight: 500;
+    cursor: pointer;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+    margin-bottom: 0;
+    height: 2rem;
+}
+
+.creator-btn:disabled {
+    color: #d4d4d4;
+    cursor: not-allowed;
+}

@@ -1,0 +1,25 @@
+.schedule {
+    width: 47.6875rem;
+    border: 3px solid #1e1e1e;
+    display: flex;
+    margin-inline: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.r-side {
+    padding-bottom: .5rem;
+}
+
+.schedule span {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.departures-tables {
+    width: 33.5rem;
+    min-height: 16.6875rem;
+    height: auto;
+    border: 3px solid #1e1e1e;
+    margin-top: 0.5625rem;
+    margin-bottom: 0.5625rem;
+}
+

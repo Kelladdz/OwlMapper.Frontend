@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 2rem;
+    width: 100%;
+    gap: .5rem;
+    font-size: .75rem;
+    font-weight: 500;
+    color: #1e1e1e;
+    position: relative;
+}

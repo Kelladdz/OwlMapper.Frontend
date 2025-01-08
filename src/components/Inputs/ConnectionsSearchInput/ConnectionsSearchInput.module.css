@@ -1,0 +1,91 @@
+.search-box,
+.searched-search-box {
+    
+    margin-inline: 1rem;
+    width: calc(100% - 2rem);
+    position: relative;
+    border-radius: 7px;
+    background-color: white;
+    
+    overflow-y: hidden;
+}
+
+.search-box{
+    height: 3rem;
+    animation: show-input .2s cubic-bezier(.39,.65,0,.99);
+}
+
+.searched-search-box {
+    height: 23rem;
+    animation: expand-list .2s cubic-bezier(.39,.65,0,.99);
+}
+
+.collapsed {
+    height: 0rem;
+    animation: hide-input .2s cubic-bezier(.39,.65,0,.99);
+}
+
+.search-input {
+    display: flex;
+    align-items: center;
+}
+
+.expand .input {
+    border-bottom: 1px solid #bcbcbc;
+}
+
+.input,
+.searched-input {
+    height: 3rem;
+    border-radius: 7px;
+    width: calc(100% - 2.5rem);
+    padding-left: 0.5rem;
+    border: none;
+}
+
+.input::placeholder
+.searched-input::placeholder {
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: -0.06px;
+}
+
+.input:focus-visible,
+.searched-input:focus-visible {
+    outline: none;
+}
+
+.glass {
+    height: 1.25rem;
+    position: absolute;
+    right: 0.5rem;
+    top: 0.875rem;
+}
+
+@keyframes show-input {
+    from {
+        height: 0rem;
+    }
+    to {
+        height: 3rem;
+    }
+}
+
+@keyframes hide-input {
+    from {
+        height: 3rem;
+    }
+    to {
+        height: 0rem;
+    }
+}
+
+@keyframes expand-list {
+    from {
+        height: 3rem;
+    }
+    to {
+        height: 23rem
+    }
+}
+

@@ -1,0 +1,23 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  min-height: 100%;
+  background-color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+
+
+}
+
+.leaflet-popup-tip {
+  display: none;
+}
+

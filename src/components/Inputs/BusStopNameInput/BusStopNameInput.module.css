@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+}
+
+
+.label {
+    font-size: .75rem;
+    font-weight: 500;
+    color: #1e1e1e;
+    text-wrap: nowrap;
+}
+
+.input-box {
+    display: flex;
+    align-items: center;
+    border: 1px solid #D4D4D4;
+    border-radius: 5px;
+    height: 2rem;
+    font-size: .75rem;
+    font-weight: 500;
+    color: #1e1e1e;
+    width: 14rem;
+    padding-left: .5rem;
+}
+
+.input {
+    font-size: .75rem;
+    font-weight: 500;
+    padding-inline: .5rem;
+    border: none;
+    margin-bottom: .1rem;
+    width: 100%;
+}
+
+.input:focus-visible {
+    outline: none;
+
+}
+
+.input:disabled {
+    background-color: #e2e2e2;
+}

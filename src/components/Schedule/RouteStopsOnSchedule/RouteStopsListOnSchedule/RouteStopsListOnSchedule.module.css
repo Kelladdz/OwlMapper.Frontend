@@ -1,0 +1,78 @@
+.route-stops-list {
+    height: 100%;
+    margin-top: 2.525rem;
+    padding-bottom: 0.5rem;
+}
+
+
+.route-stop {
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+    color: #1e1e1e;
+    position: relative;
+    height: auto;
+    margin-top: .2rem;
+}
+
+.travel-time {
+    width: 2rem;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-align: right;
+    line-height: .9rem;
+    position: absolute;
+    top: 0rem;
+    left: -.4rem;
+    letter-spacing: -0.04rem;
+}
+
+.route-stop:first-of-type .travel-time {
+    top: -.8rem
+}
+
+
+.route-stop:first-of-type {
+    margin-top: 0.2rem;
+}
+
+.dot {
+    width: .5rem;
+    height: .5rem;
+    border-radius: 50%;
+    background-color: #1e1e1e;
+    position: absolute;
+    top: 0.2rem;
+    left: 2rem;
+}
+
+.stop-order {
+    width: .8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 0.75rem;
+    text-align: center;
+    line-height: .8rem;
+    position: absolute;
+    top: 0.1rem;
+    left: 3rem;
+}
+
+.route-stop-name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7rem;
+    line-height: 0.9rem;
+    width: 6rem;
+    padding-inline: .1rem;
+    letter-spacing: -0.03rem;
+    font-weight: 600;
+    position: absolute;
+    top: 0;
+    left: 4.1rem;
+}
+
+.route-stop:first-of-type .route-stop-name {
+    background-color: #1e1e1e;
+    color: #fff;
+}
+

@@ -1,0 +1,10 @@
+span, input, button, body {
+    font-family: Inter;
+}
+.container, .container-borderless {
+    display: flex;
+    height: calc(100vh - 6rem);
+    position: relative;
+}
+
+

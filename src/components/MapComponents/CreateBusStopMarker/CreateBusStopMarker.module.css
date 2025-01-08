@@ -1,0 +1,21 @@
+.marker {
+    cursor: default;
+    position: relative;
+}
+
+.popup > * {
+    margin: 0;
+    padding: 0;
+}
+
+.popup {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    min-height: 4.5rem;
+    width: 37rem;
+    position: absolute;
+    left: 0;
+    top: -7rem;
+    z-index: 10000;
+}
+

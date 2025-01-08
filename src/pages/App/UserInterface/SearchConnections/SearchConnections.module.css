@@ -1,0 +1,10 @@
+.btns {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 1rem;
+    position: absolute;
+    top: -2rem;
+    height: 2rem;
+    cursor: pointer;
+}

@@ -1,0 +1,93 @@
+.container {
+    margin-inline: 1rem;
+}
+
+.label {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #1e1e1e;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list {
+    margin-top: 1rem;
+}
+
+
+.variant-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 2rem;
+
+}
+
+.variant {
+    font-size: .75rem;
+
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+}
+.edit-variant-btn,
+.delete-variant-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.edit-variant-btn:hover,
+.delete-variant-btn:hover {
+    background-color: #e6e6e6;
+}
+
+.delete-line-btn {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: .75rem;
+    color: red;
+    bottom: 4rem;
+    height: 2rem;
+    width: 6rem;
+    border: 1px solid #D4D4D4;
+    border-radius: 5px;
+    left: calc(50% - 3rem);
+    cursor: pointer;
+}
+
+.add-variant-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.add-variant-btn:hover {
+    background-color: #e6e6e6;
+}
+
+.empty-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2rem;
+    height: 2rem;
+
+}

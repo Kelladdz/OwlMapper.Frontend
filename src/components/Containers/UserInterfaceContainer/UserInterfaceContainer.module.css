@@ -1,0 +1,13 @@
+.container {
+    height: fit-content;
+    background-color: rgb(0, 0, 0, 0.2);
+    margin-top: 7rem;
+    margin-inline: 1rem;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    width: calc(100% - 2rem);
+    position: relative;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+

@@ -1,0 +1,14 @@
+.container {
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.label {
+    font-size: 1.75rem;
+    font-family: Inter;
+    font-weight: 700;
+    letter-spacing: -0.06rem;
+}

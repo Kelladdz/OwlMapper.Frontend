@@ -1,0 +1,16 @@
+.title {
+    height: 3rem;
+    border-bottom: 1px solid #D4D4D4;
+    border-right: 1px solid #D4D4D4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 1rem;
+}
+
+.label {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #000;
+}
+

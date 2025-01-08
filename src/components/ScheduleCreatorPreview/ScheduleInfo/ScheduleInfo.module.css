@@ -1,0 +1,74 @@
+
+
+.container {
+    display: flex;
+    height: 7.25rem;
+    width: 100%;
+    border-bottom: 1px solid #1e1e1e;
+    position: relative;
+}
+
+.line-name-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5.375rem;
+    min-width: 10.1875rem;
+    border: 3px solid #1e1e1e;
+    margin-top: 0.625rem;
+    margin-left: 0.5625rem;  
+    margin-right: 0.4375rem; 
+}
+
+.line-name {
+    font-size: 6rem;
+    font-weight: 700;
+}
+
+.route-info-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.valid-from-text {
+    font-size: 0.875rem;
+    font-weight: 700;
+    letter-spacing: -0.04rem;
+}
+
+.destination-title-text {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: -0.05rem;
+    line-height: 1.8rem;
+}
+
+.destination-text {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: -0.03rem;
+    line-height: .9rem;
+    min-height: .9rem;
+}
+
+.current-stop-title-text {
+    margin-top: 0.4rem;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: -0.05rem;
+}
+
+.current-stop-text {
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: -0.04rem;
+    line-height: .9rem;
+}
+
+.bus-stop-id {
+    position: absolute;
+    right: 0.5rem;
+    bottom: 0.5rem;
+    font-size: 0.625rem;
+    letter-spacing: -0.04rem;
+}

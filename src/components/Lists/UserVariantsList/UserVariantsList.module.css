@@ -1,0 +1,100 @@
+.container {
+    height: 33rem;
+    animation: show-list .2s cubic-bezier(.39,.65,0,.99);
+    margin: 1rem 1rem 0.5rem 1rem;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.collapsed {
+    animation: hide-list .2s cubic-bezier(.39,.65,0,.99);
+    height: 0rem;
+}
+
+.label {
+    height: 2rem;
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.06rem;
+    margin-bottom: 1rem;
+}
+
+.list {
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 25rem;
+    overflow-y: auto;
+    overflow-x: hidden;
+    border-radius: 10px;
+}
+
+.list::-webkit-scrollbar {
+	width: .5rem;
+}
+
+.list::-webkit-scrollbar-track {
+	background-color: #194e7c;
+	width: .4rem;
+    border-radius: 30px;
+}
+
+.list::-webkit-scrollbar-thumb {
+	background-color:#fff;
+	border-radius: 30px;
+	width: .4rem;
+} 
+
+.variant-box {
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    padding-inline: 1rem;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+
+.variant-box:hover {
+    background-color: rgba(200, 200, 200, 0.2);
+}
+
+.route {
+    font-weight: 700;
+    letter-spacing: -0.06rem;
+    color: white;
+}
+
+.btn {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 12rem;
+    height: 2.5rem;
+    margin-left: calc(50% - 6rem);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+@keyframes show-list {
+    from {
+        height: 0rem;
+    }
+    to {
+        height: 33rem;
+    }
+}
+
+@keyframes hide-list {
+    from {
+        height: 33rem;
+    }
+    to {
+        height: 0rem;
+    }
+}

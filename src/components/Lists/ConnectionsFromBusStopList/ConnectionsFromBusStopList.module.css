@@ -1,0 +1,8 @@
+.list {
+    height: fit-content;
+    background-color: rgb(0, 0, 0, 0.2);
+    padding-block: 1rem;
+    margin-top: 2rem;
+    margin-inline: 1rem;
+    border-radius: 9px;
+}

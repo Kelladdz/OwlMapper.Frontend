@@ -1,0 +1,44 @@
+.leaflet-container .leaflet-marker-pane svg {
+    width: calc((41 / 16)*1rem);
+    transform: translate(-35%, -86%);
+}
+
+.line {
+    z-index: 1000;
+    cursor: default;
+}
+
+.route-line {
+    cursor: default;
+}
+
+.alternative {
+    color: transparent
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: .75rem;
+    height: .75rem;
+    border-radius: 50%;
+    background-color: #3E00AA;
+}
+
+.outside-circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: .75rem;
+    height: .75rem;
+    border-radius: 50%;
+    background-color: #3E00AA;
+}
+
+.inside-circle {
+    width: .45rem;
+    height: .45rem;
+    border-radius: 50%;
+    background-color: #FFF;
+}

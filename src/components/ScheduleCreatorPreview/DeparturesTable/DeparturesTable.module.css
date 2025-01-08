@@ -1,0 +1,60 @@
+.label {
+    height: 1.5rem;
+    border-bottom: 2px solid #1e1e1e;
+    border-top: 2px solid #1e1e1e;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.schedule-days {
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: -0.04rem;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-template-rows: 1.1875rem;
+}
+
+.grid:last-of-type {
+    border-bottom: none;
+}
+
+
+
+.row {
+    display: contents;
+    position: relative;
+}
+
+.row:last-of-type > .time {
+    border-bottom: none;
+}
+
+.time {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.875rem;
+    letter-spacing: -0.03rem;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid #1e1e1e;
+    border-right: 1px solid #1e1e1e;
+}
+
+
+
+
+.time:last-of-type {
+    border-right: none;
+}
+
+.empty {
+    background-color: #C4C4C4;
+    height:100%;
+    border: none;
+}

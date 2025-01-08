@@ -1,0 +1,634 @@
+[
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "1"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "2"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "3"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "4"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "5"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "6"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "7"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "8"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "9"
+    },
+    {
+        "id": "86",
+        "stopId": "86",
+        name: "Dworzec PKS Kopernika",
+        "label": "86",
+        "platform": "0",
+        "lat": "50.724808",
+        "lon": "16.64929",
+        "order": "10"
+    },
+    {
+        "id": "68",
+        "stopId": "68",
+        name: "Batalionów Chłopskich",
+        "label": "68",
+        "platform": "0",
+        "lat": "50.719951",
+        "lon": "16.650228",
+        "order": "11"
+    },
+    {
+        "id": "66",
+        "stopId": "66",
+        name: "MZK",
+        "label": "66",
+        "platform": "0",
+        "lat": "50.715416",
+        "lon": "16.650555",
+        "order": "12"
+    },
+    {
+        "id": "48",
+        "stopId": "48",
+        name: "Gazownia",
+        "label": "48",
+        "platform": "0",
+        "lat": "50.701316",
+        "lon": "16.643836",
+        "order": "13"
+    },
+    {
+        "id": "46",
+        "stopId": "46",
+        name: "Bieltex I",
+        "label": "46",
+        "platform": "0",
+        "lat": "50.695393",
+        "lon": "16.63842",
+        "order": "14"
+    },
+    {
+        "id": "42",
+        "stopId": "42",
+        name: "Bata",
+        "label": "42",
+        "platform": "0",
+        "lat": "50.693475",
+        "lon": "16.629056",
+        "order": "15"
+    },
+    {
+        "id": "58",
+        "stopId": "58",
+        name: "LOK",
+        "label": "58",
+        "platform": "0",
+        "lat": "50.688805",
+        "lon": "16.622065",
+        "order": "16"
+    },
+    {
+        "id": "59",
+        "stopId": "59",
+        name: "Hotel \"Pod Wielką Sową\"",
+        "label": "59",
+        "platform": "0",
+        "lat": "50.686578",
+        "lon": "16.616686",
+        "order": "17"
+    },
+    {
+        "id": "60",
+        "stopId": "60",
+        name: "Żeromskiego (Pl. Wolności)",
+        "label": "60",
+        "platform": "0",
+        "lat": "50.685573",
+        "lon": "16.612151",
+        "order": "18"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "19"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "20"
+    },
+    {
+        "id": "16",
+        "stopId": "16",
+        name: "Bielawa Pl. Kościelny",
+        "label": "16",
+        "platform": "0",
+        "lat": "50.674608",
+        "lon": "16.604068",
+        "order": "21"
+    },
+    {
+        "id": "9",
+        "stopId": "9",
+        name: "Waryńskiego (Bieltex V)",
+        "label": "9",
+        "platform": "0",
+        "lat": "50.670146",
+        "lon": "16.603448",
+        "order": "22"
+    },
+    {
+        "id": "7",
+        "stopId": "7",
+        name: "Sowia",
+        "label": "7",
+        "platform": "0",
+        "lat": "50.666633",
+        "lon": "16.601405",
+        "order": "23"
+    },
+    {
+        "id": "6",
+        "stopId": "6",
+        name: "Jodłownik",
+        "label": "6",
+        "platform": "0",
+        "lat": "50.648795",
+        "lon": "16.610488",
+        "order": "24"
+    }
+,
+    {
+        "id": "6",
+        "stopId": "6",
+        name: "Jodłownik",
+        "label": "6",
+        "platform": "0",
+        "lat": "50.648795",
+        "lon": "16.610488",
+        "order": "1"
+    },
+    {
+        "id": "8",
+        "stopId": "8",
+        name: "Sowia",
+        "label": "8",
+        "platform": "0",
+        "lat": "50.666895",
+        "lon": "16.601695",
+        "order": "2"
+    },
+    {
+        "id": "10",
+        "stopId": "10",
+        name: "Waryńskiego (Bieltex V)",
+        "label": "10",
+        "platform": "0",
+        "lat": "50.669593",
+        "lon": "16.603583",
+        "order": "3"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "4"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "5"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "6"
+    },
+    {
+        "id": "61",
+        "stopId": "61",
+        name: "L.O. (Pl. Wolności)",
+        "label": "61",
+        "platform": "0",
+        "lat": "50.683026",
+        "lon": "16.612836",
+        "order": "7"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "8"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "9"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "10"
+    },
+    {
+        "id": "44",
+        "stopId": "44",
+        name: "Bata",
+        "label": "44",
+        "platform": "0",
+        "lat": "50.693123",
+        "lon": "16.628578",
+        "order": "11"
+    },
+    {
+        "id": "47",
+        "stopId": "47",
+        name: "Bieltex I",
+        "label": "47",
+        "platform": "0",
+        "lat": "50.695145",
+        "lon": "16.637528",
+        "order": "12"
+    },
+    {
+        "id": "49",
+        "stopId": "49",
+        name: "Gazownia",
+        "label": "49",
+        "platform": "0",
+        "lat": "50.702553",
+        "lon": "16.644515",
+        "order": "13"
+    },
+    {
+        "id": "67",
+        "stopId": "67",
+        name: "MZK",
+        "label": "67",
+        "platform": "0",
+        "lat": "50.715253",
+        "lon": "16.650285",
+        "order": "14"
+    },
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "15"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "16"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "17"
+    }
+,
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "1"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "2"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "3"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "4"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "5"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "6"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "7"
+    },
+    {
+        "id": "86",
+        "stopId": "86",
+        name: "Dworzec PKS Kopernika",
+        "label": "86",
+        "platform": "0",
+        "lat": "50.724808",
+        "lon": "16.64929",
+        "order": "8"
+    },
+    {
+        "id": "68",
+        "stopId": "68",
+        name: "Batalionów Chłopskich",
+        "label": "68",
+        "platform": "0",
+        "lat": "50.719951",
+        "lon": "16.650228",
+        "order": "9"
+    },
+    {
+        "id": "66",
+        "stopId": "66",
+        name: "MZK",
+        "label": "66",
+        "platform": "0",
+        "lat": "50.715416",
+        "lon": "16.650555",
+        "order": "10"
+    },
+    {
+        "id": "48",
+        "stopId": "48",
+        name: "Gazownia",
+        "label": "48",
+        "platform": "0",
+        "lat": "50.701316",
+        "lon": "16.643836",
+        "order": "11"
+    },
+    {
+        "id": "46",
+        "stopId": "46",
+        name: "Bieltex I",
+        "label": "46",
+        "platform": "0",
+        "lat": "50.695393",
+        "lon": "16.63842",
+        "order": "12"
+    },
+    {
+        "id": "42",
+        "stopId": "42",
+        name: "Bata",
+        "label": "42",
+        "platform": "0",
+        "lat": "50.693475",
+        "lon": "16.629056",
+        "order": "13"
+    },
+    {
+        "id": "58",
+        "stopId": "58",
+        name: "LOK",
+        "label": "58",
+        "platform": "0",
+        "lat": "50.688805",
+        "lon": "16.622065",
+        "order": "14"
+    },
+    {
+        "id": "59",
+        "stopId": "59",
+        name: "Hotel \"Pod Wielką Sową\"",
+        "label": "59",
+        "platform": "0",
+        "lat": "50.686578",
+        "lon": "16.616686",
+        "order": "15"
+    },
+    {
+        "id": "60",
+        "stopId": "60",
+        name: "Żeromskiego (Pl. Wolności)",
+        "label": "60",
+        "platform": "0",
+        "lat": "50.685573",
+        "lon": "16.612151",
+        "order": "16"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "17"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "18"
+    },
+    {
+        "id": "16",
+        "stopId": "16",
+        name: "Bielawa Pl. Kościelny",
+        "label": "16",
+        "platform": "0",
+        "lat": "50.674608",
+        "lon": "16.604068",
+        "order": "19"
+    },
+    {
+        "id": "9",
+        "stopId": "9",
+        name: "Waryńskiego (Bieltex V)",
+        "label": "9",
+        "platform": "0",
+        "lat": "50.670146",
+        "lon": "16.603448",
+        "order": "20"
+    },
+    {
+        "id": "7",
+        "stopId": "7",
+        name: "Sowia",
+        "label": "7",
+        "platform": "0",
+        "lat": "50.666633",
+        "lon": "16.601405",
+        "order": "21"
+    },
+    {
+        "id": "6",
+        "stopId": "6",
+        name: "Jodłownik",
+        "label": "6",
+        "platform": "0",
+        "lat": "50.648795",
+        "lon": "16.610488",
+        "order": "22"
+    }
+]

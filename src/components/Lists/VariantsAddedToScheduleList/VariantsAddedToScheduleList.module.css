@@ -1,0 +1,47 @@
+.container {
+    
+    height: 20rem;
+    width: 100%;
+}
+
+.list {
+    padding-top: 0.5rem;
+    margin-inline: 1rem;
+    min-height: 20rem;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+}
+
+.variant {
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 0.5rem;
+    margin-top: 1rem;
+    margin-inline: 1rem;
+    border: 1px solid #d4d4d4;
+    border-radius: 7px;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+    
+.r-side {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.crown {
+    height: 1.5rem;
+}
+
+.variant-symbol {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1.5rem;
+    width: 1.5rem;
+    font-size: 1rem;
+    font-weight: 700;
+}

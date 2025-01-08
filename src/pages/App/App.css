@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'PPPangramSansRounded-Bold';
+    src: url('../../assets/fonts/PPPangramSansRounded-Bold.otf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+
+input, button {
+    font-family: Inter;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: -0.06px;
+}
+.markings {
+  position: absolute;
+  top: 20rem;
+  left: 30.5rem;
+  z-index: 1;
+  width: 16rem;
+  background-color: #fff;
+  box-shadow: 1px 1px 5px black;
+  height: 22.5rem;
+  border-radius: 9px;
+  animation: show-markings .2s cubic-bezier(.39,.65,0,.99);
+}
+
+.hide {
+  right: -0.5rem;
+  animation: hide-markings .2s cubic-bezier(.39,.65,0,.99);
+}
+
+@keyframes show-markings {
+  from {
+      left: 13.5rem;
+  }
+  to {
+      left: 30.5rem;
+  }
+}
+
+@keyframes hide-markings {
+  from {
+      left: 30.5rem;
+  }
+  to {
+      left: 13.5rem;
+  }
+}

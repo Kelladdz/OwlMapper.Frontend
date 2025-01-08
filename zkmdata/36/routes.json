@@ -1,0 +1,2510 @@
+[
+    {
+        "id": "284",
+        "stopId": "284",
+        name: "Niemcza Remiza",
+        "label": "284",
+        "platform": "0",
+        "lat": "50.713503",
+        "lon": "16.833686",
+        "order": "1"
+    },
+    {
+        "id": "285",
+        "stopId": "285",
+        name: "",
+        "label": "285",
+        "platform": "0",
+        "lat": "50.696056",
+        "lon": "16.822073",
+        "order": "2"
+    },
+    {
+        "id": "287",
+        "stopId": "287",
+        name: "",
+        "label": "287",
+        "platform": "0",
+        "lat": "50.685311",
+        "lon": "16.819641",
+        "order": "3"
+    },
+    {
+        "id": "293",
+        "stopId": "293",
+        name: "",
+        "label": "293",
+        "platform": "0",
+        "lat": "50.682921",
+        "lon": "16.809271",
+        "order": "4"
+    },
+    {
+        "id": "221",
+        "stopId": "221",
+        name: "Zakłady Mechaniczne",
+        "label": "221",
+        "platform": "0",
+        "lat": "50.6757",
+        "lon": "16.779728",
+        "order": "5"
+    },
+    {
+        "id": "216",
+        "stopId": "216",
+        name: "I",
+        "label": "216",
+        "platform": "0",
+        "lat": "50.68899",
+        "lon": "16.782281",
+        "order": "6"
+    },
+    {
+        "id": "218",
+        "stopId": "218",
+        name: "Kośmin",
+        "label": "218",
+        "platform": "0",
+        "lat": "50.693788",
+        "lon": "16.781386",
+        "order": "7"
+    },
+    {
+        "id": "217",
+        "stopId": "217",
+        name: "I",
+        "label": "217",
+        "platform": "0",
+        "lat": "50.68899",
+        "lon": "16.782281",
+        "order": "8"
+    },
+    {
+        "id": "215",
+        "stopId": "215",
+        name: "Dworzec PKP",
+        "label": "215",
+        "platform": "0",
+        "lat": "50.677578",
+        "lon": "16.771865",
+        "order": "9"
+    },
+    {
+        "id": "213",
+        "stopId": "213",
+        name: "Szkoła",
+        "label": "213",
+        "platform": "0",
+        "lat": "50.681076",
+        "lon": "16.766923",
+        "order": "10"
+    },
+    {
+        "id": "211",
+        "stopId": "211",
+        name: "Kamieniołomy",
+        "label": "211",
+        "platform": "0",
+        "lat": "50.682295",
+        "lon": "16.760653",
+        "order": "11"
+    },
+    {
+        "id": "209",
+        "stopId": "209",
+        name: "BoBo",
+        "label": "209",
+        "platform": "0",
+        "lat": "50.682031",
+        "lon": "16.75068",
+        "order": "12"
+    },
+    {
+        "id": "207",
+        "stopId": "207",
+        name: "Żłobek",
+        "label": "207",
+        "platform": "0",
+        "lat": "50.682736",
+        "lon": "16.744183",
+        "order": "13"
+    },
+    {
+        "id": "205",
+        "stopId": "205",
+        name: "Os. Młyńskie",
+        "label": "205",
+        "platform": "0",
+        "lat": "50.683825",
+        "lon": "16.736046",
+        "order": "14"
+    },
+    {
+        "id": "203",
+        "stopId": "203",
+        name: "Staw",
+        "label": "203",
+        "platform": "0",
+        "lat": "50.682336",
+        "lon": "16.72549",
+        "order": "15"
+    },
+    {
+        "id": "200",
+        "stopId": "200",
+        name: "Cz. Kościół",
+        "label": "200",
+        "platform": "0",
+        "lat": "50.685803",
+        "lon": "16.716575",
+        "order": "16"
+    },
+    {
+        "id": "198",
+        "stopId": "198",
+        name: "B. Kościół",
+        "label": "198",
+        "platform": "0",
+        "lat": "50.692245",
+        "lon": "16.703935",
+        "order": "17"
+    },
+    {
+        "id": "196",
+        "stopId": "196",
+        name: "Remiza",
+        "label": "196",
+        "platform": "0",
+        "lat": "50.69747",
+        "lon": "16.694223",
+        "order": "18"
+    },
+    {
+        "id": "194",
+        "stopId": "194",
+        name: "Szkoła",
+        "label": "194",
+        "platform": "0",
+        "lat": "50.70264",
+        "lon": "16.687386",
+        "order": "19"
+    },
+    {
+        "id": "192",
+        "stopId": "192",
+        name: "I",
+        "label": "192",
+        "platform": "0",
+        "lat": "50.706746",
+        "lon": "16.680111",
+        "order": "20"
+    },
+    {
+        "id": "190",
+        "stopId": "190",
+        name: "POM",
+        "label": "190",
+        "platform": "0",
+        "lat": "50.713093",
+        "lon": "16.673775",
+        "order": "21"
+    },
+    {
+        "id": "141",
+        "stopId": "141",
+        name: "Wojska Polskiego II",
+        "label": "141",
+        "platform": "0",
+        "lat": "50.719718",
+        "lon": "16.668531",
+        "order": "22"
+    },
+    {
+        "id": "131",
+        "stopId": "131",
+        name: "Wojska Polskiego I",
+        "label": "131",
+        "platform": "0",
+        "lat": "50.723098",
+        "lon": "16.664985",
+        "order": "23"
+    },
+    {
+        "id": "135",
+        "stopId": "135",
+        name: "Ząbkowicka",
+        "label": "135",
+        "platform": "0",
+        "lat": "50.727095",
+        "lon": "16.65664",
+        "order": "24"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "25"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "26"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "27"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "28"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "29"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "30"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "31"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "32"
+    },
+    {
+        "id": "123",
+        "stopId": "123",
+        name: "Dzierżoniów Strefa Metzeler",
+        "label": "123",
+        "platform": "0",
+        "lat": "50.726863",
+        "lon": "16.63007",
+        "order": "33"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "34"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "35"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "36"
+    },
+    {
+        "id": "304",
+        "stopId": "304",
+        name: "Strefowa II",
+        "label": "304",
+        "platform": "0",
+        "lat": "50.74151494702591",
+        "lon": "16.612750967358807",
+        "order": "37"
+    },
+    {
+        "id": "128",
+        "stopId": "128",
+        name: "Dzierżoniów  ul.Strefowa",
+        "label": "128",
+        "platform": "0",
+        "lat": "50.731993",
+        "lon": "16.622788",
+        "order": "38"
+    },
+    {
+        "id": "122",
+        "stopId": "122",
+        name: "Strefa Ekonomiczna",
+        "label": "122",
+        "platform": "0",
+        "lat": "50.729376",
+        "lon": "16.630026",
+        "order": "39"
+    }
+,
+    {
+        "id": "284",
+        "stopId": "284",
+        name: "Niemcza Remiza",
+        "label": "284",
+        "platform": "0",
+        "lat": "50.713503",
+        "lon": "16.833686",
+        "order": "1"
+    },
+    {
+        "id": "285",
+        "stopId": "285",
+        name: "",
+        "label": "285",
+        "platform": "0",
+        "lat": "50.696056",
+        "lon": "16.822073",
+        "order": "2"
+    },
+    {
+        "id": "287",
+        "stopId": "287",
+        name: "",
+        "label": "287",
+        "platform": "0",
+        "lat": "50.685311",
+        "lon": "16.819641",
+        "order": "3"
+    },
+    {
+        "id": "293",
+        "stopId": "293",
+        name: "",
+        "label": "293",
+        "platform": "0",
+        "lat": "50.682921",
+        "lon": "16.809271",
+        "order": "4"
+    },
+    {
+        "id": "221",
+        "stopId": "221",
+        name: "Zakłady Mechaniczne",
+        "label": "221",
+        "platform": "0",
+        "lat": "50.6757",
+        "lon": "16.779728",
+        "order": "5"
+    },
+    {
+        "id": "215",
+        "stopId": "215",
+        name: "Dworzec PKP",
+        "label": "215",
+        "platform": "0",
+        "lat": "50.677578",
+        "lon": "16.771865",
+        "order": "6"
+    },
+    {
+        "id": "213",
+        "stopId": "213",
+        name: "Szkoła",
+        "label": "213",
+        "platform": "0",
+        "lat": "50.681076",
+        "lon": "16.766923",
+        "order": "7"
+    },
+    {
+        "id": "211",
+        "stopId": "211",
+        name: "Kamieniołomy",
+        "label": "211",
+        "platform": "0",
+        "lat": "50.682295",
+        "lon": "16.760653",
+        "order": "8"
+    },
+    {
+        "id": "209",
+        "stopId": "209",
+        name: "BoBo",
+        "label": "209",
+        "platform": "0",
+        "lat": "50.682031",
+        "lon": "16.75068",
+        "order": "9"
+    },
+    {
+        "id": "207",
+        "stopId": "207",
+        name: "Żłobek",
+        "label": "207",
+        "platform": "0",
+        "lat": "50.682736",
+        "lon": "16.744183",
+        "order": "10"
+    },
+    {
+        "id": "205",
+        "stopId": "205",
+        name: "Os. Młyńskie",
+        "label": "205",
+        "platform": "0",
+        "lat": "50.683825",
+        "lon": "16.736046",
+        "order": "11"
+    },
+    {
+        "id": "203",
+        "stopId": "203",
+        name: "Staw",
+        "label": "203",
+        "platform": "0",
+        "lat": "50.682336",
+        "lon": "16.72549",
+        "order": "12"
+    },
+    {
+        "id": "200",
+        "stopId": "200",
+        name: "Cz. Kościół",
+        "label": "200",
+        "platform": "0",
+        "lat": "50.685803",
+        "lon": "16.716575",
+        "order": "13"
+    },
+    {
+        "id": "198",
+        "stopId": "198",
+        name: "B. Kościół",
+        "label": "198",
+        "platform": "0",
+        "lat": "50.692245",
+        "lon": "16.703935",
+        "order": "14"
+    },
+    {
+        "id": "196",
+        "stopId": "196",
+        name: "Remiza",
+        "label": "196",
+        "platform": "0",
+        "lat": "50.69747",
+        "lon": "16.694223",
+        "order": "15"
+    },
+    {
+        "id": "194",
+        "stopId": "194",
+        name: "Szkoła",
+        "label": "194",
+        "platform": "0",
+        "lat": "50.70264",
+        "lon": "16.687386",
+        "order": "16"
+    },
+    {
+        "id": "192",
+        "stopId": "192",
+        name: "I",
+        "label": "192",
+        "platform": "0",
+        "lat": "50.706746",
+        "lon": "16.680111",
+        "order": "17"
+    },
+    {
+        "id": "190",
+        "stopId": "190",
+        name: "POM",
+        "label": "190",
+        "platform": "0",
+        "lat": "50.713093",
+        "lon": "16.673775",
+        "order": "18"
+    },
+    {
+        "id": "141",
+        "stopId": "141",
+        name: "Wojska Polskiego II",
+        "label": "141",
+        "platform": "0",
+        "lat": "50.719718",
+        "lon": "16.668531",
+        "order": "19"
+    },
+    {
+        "id": "131",
+        "stopId": "131",
+        name: "Wojska Polskiego I",
+        "label": "131",
+        "platform": "0",
+        "lat": "50.723098",
+        "lon": "16.664985",
+        "order": "20"
+    },
+    {
+        "id": "135",
+        "stopId": "135",
+        name: "Ząbkowicka",
+        "label": "135",
+        "platform": "0",
+        "lat": "50.727095",
+        "lon": "16.65664",
+        "order": "21"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "22"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "23"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "24"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "25"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "26"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "27"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "28"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "29"
+    },
+    {
+        "id": "123",
+        "stopId": "123",
+        name: "Dzierżoniów Strefa Metzeler",
+        "label": "123",
+        "platform": "0",
+        "lat": "50.726863",
+        "lon": "16.63007",
+        "order": "30"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "31"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "32"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "33"
+    },
+    {
+        "id": "304",
+        "stopId": "304",
+        name: "Strefowa II",
+        "label": "304",
+        "platform": "0",
+        "lat": "50.74151494702591",
+        "lon": "16.612750967358807",
+        "order": "34"
+    },
+    {
+        "id": "128",
+        "stopId": "128",
+        name: "Dzierżoniów  ul.Strefowa",
+        "label": "128",
+        "platform": "0",
+        "lat": "50.731993",
+        "lon": "16.622788",
+        "order": "35"
+    },
+    {
+        "id": "122",
+        "stopId": "122",
+        name: "Strefa Ekonomiczna",
+        "label": "122",
+        "platform": "0",
+        "lat": "50.729376",
+        "lon": "16.630026",
+        "order": "36"
+    }
+,
+    {
+        "id": "280",
+        "stopId": "280",
+        name: "Niemcza dworzec PKP",
+        "label": "280",
+        "platform": "0",
+        "lat": "50.723363",
+        "lon": "16.836246",
+        "order": "1"
+    },
+    {
+        "id": "284",
+        "stopId": "284",
+        name: "Niemcza Remiza",
+        "label": "284",
+        "platform": "0",
+        "lat": "50.713503",
+        "lon": "16.833686",
+        "order": "2"
+    },
+    {
+        "id": "285",
+        "stopId": "285",
+        name: "",
+        "label": "285",
+        "platform": "0",
+        "lat": "50.696056",
+        "lon": "16.822073",
+        "order": "3"
+    },
+    {
+        "id": "287",
+        "stopId": "287",
+        name: "",
+        "label": "287",
+        "platform": "0",
+        "lat": "50.685311",
+        "lon": "16.819641",
+        "order": "4"
+    },
+    {
+        "id": "293",
+        "stopId": "293",
+        name: "",
+        "label": "293",
+        "platform": "0",
+        "lat": "50.682921",
+        "lon": "16.809271",
+        "order": "5"
+    },
+    {
+        "id": "221",
+        "stopId": "221",
+        name: "Zakłady Mechaniczne",
+        "label": "221",
+        "platform": "0",
+        "lat": "50.6757",
+        "lon": "16.779728",
+        "order": "6"
+    },
+    {
+        "id": "215",
+        "stopId": "215",
+        name: "Dworzec PKP",
+        "label": "215",
+        "platform": "0",
+        "lat": "50.677578",
+        "lon": "16.771865",
+        "order": "7"
+    },
+    {
+        "id": "213",
+        "stopId": "213",
+        name: "Szkoła",
+        "label": "213",
+        "platform": "0",
+        "lat": "50.681076",
+        "lon": "16.766923",
+        "order": "8"
+    },
+    {
+        "id": "211",
+        "stopId": "211",
+        name: "Kamieniołomy",
+        "label": "211",
+        "platform": "0",
+        "lat": "50.682295",
+        "lon": "16.760653",
+        "order": "9"
+    },
+    {
+        "id": "209",
+        "stopId": "209",
+        name: "BoBo",
+        "label": "209",
+        "platform": "0",
+        "lat": "50.682031",
+        "lon": "16.75068",
+        "order": "10"
+    },
+    {
+        "id": "207",
+        "stopId": "207",
+        name: "Żłobek",
+        "label": "207",
+        "platform": "0",
+        "lat": "50.682736",
+        "lon": "16.744183",
+        "order": "11"
+    },
+    {
+        "id": "205",
+        "stopId": "205",
+        name: "Os. Młyńskie",
+        "label": "205",
+        "platform": "0",
+        "lat": "50.683825",
+        "lon": "16.736046",
+        "order": "12"
+    },
+    {
+        "id": "203",
+        "stopId": "203",
+        name: "Staw",
+        "label": "203",
+        "platform": "0",
+        "lat": "50.682336",
+        "lon": "16.72549",
+        "order": "13"
+    },
+    {
+        "id": "200",
+        "stopId": "200",
+        name: "Cz. Kościół",
+        "label": "200",
+        "platform": "0",
+        "lat": "50.685803",
+        "lon": "16.716575",
+        "order": "14"
+    },
+    {
+        "id": "198",
+        "stopId": "198",
+        name: "B. Kościół",
+        "label": "198",
+        "platform": "0",
+        "lat": "50.692245",
+        "lon": "16.703935",
+        "order": "15"
+    },
+    {
+        "id": "196",
+        "stopId": "196",
+        name: "Remiza",
+        "label": "196",
+        "platform": "0",
+        "lat": "50.69747",
+        "lon": "16.694223",
+        "order": "16"
+    },
+    {
+        "id": "194",
+        "stopId": "194",
+        name: "Szkoła",
+        "label": "194",
+        "platform": "0",
+        "lat": "50.70264",
+        "lon": "16.687386",
+        "order": "17"
+    },
+    {
+        "id": "192",
+        "stopId": "192",
+        name: "I",
+        "label": "192",
+        "platform": "0",
+        "lat": "50.706746",
+        "lon": "16.680111",
+        "order": "18"
+    },
+    {
+        "id": "190",
+        "stopId": "190",
+        name: "POM",
+        "label": "190",
+        "platform": "0",
+        "lat": "50.713093",
+        "lon": "16.673775",
+        "order": "19"
+    },
+    {
+        "id": "141",
+        "stopId": "141",
+        name: "Wojska Polskiego II",
+        "label": "141",
+        "platform": "0",
+        "lat": "50.719718",
+        "lon": "16.668531",
+        "order": "20"
+    },
+    {
+        "id": "131",
+        "stopId": "131",
+        name: "Wojska Polskiego I",
+        "label": "131",
+        "platform": "0",
+        "lat": "50.723098",
+        "lon": "16.664985",
+        "order": "21"
+    },
+    {
+        "id": "135",
+        "stopId": "135",
+        name: "Ząbkowicka",
+        "label": "135",
+        "platform": "0",
+        "lat": "50.727095",
+        "lon": "16.65664",
+        "order": "22"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "23"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "24"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "25"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "26"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "27"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "28"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "29"
+    }
+,
+    {
+        "id": "123",
+        "stopId": "123",
+        name: "Dzierżoniów Strefa Metzeler",
+        "label": "123",
+        "platform": "0",
+        "lat": "50.726863",
+        "lon": "16.63007",
+        "order": "1"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "2"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "3"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "4"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "5"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "6"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "7"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "8"
+    },
+    {
+        "id": "136",
+        "stopId": "136",
+        name: "Ząbkowicka",
+        "label": "136",
+        "platform": "0",
+        "lat": "50.72701",
+        "lon": "16.65679",
+        "order": "9"
+    },
+    {
+        "id": "130",
+        "stopId": "130",
+        name: "Wojska Polskiego I",
+        "label": "130",
+        "platform": "0",
+        "lat": "50.722418",
+        "lon": "16.665911",
+        "order": "10"
+    },
+    {
+        "id": "189",
+        "stopId": "189",
+        name: "POM",
+        "label": "189",
+        "platform": "0",
+        "lat": "50.713295",
+        "lon": "16.673278",
+        "order": "11"
+    },
+    {
+        "id": "191",
+        "stopId": "191",
+        name: "I",
+        "label": "191",
+        "platform": "0",
+        "lat": "50.707953",
+        "lon": "16.678421",
+        "order": "12"
+    },
+    {
+        "id": "193",
+        "stopId": "193",
+        name: "Szkoła",
+        "label": "193",
+        "platform": "0",
+        "lat": "50.702843",
+        "lon": "16.686598",
+        "order": "13"
+    },
+    {
+        "id": "195",
+        "stopId": "195",
+        name: "Remiza",
+        "label": "195",
+        "platform": "0",
+        "lat": "50.69617",
+        "lon": "16.69527",
+        "order": "14"
+    },
+    {
+        "id": "197",
+        "stopId": "197",
+        name: "B. Kościół",
+        "label": "197",
+        "platform": "0",
+        "lat": "50.692195",
+        "lon": "16.703856",
+        "order": "15"
+    },
+    {
+        "id": "199",
+        "stopId": "199",
+        name: "Cz. Kościół",
+        "label": "199",
+        "platform": "0",
+        "lat": "50.685991",
+        "lon": "16.716273",
+        "order": "16"
+    },
+    {
+        "id": "202",
+        "stopId": "202",
+        name: "Staw",
+        "label": "202",
+        "platform": "0",
+        "lat": "50.682033",
+        "lon": "16.725635",
+        "order": "17"
+    },
+    {
+        "id": "204",
+        "stopId": "204",
+        name: "Os. Młyńskie",
+        "label": "204",
+        "platform": "0",
+        "lat": "50.683776",
+        "lon": "16.735925",
+        "order": "18"
+    },
+    {
+        "id": "206",
+        "stopId": "206",
+        name: "Żłobek",
+        "label": "206",
+        "platform": "0",
+        "lat": "50.682943",
+        "lon": "16.742548",
+        "order": "19"
+    },
+    {
+        "id": "208",
+        "stopId": "208",
+        name: "BoBo",
+        "label": "208",
+        "platform": "0",
+        "lat": "50.68193",
+        "lon": "16.750891",
+        "order": "20"
+    },
+    {
+        "id": "210",
+        "stopId": "210",
+        name: "Kamieniołomy",
+        "label": "210",
+        "platform": "0",
+        "lat": "50.681956",
+        "lon": "16.759693",
+        "order": "21"
+    },
+    {
+        "id": "212",
+        "stopId": "212",
+        name: "Szkoła",
+        "label": "212",
+        "platform": "0",
+        "lat": "50.681113",
+        "lon": "16.76681",
+        "order": "22"
+    },
+    {
+        "id": "214",
+        "stopId": "214",
+        name: "Dworzec PKP",
+        "label": "214",
+        "platform": "0",
+        "lat": "50.677508",
+        "lon": "16.771851",
+        "order": "23"
+    },
+    {
+        "id": "220",
+        "stopId": "220",
+        name: "Zakłady Mechaniczne",
+        "label": "220",
+        "platform": "0",
+        "lat": "50.675736",
+        "lon": "16.778835",
+        "order": "24"
+    },
+    {
+        "id": "294",
+        "stopId": "294",
+        name: "",
+        "label": "294",
+        "platform": "0",
+        "lat": "50.682985",
+        "lon": "16.809316",
+        "order": "25"
+    },
+    {
+        "id": "288",
+        "stopId": "288",
+        name: "",
+        "label": "288",
+        "platform": "0",
+        "lat": "50.686078",
+        "lon": "16.820174",
+        "order": "26"
+    },
+    {
+        "id": "286",
+        "stopId": "286",
+        name: "",
+        "label": "286",
+        "platform": "0",
+        "lat": "50.69654",
+        "lon": "16.821881",
+        "order": "27"
+    },
+    {
+        "id": "284",
+        "stopId": "284",
+        name: "Niemcza Remiza",
+        "label": "284",
+        "platform": "0",
+        "lat": "50.713503",
+        "lon": "16.833686",
+        "order": "28"
+    }
+,
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "1"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "2"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "3"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "4"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "5"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "6"
+    },
+    {
+        "id": "136",
+        "stopId": "136",
+        name: "Ząbkowicka",
+        "label": "136",
+        "platform": "0",
+        "lat": "50.72701",
+        "lon": "16.65679",
+        "order": "7"
+    },
+    {
+        "id": "130",
+        "stopId": "130",
+        name: "Wojska Polskiego I",
+        "label": "130",
+        "platform": "0",
+        "lat": "50.722418",
+        "lon": "16.665911",
+        "order": "8"
+    },
+    {
+        "id": "189",
+        "stopId": "189",
+        name: "POM",
+        "label": "189",
+        "platform": "0",
+        "lat": "50.713295",
+        "lon": "16.673278",
+        "order": "9"
+    },
+    {
+        "id": "191",
+        "stopId": "191",
+        name: "I",
+        "label": "191",
+        "platform": "0",
+        "lat": "50.707953",
+        "lon": "16.678421",
+        "order": "10"
+    },
+    {
+        "id": "193",
+        "stopId": "193",
+        name: "Szkoła",
+        "label": "193",
+        "platform": "0",
+        "lat": "50.702843",
+        "lon": "16.686598",
+        "order": "11"
+    },
+    {
+        "id": "195",
+        "stopId": "195",
+        name: "Remiza",
+        "label": "195",
+        "platform": "0",
+        "lat": "50.69617",
+        "lon": "16.69527",
+        "order": "12"
+    },
+    {
+        "id": "197",
+        "stopId": "197",
+        name: "B. Kościół",
+        "label": "197",
+        "platform": "0",
+        "lat": "50.692195",
+        "lon": "16.703856",
+        "order": "13"
+    },
+    {
+        "id": "199",
+        "stopId": "199",
+        name: "Cz. Kościół",
+        "label": "199",
+        "platform": "0",
+        "lat": "50.685991",
+        "lon": "16.716273",
+        "order": "14"
+    },
+    {
+        "id": "202",
+        "stopId": "202",
+        name: "Staw",
+        "label": "202",
+        "platform": "0",
+        "lat": "50.682033",
+        "lon": "16.725635",
+        "order": "15"
+    },
+    {
+        "id": "204",
+        "stopId": "204",
+        name: "Os. Młyńskie",
+        "label": "204",
+        "platform": "0",
+        "lat": "50.683776",
+        "lon": "16.735925",
+        "order": "16"
+    },
+    {
+        "id": "206",
+        "stopId": "206",
+        name: "Żłobek",
+        "label": "206",
+        "platform": "0",
+        "lat": "50.682943",
+        "lon": "16.742548",
+        "order": "17"
+    },
+    {
+        "id": "208",
+        "stopId": "208",
+        name: "BoBo",
+        "label": "208",
+        "platform": "0",
+        "lat": "50.68193",
+        "lon": "16.750891",
+        "order": "18"
+    },
+    {
+        "id": "210",
+        "stopId": "210",
+        name: "Kamieniołomy",
+        "label": "210",
+        "platform": "0",
+        "lat": "50.681956",
+        "lon": "16.759693",
+        "order": "19"
+    },
+    {
+        "id": "212",
+        "stopId": "212",
+        name: "Szkoła",
+        "label": "212",
+        "platform": "0",
+        "lat": "50.681113",
+        "lon": "16.76681",
+        "order": "20"
+    },
+    {
+        "id": "214",
+        "stopId": "214",
+        name: "Dworzec PKP",
+        "label": "214",
+        "platform": "0",
+        "lat": "50.677508",
+        "lon": "16.771851",
+        "order": "21"
+    },
+    {
+        "id": "220",
+        "stopId": "220",
+        name: "Zakłady Mechaniczne",
+        "label": "220",
+        "platform": "0",
+        "lat": "50.675736",
+        "lon": "16.778835",
+        "order": "22"
+    },
+    {
+        "id": "294",
+        "stopId": "294",
+        name: "",
+        "label": "294",
+        "platform": "0",
+        "lat": "50.682985",
+        "lon": "16.809316",
+        "order": "23"
+    },
+    {
+        "id": "288",
+        "stopId": "288",
+        name: "",
+        "label": "288",
+        "platform": "0",
+        "lat": "50.686078",
+        "lon": "16.820174",
+        "order": "24"
+    },
+    {
+        "id": "289",
+        "stopId": "289",
+        name: "Sklep",
+        "label": "289",
+        "platform": "0",
+        "lat": "50.685381",
+        "lon": "16.82396",
+        "order": "25"
+    },
+    {
+        "id": "291",
+        "stopId": "291",
+        name: "I",
+        "label": "291",
+        "platform": "0",
+        "lat": "50.692258",
+        "lon": "16.850395",
+        "order": "26"
+    },
+    {
+        "id": "292",
+        "stopId": "292",
+        name: "Podlesie",
+        "label": "292",
+        "platform": "0",
+        "lat": "50.687148",
+        "lon": "16.857326",
+        "order": "27"
+    },
+    {
+        "id": "290",
+        "stopId": "290",
+        name: "I",
+        "label": "290",
+        "platform": "0",
+        "lat": "50.692161",
+        "lon": "16.849891",
+        "order": "28"
+    },
+    {
+        "id": "286",
+        "stopId": "286",
+        name: "",
+        "label": "286",
+        "platform": "0",
+        "lat": "50.69654",
+        "lon": "16.821881",
+        "order": "29"
+    },
+    {
+        "id": "284",
+        "stopId": "284",
+        name: "Niemcza Remiza",
+        "label": "284",
+        "platform": "0",
+        "lat": "50.713503",
+        "lon": "16.833686",
+        "order": "30"
+    }
+,
+    {
+        "id": "123",
+        "stopId": "123",
+        name: "Dzierżoniów Strefa Metzeler",
+        "label": "123",
+        "platform": "0",
+        "lat": "50.726863",
+        "lon": "16.63007",
+        "order": "1"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "2"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "3"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "4"
+    },
+    {
+        "id": "304",
+        "stopId": "304",
+        name: "Strefowa II",
+        "label": "304",
+        "platform": "0",
+        "lat": "50.74151494702591",
+        "lon": "16.612750967358807",
+        "order": "5"
+    },
+    {
+        "id": "128",
+        "stopId": "128",
+        name: "Dzierżoniów  ul.Strefowa",
+        "label": "128",
+        "platform": "0",
+        "lat": "50.731993",
+        "lon": "16.622788",
+        "order": "6"
+    },
+    {
+        "id": "122",
+        "stopId": "122",
+        name: "Strefa Ekonomiczna",
+        "label": "122",
+        "platform": "0",
+        "lat": "50.729376",
+        "lon": "16.630026",
+        "order": "7"
+    }
+,
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "1"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "2"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "3"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "4"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "5"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "6"
+    },
+    {
+        "id": "136",
+        "stopId": "136",
+        name: "Ząbkowicka",
+        "label": "136",
+        "platform": "0",
+        "lat": "50.72701",
+        "lon": "16.65679",
+        "order": "7"
+    },
+    {
+        "id": "130",
+        "stopId": "130",
+        name: "Wojska Polskiego I",
+        "label": "130",
+        "platform": "0",
+        "lat": "50.722418",
+        "lon": "16.665911",
+        "order": "8"
+    },
+    {
+        "id": "189",
+        "stopId": "189",
+        name: "POM",
+        "label": "189",
+        "platform": "0",
+        "lat": "50.713295",
+        "lon": "16.673278",
+        "order": "9"
+    },
+    {
+        "id": "191",
+        "stopId": "191",
+        name: "I",
+        "label": "191",
+        "platform": "0",
+        "lat": "50.707953",
+        "lon": "16.678421",
+        "order": "10"
+    },
+    {
+        "id": "193",
+        "stopId": "193",
+        name: "Szkoła",
+        "label": "193",
+        "platform": "0",
+        "lat": "50.702843",
+        "lon": "16.686598",
+        "order": "11"
+    },
+    {
+        "id": "195",
+        "stopId": "195",
+        name: "Remiza",
+        "label": "195",
+        "platform": "0",
+        "lat": "50.69617",
+        "lon": "16.69527",
+        "order": "12"
+    },
+    {
+        "id": "197",
+        "stopId": "197",
+        name: "B. Kościół",
+        "label": "197",
+        "platform": "0",
+        "lat": "50.692195",
+        "lon": "16.703856",
+        "order": "13"
+    },
+    {
+        "id": "199",
+        "stopId": "199",
+        name: "Cz. Kościół",
+        "label": "199",
+        "platform": "0",
+        "lat": "50.685991",
+        "lon": "16.716273",
+        "order": "14"
+    },
+    {
+        "id": "202",
+        "stopId": "202",
+        name: "Staw",
+        "label": "202",
+        "platform": "0",
+        "lat": "50.682033",
+        "lon": "16.725635",
+        "order": "15"
+    },
+    {
+        "id": "204",
+        "stopId": "204",
+        name: "Os. Młyńskie",
+        "label": "204",
+        "platform": "0",
+        "lat": "50.683776",
+        "lon": "16.735925",
+        "order": "16"
+    },
+    {
+        "id": "206",
+        "stopId": "206",
+        name: "Żłobek",
+        "label": "206",
+        "platform": "0",
+        "lat": "50.682943",
+        "lon": "16.742548",
+        "order": "17"
+    },
+    {
+        "id": "208",
+        "stopId": "208",
+        name: "BoBo",
+        "label": "208",
+        "platform": "0",
+        "lat": "50.68193",
+        "lon": "16.750891",
+        "order": "18"
+    },
+    {
+        "id": "210",
+        "stopId": "210",
+        name: "Kamieniołomy",
+        "label": "210",
+        "platform": "0",
+        "lat": "50.681956",
+        "lon": "16.759693",
+        "order": "19"
+    },
+    {
+        "id": "212",
+        "stopId": "212",
+        name: "Szkoła",
+        "label": "212",
+        "platform": "0",
+        "lat": "50.681113",
+        "lon": "16.76681",
+        "order": "20"
+    },
+    {
+        "id": "214",
+        "stopId": "214",
+        name: "Dworzec PKP",
+        "label": "214",
+        "platform": "0",
+        "lat": "50.677508",
+        "lon": "16.771851",
+        "order": "21"
+    },
+    {
+        "id": "220",
+        "stopId": "220",
+        name: "Zakłady Mechaniczne",
+        "label": "220",
+        "platform": "0",
+        "lat": "50.675736",
+        "lon": "16.778835",
+        "order": "22"
+    },
+    {
+        "id": "294",
+        "stopId": "294",
+        name: "",
+        "label": "294",
+        "platform": "0",
+        "lat": "50.682985",
+        "lon": "16.809316",
+        "order": "23"
+    },
+    {
+        "id": "288",
+        "stopId": "288",
+        name: "",
+        "label": "288",
+        "platform": "0",
+        "lat": "50.686078",
+        "lon": "16.820174",
+        "order": "24"
+    },
+    {
+        "id": "286",
+        "stopId": "286",
+        name: "",
+        "label": "286",
+        "platform": "0",
+        "lat": "50.69654",
+        "lon": "16.821881",
+        "order": "25"
+    },
+    {
+        "id": "284",
+        "stopId": "284",
+        name: "Niemcza Remiza",
+        "label": "284",
+        "platform": "0",
+        "lat": "50.713503",
+        "lon": "16.833686",
+        "order": "26"
+    },
+    {
+        "id": "281",
+        "stopId": "281",
+        name: "Niemcza dworzec PKP",
+        "label": "281",
+        "platform": "0",
+        "lat": "50.723323",
+        "lon": "16.836338",
+        "order": "27"
+    }
+,
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "1"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "2"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "3"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "4"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "5"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "6"
+    },
+    {
+        "id": "136",
+        "stopId": "136",
+        name: "Ząbkowicka",
+        "label": "136",
+        "platform": "0",
+        "lat": "50.72701",
+        "lon": "16.65679",
+        "order": "7"
+    },
+    {
+        "id": "130",
+        "stopId": "130",
+        name: "Wojska Polskiego I",
+        "label": "130",
+        "platform": "0",
+        "lat": "50.722418",
+        "lon": "16.665911",
+        "order": "8"
+    },
+    {
+        "id": "189",
+        "stopId": "189",
+        name: "POM",
+        "label": "189",
+        "platform": "0",
+        "lat": "50.713295",
+        "lon": "16.673278",
+        "order": "9"
+    },
+    {
+        "id": "191",
+        "stopId": "191",
+        name: "I",
+        "label": "191",
+        "platform": "0",
+        "lat": "50.707953",
+        "lon": "16.678421",
+        "order": "10"
+    },
+    {
+        "id": "193",
+        "stopId": "193",
+        name: "Szkoła",
+        "label": "193",
+        "platform": "0",
+        "lat": "50.702843",
+        "lon": "16.686598",
+        "order": "11"
+    },
+    {
+        "id": "195",
+        "stopId": "195",
+        name: "Remiza",
+        "label": "195",
+        "platform": "0",
+        "lat": "50.69617",
+        "lon": "16.69527",
+        "order": "12"
+    },
+    {
+        "id": "197",
+        "stopId": "197",
+        name: "B. Kościół",
+        "label": "197",
+        "platform": "0",
+        "lat": "50.692195",
+        "lon": "16.703856",
+        "order": "13"
+    },
+    {
+        "id": "199",
+        "stopId": "199",
+        name: "Cz. Kościół",
+        "label": "199",
+        "platform": "0",
+        "lat": "50.685991",
+        "lon": "16.716273",
+        "order": "14"
+    },
+    {
+        "id": "202",
+        "stopId": "202",
+        name: "Staw",
+        "label": "202",
+        "platform": "0",
+        "lat": "50.682033",
+        "lon": "16.725635",
+        "order": "15"
+    },
+    {
+        "id": "204",
+        "stopId": "204",
+        name: "Os. Młyńskie",
+        "label": "204",
+        "platform": "0",
+        "lat": "50.683776",
+        "lon": "16.735925",
+        "order": "16"
+    },
+    {
+        "id": "206",
+        "stopId": "206",
+        name: "Żłobek",
+        "label": "206",
+        "platform": "0",
+        "lat": "50.682943",
+        "lon": "16.742548",
+        "order": "17"
+    },
+    {
+        "id": "208",
+        "stopId": "208",
+        name: "BoBo",
+        "label": "208",
+        "platform": "0",
+        "lat": "50.68193",
+        "lon": "16.750891",
+        "order": "18"
+    },
+    {
+        "id": "210",
+        "stopId": "210",
+        name: "Kamieniołomy",
+        "label": "210",
+        "platform": "0",
+        "lat": "50.681956",
+        "lon": "16.759693",
+        "order": "19"
+    },
+    {
+        "id": "212",
+        "stopId": "212",
+        name: "Szkoła",
+        "label": "212",
+        "platform": "0",
+        "lat": "50.681113",
+        "lon": "16.76681",
+        "order": "20"
+    },
+    {
+        "id": "214",
+        "stopId": "214",
+        name: "Dworzec PKP",
+        "label": "214",
+        "platform": "0",
+        "lat": "50.677508",
+        "lon": "16.771851",
+        "order": "21"
+    },
+    {
+        "id": "220",
+        "stopId": "220",
+        name: "Zakłady Mechaniczne",
+        "label": "220",
+        "platform": "0",
+        "lat": "50.675736",
+        "lon": "16.778835",
+        "order": "22"
+    },
+    {
+        "id": "294",
+        "stopId": "294",
+        name: "",
+        "label": "294",
+        "platform": "0",
+        "lat": "50.682985",
+        "lon": "16.809316",
+        "order": "23"
+    },
+    {
+        "id": "288",
+        "stopId": "288",
+        name: "",
+        "label": "288",
+        "platform": "0",
+        "lat": "50.686078",
+        "lon": "16.820174",
+        "order": "24"
+    },
+    {
+        "id": "286",
+        "stopId": "286",
+        name: "",
+        "label": "286",
+        "platform": "0",
+        "lat": "50.69654",
+        "lon": "16.821881",
+        "order": "25"
+    },
+    {
+        "id": "284",
+        "stopId": "284",
+        name: "Niemcza Remiza",
+        "label": "284",
+        "platform": "0",
+        "lat": "50.713503",
+        "lon": "16.833686",
+        "order": "26"
+    }
+,
+    {
+        "id": "284",
+        "stopId": "284",
+        name: "Niemcza Remiza",
+        "label": "284",
+        "platform": "0",
+        "lat": "50.713503",
+        "lon": "16.833686",
+        "order": "1"
+    },
+    {
+        "id": "285",
+        "stopId": "285",
+        name: "",
+        "label": "285",
+        "platform": "0",
+        "lat": "50.696056",
+        "lon": "16.822073",
+        "order": "2"
+    },
+    {
+        "id": "287",
+        "stopId": "287",
+        name: "",
+        "label": "287",
+        "platform": "0",
+        "lat": "50.685311",
+        "lon": "16.819641",
+        "order": "3"
+    },
+    {
+        "id": "293",
+        "stopId": "293",
+        name: "",
+        "label": "293",
+        "platform": "0",
+        "lat": "50.682921",
+        "lon": "16.809271",
+        "order": "4"
+    },
+    {
+        "id": "221",
+        "stopId": "221",
+        name: "Zakłady Mechaniczne",
+        "label": "221",
+        "platform": "0",
+        "lat": "50.6757",
+        "lon": "16.779728",
+        "order": "5"
+    },
+    {
+        "id": "215",
+        "stopId": "215",
+        name: "Dworzec PKP",
+        "label": "215",
+        "platform": "0",
+        "lat": "50.677578",
+        "lon": "16.771865",
+        "order": "6"
+    },
+    {
+        "id": "213",
+        "stopId": "213",
+        name: "Szkoła",
+        "label": "213",
+        "platform": "0",
+        "lat": "50.681076",
+        "lon": "16.766923",
+        "order": "7"
+    },
+    {
+        "id": "211",
+        "stopId": "211",
+        name: "Kamieniołomy",
+        "label": "211",
+        "platform": "0",
+        "lat": "50.682295",
+        "lon": "16.760653",
+        "order": "8"
+    },
+    {
+        "id": "209",
+        "stopId": "209",
+        name: "BoBo",
+        "label": "209",
+        "platform": "0",
+        "lat": "50.682031",
+        "lon": "16.75068",
+        "order": "9"
+    },
+    {
+        "id": "207",
+        "stopId": "207",
+        name: "Żłobek",
+        "label": "207",
+        "platform": "0",
+        "lat": "50.682736",
+        "lon": "16.744183",
+        "order": "10"
+    },
+    {
+        "id": "205",
+        "stopId": "205",
+        name: "Os. Młyńskie",
+        "label": "205",
+        "platform": "0",
+        "lat": "50.683825",
+        "lon": "16.736046",
+        "order": "11"
+    },
+    {
+        "id": "203",
+        "stopId": "203",
+        name: "Staw",
+        "label": "203",
+        "platform": "0",
+        "lat": "50.682336",
+        "lon": "16.72549",
+        "order": "12"
+    },
+    {
+        "id": "200",
+        "stopId": "200",
+        name: "Cz. Kościół",
+        "label": "200",
+        "platform": "0",
+        "lat": "50.685803",
+        "lon": "16.716575",
+        "order": "13"
+    },
+    {
+        "id": "198",
+        "stopId": "198",
+        name: "B. Kościół",
+        "label": "198",
+        "platform": "0",
+        "lat": "50.692245",
+        "lon": "16.703935",
+        "order": "14"
+    },
+    {
+        "id": "196",
+        "stopId": "196",
+        name: "Remiza",
+        "label": "196",
+        "platform": "0",
+        "lat": "50.69747",
+        "lon": "16.694223",
+        "order": "15"
+    },
+    {
+        "id": "194",
+        "stopId": "194",
+        name: "Szkoła",
+        "label": "194",
+        "platform": "0",
+        "lat": "50.70264",
+        "lon": "16.687386",
+        "order": "16"
+    },
+    {
+        "id": "192",
+        "stopId": "192",
+        name: "I",
+        "label": "192",
+        "platform": "0",
+        "lat": "50.706746",
+        "lon": "16.680111",
+        "order": "17"
+    },
+    {
+        "id": "190",
+        "stopId": "190",
+        name: "POM",
+        "label": "190",
+        "platform": "0",
+        "lat": "50.713093",
+        "lon": "16.673775",
+        "order": "18"
+    },
+    {
+        "id": "141",
+        "stopId": "141",
+        name: "Wojska Polskiego II",
+        "label": "141",
+        "platform": "0",
+        "lat": "50.719718",
+        "lon": "16.668531",
+        "order": "19"
+    },
+    {
+        "id": "131",
+        "stopId": "131",
+        name: "Wojska Polskiego I",
+        "label": "131",
+        "platform": "0",
+        "lat": "50.723098",
+        "lon": "16.664985",
+        "order": "20"
+    },
+    {
+        "id": "135",
+        "stopId": "135",
+        name: "Ząbkowicka",
+        "label": "135",
+        "platform": "0",
+        "lat": "50.727095",
+        "lon": "16.65664",
+        "order": "21"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "22"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "23"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "24"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "25"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "26"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "27"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "28"
+    }
+]

@@ -1,0 +1,1129 @@
+[
+    {
+        "id": "181",
+        "stopId": "181",
+        name: "Bratoszów II",
+        "label": "181",
+        "platform": "0",
+        "lat": "50.74655",
+        "lon": "16.586311",
+        "order": "1"
+    },
+    {
+        "id": "186",
+        "stopId": "186",
+        name: "Kółko Rolnicze",
+        "label": "186",
+        "platform": "0",
+        "lat": "50.732913",
+        "lon": "16.605728",
+        "order": "2"
+    },
+    {
+        "id": "185",
+        "stopId": "185",
+        name: "Szkoła",
+        "label": "185",
+        "platform": "0",
+        "lat": "50.726313",
+        "lon": "16.596456",
+        "order": "3"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "4"
+    },
+    {
+        "id": "163",
+        "stopId": "163",
+        name: "Pieszyce Bielawska",
+        "label": "163",
+        "platform": "0",
+        "lat": "50.715765",
+        "lon": "16.587015",
+        "order": "5"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "6"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "7"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "8"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "9"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "10"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "11"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "12"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "13"
+    },
+    {
+        "id": "68",
+        "stopId": "68",
+        name: "Batalionów Chłopskich",
+        "label": "68",
+        "platform": "0",
+        "lat": "50.719951",
+        "lon": "16.650228",
+        "order": "14"
+    }
+,
+    {
+        "id": "181",
+        "stopId": "181",
+        name: "Bratoszów II",
+        "label": "181",
+        "platform": "0",
+        "lat": "50.74655",
+        "lon": "16.586311",
+        "order": "1"
+    },
+    {
+        "id": "186",
+        "stopId": "186",
+        name: "Kółko Rolnicze",
+        "label": "186",
+        "platform": "0",
+        "lat": "50.732913",
+        "lon": "16.605728",
+        "order": "2"
+    },
+    {
+        "id": "185",
+        "stopId": "185",
+        name: "Szkoła",
+        "label": "185",
+        "platform": "0",
+        "lat": "50.726313",
+        "lon": "16.596456",
+        "order": "3"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "4"
+    },
+    {
+        "id": "163",
+        "stopId": "163",
+        name: "Pieszyce Bielawska",
+        "label": "163",
+        "platform": "0",
+        "lat": "50.715765",
+        "lon": "16.587015",
+        "order": "5"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "6"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "7"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "8"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "9"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "10"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "11"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "12"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "13"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "14"
+    }
+,
+    {
+        "id": "181",
+        "stopId": "181",
+        name: "Bratoszów II",
+        "label": "181",
+        "platform": "0",
+        "lat": "50.74655",
+        "lon": "16.586311",
+        "order": "1"
+    },
+    {
+        "id": "186",
+        "stopId": "186",
+        name: "Kółko Rolnicze",
+        "label": "186",
+        "platform": "0",
+        "lat": "50.732913",
+        "lon": "16.605728",
+        "order": "2"
+    },
+    {
+        "id": "185",
+        "stopId": "185",
+        name: "Szkoła",
+        "label": "185",
+        "platform": "0",
+        "lat": "50.726313",
+        "lon": "16.596456",
+        "order": "3"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "4"
+    },
+    {
+        "id": "163",
+        "stopId": "163",
+        name: "Pieszyce Bielawska",
+        "label": "163",
+        "platform": "0",
+        "lat": "50.715765",
+        "lon": "16.587015",
+        "order": "5"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "6"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "7"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "8"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "9"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "10"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "11"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "12"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "13"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "14"
+    },
+    {
+        "id": "85",
+        "stopId": "85",
+        name: "Dzierżoniów DT.Ślązak",
+        "label": "85",
+        "platform": "0",
+        "lat": "50.72577",
+        "lon": "16.645711",
+        "order": "15"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "16"
+    },
+    {
+        "id": "133",
+        "stopId": "133",
+        name: "Zajezdnia PKS",
+        "label": "133",
+        "platform": "0",
+        "lat": "50.724691",
+        "lon": "16.629685",
+        "order": "17"
+    },
+    {
+        "id": "187",
+        "stopId": "187",
+        name: "Dolne",
+        "label": "187",
+        "platform": "0",
+        "lat": "50.725423",
+        "lon": "16.596171",
+        "order": "18"
+    },
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "19"
+    },
+    {
+        "id": "176",
+        "stopId": "176",
+        name: "Kolonia Dorotka",
+        "label": "176",
+        "platform": "0",
+        "lat": "50.728731",
+        "lon": "16.565029",
+        "order": "20"
+    },
+    {
+        "id": "177",
+        "stopId": "177",
+        name: "I",
+        "label": "177",
+        "platform": "0",
+        "lat": "50.73402",
+        "lon": "16.562267",
+        "order": "21"
+    },
+    {
+        "id": "178",
+        "stopId": "178",
+        name: "II",
+        "label": "178",
+        "platform": "0",
+        "lat": "50.742006",
+        "lon": "16.571325",
+        "order": "22"
+    },
+    {
+        "id": "179",
+        "stopId": "179",
+        name: "III",
+        "label": "179",
+        "platform": "0",
+        "lat": "50.747615",
+        "lon": "16.572156",
+        "order": "23"
+    },
+    {
+        "id": "180",
+        "stopId": "180",
+        name: "I",
+        "label": "180",
+        "platform": "0",
+        "lat": "50.744591",
+        "lon": "16.590988",
+        "order": "24"
+    }
+,
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "1"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "2"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "3"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "4"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "5"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "6"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "7"
+    },
+    {
+        "id": "85",
+        "stopId": "85",
+        name: "Dzierżoniów DT.Ślązak",
+        "label": "85",
+        "platform": "0",
+        "lat": "50.72577",
+        "lon": "16.645711",
+        "order": "8"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "9"
+    },
+    {
+        "id": "133",
+        "stopId": "133",
+        name: "Zajezdnia PKS",
+        "label": "133",
+        "platform": "0",
+        "lat": "50.724691",
+        "lon": "16.629685",
+        "order": "10"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "11"
+    },
+    {
+        "id": "187",
+        "stopId": "187",
+        name: "Dolne",
+        "label": "187",
+        "platform": "0",
+        "lat": "50.725423",
+        "lon": "16.596171",
+        "order": "12"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "13"
+    },
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "14"
+    },
+    {
+        "id": "176",
+        "stopId": "176",
+        name: "Kolonia Dorotka",
+        "label": "176",
+        "platform": "0",
+        "lat": "50.728731",
+        "lon": "16.565029",
+        "order": "15"
+    },
+    {
+        "id": "177",
+        "stopId": "177",
+        name: "I",
+        "label": "177",
+        "platform": "0",
+        "lat": "50.73402",
+        "lon": "16.562267",
+        "order": "16"
+    },
+    {
+        "id": "178",
+        "stopId": "178",
+        name: "II",
+        "label": "178",
+        "platform": "0",
+        "lat": "50.742006",
+        "lon": "16.571325",
+        "order": "17"
+    },
+    {
+        "id": "179",
+        "stopId": "179",
+        name: "III",
+        "label": "179",
+        "platform": "0",
+        "lat": "50.747615",
+        "lon": "16.572156",
+        "order": "18"
+    },
+    {
+        "id": "180",
+        "stopId": "180",
+        name: "I",
+        "label": "180",
+        "platform": "0",
+        "lat": "50.744591",
+        "lon": "16.590988",
+        "order": "19"
+    },
+    {
+        "id": "181",
+        "stopId": "181",
+        name: "Bratoszów II",
+        "label": "181",
+        "platform": "0",
+        "lat": "50.74655",
+        "lon": "16.586311",
+        "order": "20"
+    }
+,
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "1"
+    },
+    {
+        "id": "87",
+        "stopId": "87",
+        name: "Dworzec PKS Kopernika",
+        "label": "87",
+        "platform": "0",
+        "lat": "50.72458047266931",
+        "lon": "16.650711570776426",
+        "order": "2"
+    },
+    {
+        "id": "85",
+        "stopId": "85",
+        name: "Dzierżoniów DT.Ślązak",
+        "label": "85",
+        "platform": "0",
+        "lat": "50.72577",
+        "lon": "16.645711",
+        "order": "3"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "4"
+    },
+    {
+        "id": "133",
+        "stopId": "133",
+        name: "Zajezdnia PKS",
+        "label": "133",
+        "platform": "0",
+        "lat": "50.724691",
+        "lon": "16.629685",
+        "order": "5"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "6"
+    },
+    {
+        "id": "187",
+        "stopId": "187",
+        name: "Dolne",
+        "label": "187",
+        "platform": "0",
+        "lat": "50.725423",
+        "lon": "16.596171",
+        "order": "7"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "8"
+    },
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "9"
+    },
+    {
+        "id": "176",
+        "stopId": "176",
+        name: "Kolonia Dorotka",
+        "label": "176",
+        "platform": "0",
+        "lat": "50.728731",
+        "lon": "16.565029",
+        "order": "10"
+    },
+    {
+        "id": "177",
+        "stopId": "177",
+        name: "I",
+        "label": "177",
+        "platform": "0",
+        "lat": "50.73402",
+        "lon": "16.562267",
+        "order": "11"
+    },
+    {
+        "id": "178",
+        "stopId": "178",
+        name: "II",
+        "label": "178",
+        "platform": "0",
+        "lat": "50.742006",
+        "lon": "16.571325",
+        "order": "12"
+    },
+    {
+        "id": "179",
+        "stopId": "179",
+        name: "III",
+        "label": "179",
+        "platform": "0",
+        "lat": "50.747615",
+        "lon": "16.572156",
+        "order": "13"
+    },
+    {
+        "id": "180",
+        "stopId": "180",
+        name: "I",
+        "label": "180",
+        "platform": "0",
+        "lat": "50.744591",
+        "lon": "16.590988",
+        "order": "14"
+    },
+    {
+        "id": "181",
+        "stopId": "181",
+        name: "Bratoszów II",
+        "label": "181",
+        "platform": "0",
+        "lat": "50.74655",
+        "lon": "16.586311",
+        "order": "15"
+    }
+,
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "1"
+    },
+    {
+        "id": "176",
+        "stopId": "176",
+        name: "Kolonia Dorotka",
+        "label": "176",
+        "platform": "0",
+        "lat": "50.728731",
+        "lon": "16.565029",
+        "order": "2"
+    },
+    {
+        "id": "177",
+        "stopId": "177",
+        name: "I",
+        "label": "177",
+        "platform": "0",
+        "lat": "50.73402",
+        "lon": "16.562267",
+        "order": "3"
+    },
+    {
+        "id": "178",
+        "stopId": "178",
+        name: "II",
+        "label": "178",
+        "platform": "0",
+        "lat": "50.742006",
+        "lon": "16.571325",
+        "order": "4"
+    },
+    {
+        "id": "179",
+        "stopId": "179",
+        name: "III",
+        "label": "179",
+        "platform": "0",
+        "lat": "50.747615",
+        "lon": "16.572156",
+        "order": "5"
+    },
+    {
+        "id": "180",
+        "stopId": "180",
+        name: "I",
+        "label": "180",
+        "platform": "0",
+        "lat": "50.744591",
+        "lon": "16.590988",
+        "order": "6"
+    },
+    {
+        "id": "181",
+        "stopId": "181",
+        name: "Bratoszów II",
+        "label": "181",
+        "platform": "0",
+        "lat": "50.74655",
+        "lon": "16.586311",
+        "order": "7"
+    }
+,
+    {
+        "id": "181",
+        "stopId": "181",
+        name: "Bratoszów II",
+        "label": "181",
+        "platform": "0",
+        "lat": "50.74655",
+        "lon": "16.586311",
+        "order": "1"
+    },
+    {
+        "id": "186",
+        "stopId": "186",
+        name: "Kółko Rolnicze",
+        "label": "186",
+        "platform": "0",
+        "lat": "50.732913",
+        "lon": "16.605728",
+        "order": "2"
+    },
+    {
+        "id": "185",
+        "stopId": "185",
+        name: "Szkoła",
+        "label": "185",
+        "platform": "0",
+        "lat": "50.726313",
+        "lon": "16.596456",
+        "order": "3"
+    },
+    {
+        "id": "183",
+        "stopId": "183",
+        name: "Świdnicka",
+        "label": "183",
+        "platform": "0",
+        "lat": "50.725431",
+        "lon": "16.594756",
+        "order": "4"
+    },
+    {
+        "id": "163",
+        "stopId": "163",
+        name: "Pieszyce Bielawska",
+        "label": "163",
+        "platform": "0",
+        "lat": "50.715765",
+        "lon": "16.587015",
+        "order": "5"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "6"
+    },
+    {
+        "id": "83",
+        "stopId": "83",
+        name: "Kilińskiego",
+        "label": "83",
+        "platform": "0",
+        "lat": "50.725973",
+        "lon": "16.636506",
+        "order": "7"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "8"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "9"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "10"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "11"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "12"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "13"
+    }
+,
+    {
+        "id": "85",
+        "stopId": "85",
+        name: "Dzierżoniów DT.Ślązak",
+        "label": "85",
+        "platform": "0",
+        "lat": "50.72577",
+        "lon": "16.645711",
+        "order": "1"
+    },
+    {
+        "id": "140",
+        "stopId": "140",
+        name: "Kilińskiego",
+        "label": "140",
+        "platform": "0",
+        "lat": "50.725671",
+        "lon": "16.635356",
+        "order": "2"
+    },
+    {
+        "id": "133",
+        "stopId": "133",
+        name: "Zajezdnia PKS",
+        "label": "133",
+        "platform": "0",
+        "lat": "50.724691",
+        "lon": "16.629685",
+        "order": "3"
+    },
+    {
+        "id": "84",
+        "stopId": "84",
+        name: "Pieszyce - Dzierżoniów",
+        "label": "84",
+        "platform": "0",
+        "lat": "50.724235",
+        "lon": "16.627318",
+        "order": "4"
+    },
+    {
+        "id": "164",
+        "stopId": "164",
+        name: "Pieszyce Bielawska",
+        "label": "164",
+        "platform": "0",
+        "lat": "50.715943",
+        "lon": "16.586248",
+        "order": "5"
+    }
+]

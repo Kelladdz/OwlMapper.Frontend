@@ -1,0 +1,503 @@
+[
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "1"
+    },
+    {
+        "id": "79",
+        "stopId": "79",
+        name: "Kościuszki",
+        "label": "79",
+        "platform": "0",
+        "lat": "50.729709",
+        "lon": "16.642877",
+        "order": "2"
+    },
+    {
+        "id": "78",
+        "stopId": "78",
+        name: "Diora",
+        "label": "78",
+        "platform": "0",
+        "lat": "50.733636",
+        "lon": "16.642598",
+        "order": "3"
+    },
+    {
+        "id": "97",
+        "stopId": "97",
+        name: "Os. Błękitne",
+        "label": "97",
+        "platform": "0",
+        "lat": "50.737558",
+        "lon": "16.641568",
+        "order": "4"
+    },
+    {
+        "id": "73",
+        "stopId": "73",
+        name: "Os. Jasne",
+        "label": "73",
+        "platform": "0",
+        "lat": "50.73415159632134",
+        "lon": "16.650347186508128",
+        "order": "5"
+    },
+    {
+        "id": "71",
+        "stopId": "71",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "71",
+        "platform": "0",
+        "lat": "50.73015873827369",
+        "lon": "16.652470813492187",
+        "order": "6"
+    },
+    {
+        "id": "136",
+        "stopId": "136",
+        name: "Ząbkowicka",
+        "label": "136",
+        "platform": "0",
+        "lat": "50.72701",
+        "lon": "16.65679",
+        "order": "7"
+    },
+    {
+        "id": "113",
+        "stopId": "113",
+        name: "Ogródki działkowe",
+        "label": "113",
+        "platform": "0",
+        "lat": "50.730203",
+        "lon": "16.672655",
+        "order": "8"
+    },
+    {
+        "id": "1",
+        "stopId": "1",
+        name: "Cicha",
+        "label": "1",
+        "platform": "0",
+        "lat": "50.652091",
+        "lon": "16.582955",
+        "order": "9"
+    },
+    {
+        "id": "246",
+        "stopId": "246",
+        name: "I",
+        "label": "246",
+        "platform": "0",
+        "lat": "50.732096",
+        "lon": "16.69674",
+        "order": "10"
+    },
+    {
+        "id": "250",
+        "stopId": "250",
+        name: "II",
+        "label": "250",
+        "platform": "0",
+        "lat": "50.736933",
+        "lon": "16.712993",
+        "order": "11"
+    },
+    {
+        "id": "252",
+        "stopId": "252",
+        name: "I",
+        "label": "252",
+        "platform": "0",
+        "lat": "50.740451",
+        "lon": "16.72369",
+        "order": "12"
+    },
+    {
+        "id": "254",
+        "stopId": "254",
+        name: "Wieś",
+        "label": "254",
+        "platform": "0",
+        "lat": "50.74406",
+        "lon": "16.732718",
+        "order": "13"
+    },
+    {
+        "id": "258",
+        "stopId": "258",
+        name: "skrzyżowanie",
+        "label": "258",
+        "platform": "0",
+        "lat": "50.740013",
+        "lon": "16.735993",
+        "order": "14"
+    },
+    {
+        "id": "260",
+        "stopId": "260",
+        name: "",
+        "label": "260",
+        "platform": "0",
+        "lat": "50.728261",
+        "lon": "16.742295",
+        "order": "15"
+    },
+    {
+        "id": "262",
+        "stopId": "262",
+        name: "I",
+        "label": "262",
+        "platform": "0",
+        "lat": "50.723803",
+        "lon": "16.752933",
+        "order": "16"
+    },
+    {
+        "id": "264",
+        "stopId": "264",
+        name: "Sklep",
+        "label": "264",
+        "platform": "0",
+        "lat": "50.721375",
+        "lon": "16.76444",
+        "order": "17"
+    },
+    {
+        "id": "266",
+        "stopId": "266",
+        name: "skrzyżowanie",
+        "label": "266",
+        "platform": "0",
+        "lat": "50.721566",
+        "lon": "16.776781",
+        "order": "18"
+    },
+    {
+        "id": "268",
+        "stopId": "268",
+        name: "II",
+        "label": "268",
+        "platform": "0",
+        "lat": "50.720243",
+        "lon": "16.78396",
+        "order": "19"
+    },
+    {
+        "id": "278",
+        "stopId": "278",
+        name: "Os. Podmiejskie",
+        "label": "278",
+        "platform": "0",
+        "lat": "50.72181",
+        "lon": "16.828266",
+        "order": "20"
+    },
+    {
+        "id": "284",
+        "stopId": "284",
+        name: "Niemcza Remiza",
+        "label": "284",
+        "platform": "0",
+        "lat": "50.713503",
+        "lon": "16.833686",
+        "order": "21"
+    },
+    {
+        "id": "283",
+        "stopId": "283",
+        name: "Słowackiego",
+        "label": "283",
+        "platform": "0",
+        "lat": "50.715561",
+        "lon": "16.837076",
+        "order": "22"
+    },
+    {
+        "id": "281",
+        "stopId": "281",
+        name: "Niemcza dworzec PKP",
+        "label": "281",
+        "platform": "0",
+        "lat": "50.723323",
+        "lon": "16.836338",
+        "order": "23"
+    },
+    {
+        "id": "275",
+        "stopId": "275",
+        name: "skrzyżowanie",
+        "label": "275",
+        "platform": "0",
+        "lat": "50.751473",
+        "lon": "16.847505",
+        "order": "24"
+    },
+    {
+        "id": "277",
+        "stopId": "277",
+        name: "Sklep",
+        "label": "277",
+        "platform": "0",
+        "lat": "50.751473",
+        "lon": "16.847505",
+        "order": "25"
+    },
+    {
+        "id": "276",
+        "stopId": "276",
+        name: "skrzyżowanie",
+        "label": "276",
+        "platform": "0",
+        "lat": "0.0",
+        "lon": "0.0",
+        "order": "26"
+    },
+    {
+        "id": "273",
+        "stopId": "273",
+        name: "Kietlin",
+        "label": "273",
+        "platform": "0",
+        "lat": "50.744938",
+        "lon": "16.831113",
+        "order": "27"
+    }
+,
+    {
+        "id": "274",
+        "stopId": "274",
+        name: "Kietlin",
+        "label": "274",
+        "platform": "0",
+        "lat": "50.744938",
+        "lon": "16.831113",
+        "order": "1"
+    },
+    {
+        "id": "276",
+        "stopId": "276",
+        name: "skrzyżowanie",
+        "label": "276",
+        "platform": "0",
+        "lat": "0.0",
+        "lon": "0.0",
+        "order": "2"
+    },
+    {
+        "id": "280",
+        "stopId": "280",
+        name: "Niemcza dworzec PKP",
+        "label": "280",
+        "platform": "0",
+        "lat": "50.723363",
+        "lon": "16.836246",
+        "order": "3"
+    },
+    {
+        "id": "282",
+        "stopId": "282",
+        name: "Słowackiego",
+        "label": "282",
+        "platform": "0",
+        "lat": "50.715678",
+        "lon": "16.837225",
+        "order": "4"
+    },
+    {
+        "id": "284",
+        "stopId": "284",
+        name: "Niemcza Remiza",
+        "label": "284",
+        "platform": "0",
+        "lat": "50.713503",
+        "lon": "16.833686",
+        "order": "5"
+    },
+    {
+        "id": "279",
+        "stopId": "279",
+        name: "Os. Podmiejskie",
+        "label": "279",
+        "platform": "0",
+        "lat": "50.721748",
+        "lon": "16.828228",
+        "order": "6"
+    },
+    {
+        "id": "267",
+        "stopId": "267",
+        name: "II",
+        "label": "267",
+        "platform": "0",
+        "lat": "50.720265",
+        "lon": "16.784495",
+        "order": "7"
+    },
+    {
+        "id": "265",
+        "stopId": "265",
+        name: "skrzyżowanie",
+        "label": "265",
+        "platform": "0",
+        "lat": "50.721515",
+        "lon": "16.77651",
+        "order": "8"
+    },
+    {
+        "id": "263",
+        "stopId": "263",
+        name: "Sklep",
+        "label": "263",
+        "platform": "0",
+        "lat": "50.721423",
+        "lon": "16.764413",
+        "order": "9"
+    },
+    {
+        "id": "261",
+        "stopId": "261",
+        name: "I",
+        "label": "261",
+        "platform": "0",
+        "lat": "50.723866",
+        "lon": "16.752921",
+        "order": "10"
+    },
+    {
+        "id": "259",
+        "stopId": "259",
+        name: "",
+        "label": "259",
+        "platform": "0",
+        "lat": "50.728283",
+        "lon": "16.742521",
+        "order": "11"
+    },
+    {
+        "id": "247",
+        "stopId": "247",
+        name: "Sklep",
+        "label": "247",
+        "platform": "0",
+        "lat": "50.733821",
+        "lon": "16.706608",
+        "order": "12"
+    },
+    {
+        "id": "245",
+        "stopId": "245",
+        name: "I",
+        "label": "245",
+        "platform": "0",
+        "lat": "50.732171",
+        "lon": "16.696561",
+        "order": "13"
+    },
+    {
+        "id": "2",
+        "stopId": "2",
+        name: "Cicha",
+        "label": "2",
+        "platform": "0",
+        "lat": "50.658398",
+        "lon": "16.59364",
+        "order": "14"
+    },
+    {
+        "id": "114",
+        "stopId": "114",
+        name: "Ogródki działkowe",
+        "label": "114",
+        "platform": "0",
+        "lat": "50.730151",
+        "lon": "16.672801",
+        "order": "15"
+    },
+    {
+        "id": "135",
+        "stopId": "135",
+        name: "Ząbkowicka",
+        "label": "135",
+        "platform": "0",
+        "lat": "50.727095",
+        "lon": "16.65664",
+        "order": "16"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "17"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "18"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "19"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "20"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "21"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "22"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "23"
+    }
+]

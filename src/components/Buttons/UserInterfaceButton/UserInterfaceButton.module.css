@@ -1,0 +1,11 @@
+.btn {
+    background-color: #fafafa;
+    box-sizing: border-box;
+    border: none;
+    outline: 4px solid rgb(0, 0, 0, 0.23);
+
+    width: 11rem;
+    border-radius: 7px;
+    height: 2rem;
+    font-size: 0.75rem;
+}

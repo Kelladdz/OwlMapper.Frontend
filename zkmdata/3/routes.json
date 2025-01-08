@@ -1,0 +1,3826 @@
+[
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "1"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "2"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "3"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "4"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "5"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "6"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "7"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "8"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "9"
+    },
+    {
+        "id": "44",
+        "stopId": "44",
+        name: "Bata",
+        "label": "44",
+        "platform": "0",
+        "lat": "50.693123",
+        "lon": "16.628578",
+        "order": "10"
+    },
+    {
+        "id": "47",
+        "stopId": "47",
+        name: "Bieltex I",
+        "label": "47",
+        "platform": "0",
+        "lat": "50.695145",
+        "lon": "16.637528",
+        "order": "11"
+    },
+    {
+        "id": "49",
+        "stopId": "49",
+        name: "Gazownia",
+        "label": "49",
+        "platform": "0",
+        "lat": "50.702553",
+        "lon": "16.644515",
+        "order": "12"
+    },
+    {
+        "id": "67",
+        "stopId": "67",
+        name: "MZK",
+        "label": "67",
+        "platform": "0",
+        "lat": "50.715253",
+        "lon": "16.650285",
+        "order": "13"
+    },
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "14"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "15"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "16"
+    }
+,
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "1"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "2"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "3"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "4"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "5"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "6"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "7"
+    },
+    {
+        "id": "86",
+        "stopId": "86",
+        name: "Dworzec PKS Kopernika",
+        "label": "86",
+        "platform": "0",
+        "lat": "50.724808",
+        "lon": "16.64929",
+        "order": "8"
+    },
+    {
+        "id": "68",
+        "stopId": "68",
+        name: "Batalionów Chłopskich",
+        "label": "68",
+        "platform": "0",
+        "lat": "50.719951",
+        "lon": "16.650228",
+        "order": "9"
+    },
+    {
+        "id": "66",
+        "stopId": "66",
+        name: "MZK",
+        "label": "66",
+        "platform": "0",
+        "lat": "50.715416",
+        "lon": "16.650555",
+        "order": "10"
+    },
+    {
+        "id": "48",
+        "stopId": "48",
+        name: "Gazownia",
+        "label": "48",
+        "platform": "0",
+        "lat": "50.701316",
+        "lon": "16.643836",
+        "order": "11"
+    },
+    {
+        "id": "46",
+        "stopId": "46",
+        name: "Bieltex I",
+        "label": "46",
+        "platform": "0",
+        "lat": "50.695393",
+        "lon": "16.63842",
+        "order": "12"
+    },
+    {
+        "id": "42",
+        "stopId": "42",
+        name: "Bata",
+        "label": "42",
+        "platform": "0",
+        "lat": "50.693475",
+        "lon": "16.629056",
+        "order": "13"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "14"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "15"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "16"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "17"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "18"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "19"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "20"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "21"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "22"
+    }
+,
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "1"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "2"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "3"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "4"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "5"
+    },
+    {
+        "id": "35",
+        "stopId": "35",
+        name: "Sikorskiego Rondo",
+        "label": "35",
+        "platform": "0",
+        "lat": "50.679741",
+        "lon": "16.625978",
+        "order": "6"
+    },
+    {
+        "id": "51",
+        "stopId": "51",
+        name: "Cmentarz Komunalny",
+        "label": "51",
+        "platform": "0",
+        "lat": "50.676693",
+        "lon": "16.63767",
+        "order": "7"
+    },
+    {
+        "id": "52",
+        "stopId": "52",
+        name: "Myśliszów",
+        "label": "52",
+        "platform": "0",
+        "lat": "50.673616",
+        "lon": "16.646763",
+        "order": "8"
+    },
+    {
+        "id": "36",
+        "stopId": "36",
+        name: "Sikorskiego Rondo",
+        "label": "36",
+        "platform": "0",
+        "lat": "50.679506",
+        "lon": "16.625546",
+        "order": "9"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "10"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "11"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "12"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "13"
+    },
+    {
+        "id": "44",
+        "stopId": "44",
+        name: "Bata",
+        "label": "44",
+        "platform": "0",
+        "lat": "50.693123",
+        "lon": "16.628578",
+        "order": "14"
+    },
+    {
+        "id": "47",
+        "stopId": "47",
+        name: "Bieltex I",
+        "label": "47",
+        "platform": "0",
+        "lat": "50.695145",
+        "lon": "16.637528",
+        "order": "15"
+    },
+    {
+        "id": "49",
+        "stopId": "49",
+        name: "Gazownia",
+        "label": "49",
+        "platform": "0",
+        "lat": "50.702553",
+        "lon": "16.644515",
+        "order": "16"
+    },
+    {
+        "id": "67",
+        "stopId": "67",
+        name: "MZK",
+        "label": "67",
+        "platform": "0",
+        "lat": "50.715253",
+        "lon": "16.650285",
+        "order": "17"
+    },
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "18"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "19"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "20"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "21"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "22"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "23"
+    },
+    {
+        "id": "137",
+        "stopId": "137",
+        name: "Złota II",
+        "label": "137",
+        "platform": "0",
+        "lat": "50.735423",
+        "lon": "16.636745",
+        "order": "24"
+    },
+    {
+        "id": "126",
+        "stopId": "126",
+        name: "Technika Szpitalna",
+        "label": "126",
+        "platform": "0",
+        "lat": "50.733443",
+        "lon": "16.634298",
+        "order": "25"
+    },
+    {
+        "id": "122",
+        "stopId": "122",
+        name: "Strefa Ekonomiczna",
+        "label": "122",
+        "platform": "0",
+        "lat": "50.729376",
+        "lon": "16.630026",
+        "order": "26"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "27"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "28"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "29"
+    },
+    {
+        "id": "304",
+        "stopId": "304",
+        name: "Strefowa II",
+        "label": "304",
+        "platform": "0",
+        "lat": "50.74151494702591",
+        "lon": "16.612750967358807",
+        "order": "30"
+    },
+    {
+        "id": "128",
+        "stopId": "128",
+        name: "Dzierżoniów  ul.Strefowa",
+        "label": "128",
+        "platform": "0",
+        "lat": "50.731993",
+        "lon": "16.622788",
+        "order": "31"
+    },
+    {
+        "id": "127",
+        "stopId": "127",
+        name: "Technika Szpitalna",
+        "label": "127",
+        "platform": "0",
+        "lat": "50.734158",
+        "lon": "16.635188",
+        "order": "32"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "33"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "34"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "35"
+    },
+    {
+        "id": "86",
+        "stopId": "86",
+        name: "Dworzec PKS Kopernika",
+        "label": "86",
+        "platform": "0",
+        "lat": "50.724808",
+        "lon": "16.64929",
+        "order": "36"
+    },
+    {
+        "id": "68",
+        "stopId": "68",
+        name: "Batalionów Chłopskich",
+        "label": "68",
+        "platform": "0",
+        "lat": "50.719951",
+        "lon": "16.650228",
+        "order": "37"
+    },
+    {
+        "id": "66",
+        "stopId": "66",
+        name: "MZK",
+        "label": "66",
+        "platform": "0",
+        "lat": "50.715416",
+        "lon": "16.650555",
+        "order": "38"
+    },
+    {
+        "id": "48",
+        "stopId": "48",
+        name: "Gazownia",
+        "label": "48",
+        "platform": "0",
+        "lat": "50.701316",
+        "lon": "16.643836",
+        "order": "39"
+    },
+    {
+        "id": "46",
+        "stopId": "46",
+        name: "Bieltex I",
+        "label": "46",
+        "platform": "0",
+        "lat": "50.695393",
+        "lon": "16.63842",
+        "order": "40"
+    },
+    {
+        "id": "42",
+        "stopId": "42",
+        name: "Bata",
+        "label": "42",
+        "platform": "0",
+        "lat": "50.693475",
+        "lon": "16.629056",
+        "order": "41"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "42"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "43"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "44"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "45"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "46"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "47"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "48"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "49"
+    }
+,
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "1"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "2"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "3"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "4"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "5"
+    },
+    {
+        "id": "35",
+        "stopId": "35",
+        name: "Sikorskiego Rondo",
+        "label": "35",
+        "platform": "0",
+        "lat": "50.679741",
+        "lon": "16.625978",
+        "order": "6"
+    },
+    {
+        "id": "51",
+        "stopId": "51",
+        name: "Cmentarz Komunalny",
+        "label": "51",
+        "platform": "0",
+        "lat": "50.676693",
+        "lon": "16.63767",
+        "order": "7"
+    },
+    {
+        "id": "52",
+        "stopId": "52",
+        name: "Myśliszów",
+        "label": "52",
+        "platform": "0",
+        "lat": "50.673616",
+        "lon": "16.646763",
+        "order": "8"
+    },
+    {
+        "id": "36",
+        "stopId": "36",
+        name: "Sikorskiego Rondo",
+        "label": "36",
+        "platform": "0",
+        "lat": "50.679506",
+        "lon": "16.625546",
+        "order": "9"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "10"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "11"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "12"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "13"
+    },
+    {
+        "id": "44",
+        "stopId": "44",
+        name: "Bata",
+        "label": "44",
+        "platform": "0",
+        "lat": "50.693123",
+        "lon": "16.628578",
+        "order": "14"
+    },
+    {
+        "id": "47",
+        "stopId": "47",
+        name: "Bieltex I",
+        "label": "47",
+        "platform": "0",
+        "lat": "50.695145",
+        "lon": "16.637528",
+        "order": "15"
+    },
+    {
+        "id": "49",
+        "stopId": "49",
+        name: "Gazownia",
+        "label": "49",
+        "platform": "0",
+        "lat": "50.702553",
+        "lon": "16.644515",
+        "order": "16"
+    },
+    {
+        "id": "67",
+        "stopId": "67",
+        name: "MZK",
+        "label": "67",
+        "platform": "0",
+        "lat": "50.715253",
+        "lon": "16.650285",
+        "order": "17"
+    },
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "18"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "19"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "20"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "21"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "22"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "23"
+    },
+    {
+        "id": "137",
+        "stopId": "137",
+        name: "Złota II",
+        "label": "137",
+        "platform": "0",
+        "lat": "50.735423",
+        "lon": "16.636745",
+        "order": "24"
+    },
+    {
+        "id": "126",
+        "stopId": "126",
+        name: "Technika Szpitalna",
+        "label": "126",
+        "platform": "0",
+        "lat": "50.733443",
+        "lon": "16.634298",
+        "order": "25"
+    },
+    {
+        "id": "122",
+        "stopId": "122",
+        name: "Strefa Ekonomiczna",
+        "label": "122",
+        "platform": "0",
+        "lat": "50.729376",
+        "lon": "16.630026",
+        "order": "26"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "27"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "28"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "29"
+    },
+    {
+        "id": "304",
+        "stopId": "304",
+        name: "Strefowa II",
+        "label": "304",
+        "platform": "0",
+        "lat": "50.74151494702591",
+        "lon": "16.612750967358807",
+        "order": "30"
+    },
+    {
+        "id": "128",
+        "stopId": "128",
+        name: "Dzierżoniów  ul.Strefowa",
+        "label": "128",
+        "platform": "0",
+        "lat": "50.731993",
+        "lon": "16.622788",
+        "order": "31"
+    },
+    {
+        "id": "127",
+        "stopId": "127",
+        name: "Technika Szpitalna",
+        "label": "127",
+        "platform": "0",
+        "lat": "50.734158",
+        "lon": "16.635188",
+        "order": "32"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "33"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "34"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "35"
+    },
+    {
+        "id": "86",
+        "stopId": "86",
+        name: "Dworzec PKS Kopernika",
+        "label": "86",
+        "platform": "0",
+        "lat": "50.724808",
+        "lon": "16.64929",
+        "order": "36"
+    },
+    {
+        "id": "68",
+        "stopId": "68",
+        name: "Batalionów Chłopskich",
+        "label": "68",
+        "platform": "0",
+        "lat": "50.719951",
+        "lon": "16.650228",
+        "order": "37"
+    },
+    {
+        "id": "66",
+        "stopId": "66",
+        name: "MZK",
+        "label": "66",
+        "platform": "0",
+        "lat": "50.715416",
+        "lon": "16.650555",
+        "order": "38"
+    },
+    {
+        "id": "48",
+        "stopId": "48",
+        name: "Gazownia",
+        "label": "48",
+        "platform": "0",
+        "lat": "50.701316",
+        "lon": "16.643836",
+        "order": "39"
+    },
+    {
+        "id": "46",
+        "stopId": "46",
+        name: "Bieltex I",
+        "label": "46",
+        "platform": "0",
+        "lat": "50.695393",
+        "lon": "16.63842",
+        "order": "40"
+    },
+    {
+        "id": "42",
+        "stopId": "42",
+        name: "Bata",
+        "label": "42",
+        "platform": "0",
+        "lat": "50.693475",
+        "lon": "16.629056",
+        "order": "41"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "42"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "43"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "44"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "45"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "46"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "47"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "48"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "49"
+    }
+,
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "1"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "2"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "3"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "4"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "5"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "6"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "7"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "8"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "9"
+    },
+    {
+        "id": "44",
+        "stopId": "44",
+        name: "Bata",
+        "label": "44",
+        "platform": "0",
+        "lat": "50.693123",
+        "lon": "16.628578",
+        "order": "10"
+    },
+    {
+        "id": "47",
+        "stopId": "47",
+        name: "Bieltex I",
+        "label": "47",
+        "platform": "0",
+        "lat": "50.695145",
+        "lon": "16.637528",
+        "order": "11"
+    },
+    {
+        "id": "49",
+        "stopId": "49",
+        name: "Gazownia",
+        "label": "49",
+        "platform": "0",
+        "lat": "50.702553",
+        "lon": "16.644515",
+        "order": "12"
+    },
+    {
+        "id": "67",
+        "stopId": "67",
+        name: "MZK",
+        "label": "67",
+        "platform": "0",
+        "lat": "50.715253",
+        "lon": "16.650285",
+        "order": "13"
+    },
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "14"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "15"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "16"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "17"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "18"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "19"
+    },
+    {
+        "id": "137",
+        "stopId": "137",
+        name: "Złota II",
+        "label": "137",
+        "platform": "0",
+        "lat": "50.735423",
+        "lon": "16.636745",
+        "order": "20"
+    },
+    {
+        "id": "126",
+        "stopId": "126",
+        name: "Technika Szpitalna",
+        "label": "126",
+        "platform": "0",
+        "lat": "50.733443",
+        "lon": "16.634298",
+        "order": "21"
+    },
+    {
+        "id": "122",
+        "stopId": "122",
+        name: "Strefa Ekonomiczna",
+        "label": "122",
+        "platform": "0",
+        "lat": "50.729376",
+        "lon": "16.630026",
+        "order": "22"
+    },
+    {
+        "id": "124",
+        "stopId": "124",
+        name: "Strefa Orion",
+        "label": "124",
+        "platform": "0",
+        "lat": "50.728985",
+        "lon": "16.625548",
+        "order": "23"
+    },
+    {
+        "id": "305",
+        "stopId": "305",
+        name: "Strefowa III",
+        "label": "305",
+        "platform": "0",
+        "lat": "50.73604961401628",
+        "lon": "16.616733750915536",
+        "order": "24"
+    },
+    {
+        "id": "303",
+        "stopId": "303",
+        name: "Strefowa I",
+        "label": "303",
+        "platform": "0",
+        "lat": "50.74197665037257",
+        "lon": "16.612657267559293",
+        "order": "25"
+    },
+    {
+        "id": "304",
+        "stopId": "304",
+        name: "Strefowa II",
+        "label": "304",
+        "platform": "0",
+        "lat": "50.74151494702591",
+        "lon": "16.612750967358807",
+        "order": "26"
+    },
+    {
+        "id": "128",
+        "stopId": "128",
+        name: "Dzierżoniów  ul.Strefowa",
+        "label": "128",
+        "platform": "0",
+        "lat": "50.731993",
+        "lon": "16.622788",
+        "order": "27"
+    },
+    {
+        "id": "127",
+        "stopId": "127",
+        name: "Technika Szpitalna",
+        "label": "127",
+        "platform": "0",
+        "lat": "50.734158",
+        "lon": "16.635188",
+        "order": "28"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "29"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "30"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "31"
+    },
+    {
+        "id": "86",
+        "stopId": "86",
+        name: "Dworzec PKS Kopernika",
+        "label": "86",
+        "platform": "0",
+        "lat": "50.724808",
+        "lon": "16.64929",
+        "order": "32"
+    },
+    {
+        "id": "68",
+        "stopId": "68",
+        name: "Batalionów Chłopskich",
+        "label": "68",
+        "platform": "0",
+        "lat": "50.719951",
+        "lon": "16.650228",
+        "order": "33"
+    },
+    {
+        "id": "66",
+        "stopId": "66",
+        name: "MZK",
+        "label": "66",
+        "platform": "0",
+        "lat": "50.715416",
+        "lon": "16.650555",
+        "order": "34"
+    },
+    {
+        "id": "48",
+        "stopId": "48",
+        name: "Gazownia",
+        "label": "48",
+        "platform": "0",
+        "lat": "50.701316",
+        "lon": "16.643836",
+        "order": "35"
+    },
+    {
+        "id": "46",
+        "stopId": "46",
+        name: "Bieltex I",
+        "label": "46",
+        "platform": "0",
+        "lat": "50.695393",
+        "lon": "16.63842",
+        "order": "36"
+    },
+    {
+        "id": "42",
+        "stopId": "42",
+        name: "Bata",
+        "label": "42",
+        "platform": "0",
+        "lat": "50.693475",
+        "lon": "16.629056",
+        "order": "37"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "38"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "39"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "40"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "41"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "42"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "43"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "44"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "45"
+    }
+,
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "1"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "2"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "3"
+    }
+,
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "1"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "2"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "3"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "4"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "5"
+    },
+    {
+        "id": "35",
+        "stopId": "35",
+        name: "Sikorskiego Rondo",
+        "label": "35",
+        "platform": "0",
+        "lat": "50.679741",
+        "lon": "16.625978",
+        "order": "6"
+    },
+    {
+        "id": "51",
+        "stopId": "51",
+        name: "Cmentarz Komunalny",
+        "label": "51",
+        "platform": "0",
+        "lat": "50.676693",
+        "lon": "16.63767",
+        "order": "7"
+    },
+    {
+        "id": "52",
+        "stopId": "52",
+        name: "Myśliszów",
+        "label": "52",
+        "platform": "0",
+        "lat": "50.673616",
+        "lon": "16.646763",
+        "order": "8"
+    },
+    {
+        "id": "36",
+        "stopId": "36",
+        name: "Sikorskiego Rondo",
+        "label": "36",
+        "platform": "0",
+        "lat": "50.679506",
+        "lon": "16.625546",
+        "order": "9"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "10"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "11"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "12"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "13"
+    },
+    {
+        "id": "44",
+        "stopId": "44",
+        name: "Bata",
+        "label": "44",
+        "platform": "0",
+        "lat": "50.693123",
+        "lon": "16.628578",
+        "order": "14"
+    },
+    {
+        "id": "47",
+        "stopId": "47",
+        name: "Bieltex I",
+        "label": "47",
+        "platform": "0",
+        "lat": "50.695145",
+        "lon": "16.637528",
+        "order": "15"
+    },
+    {
+        "id": "49",
+        "stopId": "49",
+        name: "Gazownia",
+        "label": "49",
+        "platform": "0",
+        "lat": "50.702553",
+        "lon": "16.644515",
+        "order": "16"
+    },
+    {
+        "id": "67",
+        "stopId": "67",
+        name: "MZK",
+        "label": "67",
+        "platform": "0",
+        "lat": "50.715253",
+        "lon": "16.650285",
+        "order": "17"
+    },
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "18"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "19"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "20"
+    }
+,
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "1"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "2"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "3"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "4"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "5"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "6"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "7"
+    },
+    {
+        "id": "86",
+        "stopId": "86",
+        name: "Dworzec PKS Kopernika",
+        "label": "86",
+        "platform": "0",
+        "lat": "50.724808",
+        "lon": "16.64929",
+        "order": "8"
+    },
+    {
+        "id": "68",
+        "stopId": "68",
+        name: "Batalionów Chłopskich",
+        "label": "68",
+        "platform": "0",
+        "lat": "50.719951",
+        "lon": "16.650228",
+        "order": "9"
+    },
+    {
+        "id": "66",
+        "stopId": "66",
+        name: "MZK",
+        "label": "66",
+        "platform": "0",
+        "lat": "50.715416",
+        "lon": "16.650555",
+        "order": "10"
+    },
+    {
+        "id": "48",
+        "stopId": "48",
+        name: "Gazownia",
+        "label": "48",
+        "platform": "0",
+        "lat": "50.701316",
+        "lon": "16.643836",
+        "order": "11"
+    },
+    {
+        "id": "46",
+        "stopId": "46",
+        name: "Bieltex I",
+        "label": "46",
+        "platform": "0",
+        "lat": "50.695393",
+        "lon": "16.63842",
+        "order": "12"
+    },
+    {
+        "id": "42",
+        "stopId": "42",
+        name: "Bata",
+        "label": "42",
+        "platform": "0",
+        "lat": "50.693475",
+        "lon": "16.629056",
+        "order": "13"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "14"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "15"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "16"
+    },
+    {
+        "id": "35",
+        "stopId": "35",
+        name: "Sikorskiego Rondo",
+        "label": "35",
+        "platform": "0",
+        "lat": "50.679741",
+        "lon": "16.625978",
+        "order": "17"
+    },
+    {
+        "id": "51",
+        "stopId": "51",
+        name: "Cmentarz Komunalny",
+        "label": "51",
+        "platform": "0",
+        "lat": "50.676693",
+        "lon": "16.63767",
+        "order": "18"
+    },
+    {
+        "id": "52",
+        "stopId": "52",
+        name: "Myśliszów",
+        "label": "52",
+        "platform": "0",
+        "lat": "50.673616",
+        "lon": "16.646763",
+        "order": "19"
+    },
+    {
+        "id": "36",
+        "stopId": "36",
+        name: "Sikorskiego Rondo",
+        "label": "36",
+        "platform": "0",
+        "lat": "50.679506",
+        "lon": "16.625546",
+        "order": "20"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "21"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "22"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "23"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "24"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "25"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "26"
+    }
+,
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "1"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "2"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "3"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "4"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "5"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "6"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "7"
+    },
+    {
+        "id": "86",
+        "stopId": "86",
+        name: "Dworzec PKS Kopernika",
+        "label": "86",
+        "platform": "0",
+        "lat": "50.724808",
+        "lon": "16.64929",
+        "order": "8"
+    },
+    {
+        "id": "68",
+        "stopId": "68",
+        name: "Batalionów Chłopskich",
+        "label": "68",
+        "platform": "0",
+        "lat": "50.719951",
+        "lon": "16.650228",
+        "order": "9"
+    },
+    {
+        "id": "66",
+        "stopId": "66",
+        name: "MZK",
+        "label": "66",
+        "platform": "0",
+        "lat": "50.715416",
+        "lon": "16.650555",
+        "order": "10"
+    },
+    {
+        "id": "48",
+        "stopId": "48",
+        name: "Gazownia",
+        "label": "48",
+        "platform": "0",
+        "lat": "50.701316",
+        "lon": "16.643836",
+        "order": "11"
+    },
+    {
+        "id": "46",
+        "stopId": "46",
+        name: "Bieltex I",
+        "label": "46",
+        "platform": "0",
+        "lat": "50.695393",
+        "lon": "16.63842",
+        "order": "12"
+    },
+    {
+        "id": "42",
+        "stopId": "42",
+        name: "Bata",
+        "label": "42",
+        "platform": "0",
+        "lat": "50.693475",
+        "lon": "16.629056",
+        "order": "13"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "14"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "15"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "16"
+    },
+    {
+        "id": "35",
+        "stopId": "35",
+        name: "Sikorskiego Rondo",
+        "label": "35",
+        "platform": "0",
+        "lat": "50.679741",
+        "lon": "16.625978",
+        "order": "17"
+    },
+    {
+        "id": "51",
+        "stopId": "51",
+        name: "Cmentarz Komunalny",
+        "label": "51",
+        "platform": "0",
+        "lat": "50.676693",
+        "lon": "16.63767",
+        "order": "18"
+    },
+    {
+        "id": "52",
+        "stopId": "52",
+        name: "Myśliszów",
+        "label": "52",
+        "platform": "0",
+        "lat": "50.673616",
+        "lon": "16.646763",
+        "order": "19"
+    },
+    {
+        "id": "36",
+        "stopId": "36",
+        name: "Sikorskiego Rondo",
+        "label": "36",
+        "platform": "0",
+        "lat": "50.679506",
+        "lon": "16.625546",
+        "order": "20"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "21"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "22"
+    },
+    {
+        "id": "306",
+        "stopId": "306",
+        name: "Stacja Bielawa Zachodnia",
+        "label": "306",
+        "platform": "0",
+        "lat": "0.0",
+        "lon": "0.0",
+        "order": "23"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "24"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "25"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "26"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "27"
+    }
+,
+    {
+        "id": "66",
+        "stopId": "66",
+        name: "MZK",
+        "label": "66",
+        "platform": "0",
+        "lat": "50.715416",
+        "lon": "16.650555",
+        "order": "1"
+    },
+    {
+        "id": "48",
+        "stopId": "48",
+        name: "Gazownia",
+        "label": "48",
+        "platform": "0",
+        "lat": "50.701316",
+        "lon": "16.643836",
+        "order": "2"
+    },
+    {
+        "id": "46",
+        "stopId": "46",
+        name: "Bieltex I",
+        "label": "46",
+        "platform": "0",
+        "lat": "50.695393",
+        "lon": "16.63842",
+        "order": "3"
+    },
+    {
+        "id": "42",
+        "stopId": "42",
+        name: "Bata",
+        "label": "42",
+        "platform": "0",
+        "lat": "50.693475",
+        "lon": "16.629056",
+        "order": "4"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "5"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "6"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "7"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "8"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "9"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "10"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "11"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "12"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "13"
+    }
+,
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "1"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "2"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "3"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "4"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "5"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "6"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "7"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "8"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "9"
+    },
+    {
+        "id": "44",
+        "stopId": "44",
+        name: "Bata",
+        "label": "44",
+        "platform": "0",
+        "lat": "50.693123",
+        "lon": "16.628578",
+        "order": "10"
+    },
+    {
+        "id": "47",
+        "stopId": "47",
+        name: "Bieltex I",
+        "label": "47",
+        "platform": "0",
+        "lat": "50.695145",
+        "lon": "16.637528",
+        "order": "11"
+    },
+    {
+        "id": "49",
+        "stopId": "49",
+        name: "Gazownia",
+        "label": "49",
+        "platform": "0",
+        "lat": "50.702553",
+        "lon": "16.644515",
+        "order": "12"
+    },
+    {
+        "id": "67",
+        "stopId": "67",
+        name: "MZK",
+        "label": "67",
+        "platform": "0",
+        "lat": "50.715253",
+        "lon": "16.650285",
+        "order": "13"
+    },
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "14"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "15"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "16"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "17"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "18"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "19"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "20"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "21"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "22"
+    }
+,
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "1"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "2"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "3"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "4"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "5"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "6"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "7"
+    },
+    {
+        "id": "86",
+        "stopId": "86",
+        name: "Dworzec PKS Kopernika",
+        "label": "86",
+        "platform": "0",
+        "lat": "50.724808",
+        "lon": "16.64929",
+        "order": "8"
+    },
+    {
+        "id": "68",
+        "stopId": "68",
+        name: "Batalionów Chłopskich",
+        "label": "68",
+        "platform": "0",
+        "lat": "50.719951",
+        "lon": "16.650228",
+        "order": "9"
+    },
+    {
+        "id": "66",
+        "stopId": "66",
+        name: "MZK",
+        "label": "66",
+        "platform": "0",
+        "lat": "50.715416",
+        "lon": "16.650555",
+        "order": "10"
+    },
+    {
+        "id": "48",
+        "stopId": "48",
+        name: "Gazownia",
+        "label": "48",
+        "platform": "0",
+        "lat": "50.701316",
+        "lon": "16.643836",
+        "order": "11"
+    },
+    {
+        "id": "46",
+        "stopId": "46",
+        name: "Bieltex I",
+        "label": "46",
+        "platform": "0",
+        "lat": "50.695393",
+        "lon": "16.63842",
+        "order": "12"
+    },
+    {
+        "id": "42",
+        "stopId": "42",
+        name: "Bata",
+        "label": "42",
+        "platform": "0",
+        "lat": "50.693475",
+        "lon": "16.629056",
+        "order": "13"
+    },
+    {
+        "id": "43",
+        "stopId": "43",
+        name: "Łącznik 1 Maja",
+        "label": "43",
+        "platform": "0",
+        "lat": "50.689485",
+        "lon": "16.624483",
+        "order": "14"
+    },
+    {
+        "id": "40",
+        "stopId": "40",
+        name: "Os. XXV-lecia",
+        "label": "40",
+        "platform": "0",
+        "lat": "50.68432",
+        "lon": "16.619266",
+        "order": "15"
+    },
+    {
+        "id": "37",
+        "stopId": "37",
+        name: "Andersa I",
+        "label": "37",
+        "platform": "0",
+        "lat": "50.680813",
+        "lon": "16.622536",
+        "order": "16"
+    },
+    {
+        "id": "33",
+        "stopId": "33",
+        name: "Sikorskiego",
+        "label": "33",
+        "platform": "0",
+        "lat": "50.678351",
+        "lon": "16.619393",
+        "order": "17"
+    },
+    {
+        "id": "31",
+        "stopId": "31",
+        name: "Góra Parkowa",
+        "label": "31",
+        "platform": "0",
+        "lat": "50.68003",
+        "lon": "16.612923",
+        "order": "18"
+    },
+    {
+        "id": "306",
+        "stopId": "306",
+        name: "Stacja Bielawa Zachodnia",
+        "label": "306",
+        "platform": "0",
+        "lat": "0.0",
+        "lon": "0.0",
+        "order": "19"
+    },
+    {
+        "id": "29",
+        "stopId": "29",
+        name: "Bielbaw",
+        "label": "29",
+        "platform": "0",
+        "lat": "50.682008",
+        "lon": "16.608875",
+        "order": "20"
+    },
+    {
+        "id": "27",
+        "stopId": "27",
+        name: "Ludowa",
+        "label": "27",
+        "platform": "0",
+        "lat": "50.678456",
+        "lon": "16.606",
+        "order": "21"
+    },
+    {
+        "id": "18",
+        "stopId": "18",
+        name: "Frankowskiego",
+        "label": "18",
+        "platform": "0",
+        "lat": "50.674135",
+        "lon": "16.60298",
+        "order": "22"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "23"
+    }
+,
+    {
+        "id": "4",
+        "stopId": "4",
+        name: "Bielawa Nowobielawska",
+        "label": "4",
+        "platform": "0",
+        "lat": "50.661491",
+        "lon": "16.595655",
+        "order": "1"
+    },
+    {
+        "id": "8",
+        "stopId": "8",
+        name: "Sowia",
+        "label": "8",
+        "platform": "0",
+        "lat": "50.666895",
+        "lon": "16.601695",
+        "order": "2"
+    },
+    {
+        "id": "10",
+        "stopId": "10",
+        name: "Waryńskiego (Bieltex V)",
+        "label": "10",
+        "platform": "0",
+        "lat": "50.669593",
+        "lon": "16.603583",
+        "order": "3"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "4"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "5"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "6"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "7"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "8"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "9"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "10"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "11"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "12"
+    },
+    {
+        "id": "44",
+        "stopId": "44",
+        name: "Bata",
+        "label": "44",
+        "platform": "0",
+        "lat": "50.693123",
+        "lon": "16.628578",
+        "order": "13"
+    },
+    {
+        "id": "47",
+        "stopId": "47",
+        name: "Bieltex I",
+        "label": "47",
+        "platform": "0",
+        "lat": "50.695145",
+        "lon": "16.637528",
+        "order": "14"
+    },
+    {
+        "id": "49",
+        "stopId": "49",
+        name: "Gazownia",
+        "label": "49",
+        "platform": "0",
+        "lat": "50.702553",
+        "lon": "16.644515",
+        "order": "15"
+    },
+    {
+        "id": "67",
+        "stopId": "67",
+        name: "MZK",
+        "label": "67",
+        "platform": "0",
+        "lat": "50.715253",
+        "lon": "16.650285",
+        "order": "16"
+    },
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "17"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "18"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "19"
+    }
+,
+    {
+        "id": "4",
+        "stopId": "4",
+        name: "Bielawa Nowobielawska",
+        "label": "4",
+        "platform": "0",
+        "lat": "50.661491",
+        "lon": "16.595655",
+        "order": "1"
+    },
+    {
+        "id": "8",
+        "stopId": "8",
+        name: "Sowia",
+        "label": "8",
+        "platform": "0",
+        "lat": "50.666895",
+        "lon": "16.601695",
+        "order": "2"
+    },
+    {
+        "id": "10",
+        "stopId": "10",
+        name: "Waryńskiego (Bieltex V)",
+        "label": "10",
+        "platform": "0",
+        "lat": "50.669593",
+        "lon": "16.603583",
+        "order": "3"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "4"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "5"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "6"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "7"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "8"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "9"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "10"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "11"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "12"
+    },
+    {
+        "id": "44",
+        "stopId": "44",
+        name: "Bata",
+        "label": "44",
+        "platform": "0",
+        "lat": "50.693123",
+        "lon": "16.628578",
+        "order": "13"
+    },
+    {
+        "id": "47",
+        "stopId": "47",
+        name: "Bieltex I",
+        "label": "47",
+        "platform": "0",
+        "lat": "50.695145",
+        "lon": "16.637528",
+        "order": "14"
+    },
+    {
+        "id": "49",
+        "stopId": "49",
+        name: "Gazownia",
+        "label": "49",
+        "platform": "0",
+        "lat": "50.702553",
+        "lon": "16.644515",
+        "order": "15"
+    },
+    {
+        "id": "67",
+        "stopId": "67",
+        name: "MZK",
+        "label": "67",
+        "platform": "0",
+        "lat": "50.715253",
+        "lon": "16.650285",
+        "order": "16"
+    },
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "17"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "18"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "19"
+    },
+    {
+        "id": "74",
+        "stopId": "74",
+        name: "Os. Jasne",
+        "label": "74",
+        "platform": "0",
+        "lat": "50.734500175513865",
+        "lon": "16.650389822091224",
+        "order": "20"
+    },
+    {
+        "id": "75",
+        "stopId": "75",
+        name: "Os. Tęczowe",
+        "label": "75",
+        "platform": "0",
+        "lat": "50.738376",
+        "lon": "16.63946",
+        "order": "21"
+    },
+    {
+        "id": "76",
+        "stopId": "76",
+        name: "Lidl",
+        "label": "76",
+        "platform": "0",
+        "lat": "50.737878",
+        "lon": "16.638063",
+        "order": "22"
+    },
+    {
+        "id": "77",
+        "stopId": "77",
+        name: "Bar Kaprys",
+        "label": "77",
+        "platform": "0",
+        "lat": "50.734826",
+        "lon": "16.641203",
+        "order": "23"
+    },
+    {
+        "id": "80",
+        "stopId": "80",
+        name: "Kościuszki",
+        "label": "80",
+        "platform": "0",
+        "lat": "50.7311",
+        "lon": "16.644391",
+        "order": "24"
+    },
+    {
+        "id": "81",
+        "stopId": "81",
+        name: "Dzierżoniów dworzec  PKP",
+        "label": "81",
+        "platform": "0",
+        "lat": "50.72497238929096",
+        "lon": "16.640640470886275",
+        "order": "25"
+    }
+,
+    {
+        "id": "1",
+        "stopId": "1",
+        name: "Cicha",
+        "label": "1",
+        "platform": "0",
+        "lat": "50.652091",
+        "lon": "16.582955",
+        "order": "1"
+    },
+    {
+        "id": "302",
+        "stopId": "302",
+        name: "Nowobielawska III",
+        "label": "302",
+        "platform": "0",
+        "lat": "0.0",
+        "lon": "0.0",
+        "order": "2"
+    },
+    {
+        "id": "3",
+        "stopId": "3",
+        name: "Nowobielawska II",
+        "label": "3",
+        "platform": "0",
+        "lat": "50.657203",
+        "lon": "16.592446",
+        "order": "3"
+    },
+    {
+        "id": "4",
+        "stopId": "4",
+        name: "Bielawa Nowobielawska",
+        "label": "4",
+        "platform": "0",
+        "lat": "50.661491",
+        "lon": "16.595655",
+        "order": "4"
+    },
+    {
+        "id": "8",
+        "stopId": "8",
+        name: "Sowia",
+        "label": "8",
+        "platform": "0",
+        "lat": "50.666895",
+        "lon": "16.601695",
+        "order": "5"
+    },
+    {
+        "id": "10",
+        "stopId": "10",
+        name: "Waryńskiego (Bieltex V)",
+        "label": "10",
+        "platform": "0",
+        "lat": "50.669593",
+        "lon": "16.603583",
+        "order": "6"
+    },
+    {
+        "id": "17",
+        "stopId": "17",
+        name: "Bielawa Pl. Kościelny",
+        "label": "17",
+        "platform": "0",
+        "lat": "50.674251",
+        "lon": "16.604218",
+        "order": "7"
+    },
+    {
+        "id": "28",
+        "stopId": "28",
+        name: "Ludowa",
+        "label": "28",
+        "platform": "0",
+        "lat": "50.677746",
+        "lon": "16.605693",
+        "order": "8"
+    },
+    {
+        "id": "30",
+        "stopId": "30",
+        name: "Bielbaw",
+        "label": "30",
+        "platform": "0",
+        "lat": "50.682161",
+        "lon": "16.6092",
+        "order": "9"
+    },
+    {
+        "id": "32",
+        "stopId": "32",
+        name: "Góra Parkowa",
+        "label": "32",
+        "platform": "0",
+        "lat": "50.679343",
+        "lon": "16.61335",
+        "order": "10"
+    },
+    {
+        "id": "34",
+        "stopId": "34",
+        name: "Sikorskiego",
+        "label": "34",
+        "platform": "0",
+        "lat": "50.678491",
+        "lon": "16.62063",
+        "order": "11"
+    },
+    {
+        "id": "38",
+        "stopId": "38",
+        name: "Andersa II",
+        "label": "38",
+        "platform": "0",
+        "lat": "50.68001",
+        "lon": "16.623415",
+        "order": "12"
+    },
+    {
+        "id": "39",
+        "stopId": "39",
+        name: "Andersa  III",
+        "label": "39",
+        "platform": "0",
+        "lat": "50.683413",
+        "lon": "16.620286",
+        "order": "13"
+    },
+    {
+        "id": "41",
+        "stopId": "41",
+        name: "Parkowa",
+        "label": "41",
+        "platform": "0",
+        "lat": "50.686816",
+        "lon": "16.622786",
+        "order": "14"
+    },
+    {
+        "id": "45",
+        "stopId": "45",
+        name: "Łącznik 1 Maja",
+        "label": "45",
+        "platform": "0",
+        "lat": "50.689615",
+        "lon": "16.624581",
+        "order": "15"
+    },
+    {
+        "id": "44",
+        "stopId": "44",
+        name: "Bata",
+        "label": "44",
+        "platform": "0",
+        "lat": "50.693123",
+        "lon": "16.628578",
+        "order": "16"
+    },
+    {
+        "id": "47",
+        "stopId": "47",
+        name: "Bieltex I",
+        "label": "47",
+        "platform": "0",
+        "lat": "50.695145",
+        "lon": "16.637528",
+        "order": "17"
+    },
+    {
+        "id": "49",
+        "stopId": "49",
+        name: "Gazownia",
+        "label": "49",
+        "platform": "0",
+        "lat": "50.702553",
+        "lon": "16.644515",
+        "order": "18"
+    },
+    {
+        "id": "67",
+        "stopId": "67",
+        name: "MZK",
+        "label": "67",
+        "platform": "0",
+        "lat": "50.715253",
+        "lon": "16.650285",
+        "order": "19"
+    },
+    {
+        "id": "69",
+        "stopId": "69",
+        name: "Batalionów Chłopskich",
+        "label": "69",
+        "platform": "0",
+        "lat": "50.719418",
+        "lon": "16.649913",
+        "order": "20"
+    },
+    {
+        "id": "70",
+        "stopId": "70",
+        name: "Dworzec PKS młyn",
+        "label": "70",
+        "platform": "0",
+        "lat": "50.725123",
+        "lon": "16.653868",
+        "order": "21"
+    },
+    {
+        "id": "72",
+        "stopId": "72",
+        name: "Dzierzoniów  Piłsudskiego",
+        "label": "72",
+        "platform": "0",
+        "lat": "50.72992",
+        "lon": "16.653388",
+        "order": "22"
+    }
+]

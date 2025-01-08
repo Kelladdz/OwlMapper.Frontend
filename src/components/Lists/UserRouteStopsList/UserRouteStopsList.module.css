@@ -1,0 +1,151 @@
+.container {
+    height: 33rem;
+    animation: show-list .2s cubic-bezier(.39,.65,0,.99);
+    
+    
+    margin: 1rem 1rem 0.5rem 1rem;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.collapsed {
+    animation: hide-list .2s cubic-bezier(.39,.65,0,.99);
+    height: 0rem;
+}
+
+.label {
+    height: 2rem;
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.06rem;
+    margin-bottom: 1rem;
+}
+
+.line-box {
+    width: 6rem;
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 100%;
+    display: flex;
+    position: relative;
+}
+
+.variant-box:first-of-type .line-box {
+    align-items: end;
+}
+
+.variant-box:last-of-type .line-box {
+    align-items: start;
+}
+
+.variant-box:first-of-type .line-box .line,
+.variant-box:last-of-type .line-box .line {
+    height: 50%;
+}
+
+.line {
+    width: 3px;
+    background-color: #fff;
+    margin-left: 3.5rem;
+}
+
+.dot {
+    width: 0.5rem;
+    height: 0.5rem;
+    background-color: #0056d8;
+    border-radius: 50%;
+    position: absolute;
+    bottom: calc(50% - 0.5rem);
+    border: 3px solid #fff;
+    left: calc(2rem + 1.15rem);
+}
+
+.time {
+    position: absolute;
+    bottom: -1.5rem;
+    color: white;
+    font-size: 0.75rem;
+    left: 0.75rem;
+}
+
+.list {
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 25rem;
+    overflow-y: auto;
+    border-radius: 10px;
+}
+
+.list::-webkit-scrollbar {
+	width: .5rem;
+}
+
+.list::-webkit-scrollbar-track{ 
+    border-radius: 30px;
+	background-color: #194e7c;
+	width: .4rem;
+}
+
+.list::-webkit-scrollbar-thumb {
+	background-color:#fff;
+	border-radius: 30px;
+	width: .4rem;
+} 
+
+.variant-box {
+    height: 3rem;
+    display: flex;
+    align-items: center;
+}
+
+
+.route:hover {
+    background-color: rgba(200, 200, 200, 0.2);
+}
+
+.route {
+    font-weight: 700;
+    letter-spacing: -0.06rem;
+    color: white;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    width: 100%;
+    cursor: pointer;
+}
+
+.btn {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 12rem;
+    height: 2.5rem;
+    margin-left: calc(50% - 6rem);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+@keyframes show-list {
+    from {
+        height: 0rem;
+    }
+    to {
+        height: 33rem;
+    }
+}
+
+@keyframes hide-list {
+    from {
+        height: 33rem;
+    }
+    to {
+        height: 0rem;
+    }
+}

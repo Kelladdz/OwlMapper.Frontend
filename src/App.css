@@ -1,0 +1,80 @@
+.app {
+  margin: 0;
+  padding: 0;
+}
+
+.cluster-icon {
+  background-color: #333;
+  height: 20px;
+  width: 20px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 6rem;
+  box-shadow: 0 0 0px 5px #fff;
+}
+
+.leaflet-routing-alt {
+  display: none;
+  max-width: 0;
+  max-height: 0;
+  position:absolute;
+  z-index: -1000;
+}
+
+
+
+.common-icon {
+  background-color: blue;
+  background-image: radial-gradient(#8770FF, #190099);
+  color: white;
+  cursor: default !important;
+  min-height: 1rem;
+  min-width: 1rem; 
+  border-radius: 50%;
+  position:absolute;
+  z-index: 10000;
+}
+
+.route-line-point-icon {
+  background-color: #2A00FF;
+  min-height: 0.625rem;
+  min-width: 0.625rem;
+  border-radius: 50%;
+  position:absolute;
+  z-index: 1;
+  cursor: default !important;
+}
+
+.leaflet-grab {
+  cursor: default !important;
+}
+
+
+.leaflet-dragging .leaflet-grab {
+  cursor: default !important;
+}
+
+.leaflet-marker-draggable {
+  cursor: default !important;
+}
+
+.leaflet-routing-container {
+  display: none;
+}
+
+.leaflet-pane > svg path.leaflet-interactive {
+  pointer-events: none;
+}
+
+.leaflet-container a.leaflet-popup-close-button {
+  top: 1.3rem;
+  right: -5.9rem;
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-content {
+  width: 43rem;
+}

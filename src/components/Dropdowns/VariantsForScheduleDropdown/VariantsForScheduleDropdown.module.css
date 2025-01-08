@@ -1,0 +1,38 @@
+.container {
+    font-family: Inter;
+    text-align: center;
+    font-weight: 500;
+    border-right: 1px solid #D4D4D4;
+    min-width: 30rem;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: .5rem;
+    font-size: .75rem;
+}
+
+.label {
+    font-size: 1rem;
+}
+
+.list {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    font-size: 0.75rem;
+    text-align: start;
+}
+
+.variant-box,
+.variant-box-main {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #D4D4D4;
+}
+
+.variant-box-main {
+    background-color: #3662CC;
+    color: #fff;
+}
