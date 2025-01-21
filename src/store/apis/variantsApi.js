@@ -2,11 +2,12 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 const variantsApi = createApi({
     reducerPath: 'variants',
-    baseQuery: fetchBaseQuery({ baseUrl: 'https://localhost:7033'}),
+    baseQuery: fetchBaseQuery({ baseUrl: 'https://localhost:7033',
     prepareHeaders: (headers) => {
         headers.set('Content-Type', 'application/json; charset=UTF-8');
         return headers;
       },
+    }),
     endpoints: (builder) => {
         return {
             fetchVariant: builder.query({

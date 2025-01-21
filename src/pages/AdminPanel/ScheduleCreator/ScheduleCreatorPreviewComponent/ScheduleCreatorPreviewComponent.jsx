@@ -46,6 +46,8 @@ export default function ScheduleCreatorPreviewComponent() {
                     <DeparturesTable scheduleDay={2} label='Niedziele i święta'/>
                 </div>
                 <MarkingsList />
+                <p className={styles.school}>S - kursuje tylko w dni nauki szkolnej</p>
+                <p className={styles.school}>W - kursuje tylko w dni wolne od nauki szkolnej</p>
                 <ScheduleAdditionalInfoLabel property='operator'/>
                 <ScheduleAdditionalInfoLabel property='organizer'/>
             </div>

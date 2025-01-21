@@ -17,7 +17,7 @@ export default function AdminAllLines() {
                 <AdminSectionTitle title={ADMIN_SECTION_TITLES.allLines}/>
                 <AdminLinesGrid />
             </div>
-            {selectedLine && <LineDetails />}
+            {selectedLine !== '' && <LineDetails />}
         </FlexContainer>
     )
 }

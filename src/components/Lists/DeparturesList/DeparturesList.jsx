@@ -7,13 +7,29 @@ import styles from './DeparturesList.module.css';
 import { useSearchConnections } from "../../../hooks/useSearchConnections";
 import { useTransition, animated } from "react-spring";
 import CurrentDataContext from "../../../context/currentData";
-export default function DeparturesList() {
-    const {departures, lines, activeLines, handleLineClick} = useDeparturesList();
-    const {handleDepartureClick, handleAllDeparturesButtonClick, handleBackButtonClick} = useSearchConnections();
-
-
-    const {hide, selectedRouteStop, deps, fetchedLines} = useContext(UserInterfaceContext);
+import { useFetchDeparturesByBusStopIdQuery } from "../../../store/apis/departuresApi";
+import { useFetchFilteredByBusStopIdQuery } from "../../../store";
+export default function DeparturesList({type}) {
+    const today = new Date()
     const {selectedPoint} = useContext(CurrentDataContext)
+    const {hide, selectedRouteStop, deps, onDeparturesRemove, selectedLine} = useContext(UserInterfaceContext);
+    const [justClickedLine, setJustClickedLine] = useState(selectedLine)
+    const [activeLines, setActiveLines] = useState([]);
+    const {  getDepartureTimes} = useDeparturesList();
+    const {handleDepartureClick, handleAllDeparturesButtonClick, handleBackButtonClick} = useSearchConnections();
+    const {data: departures, error: depsError, isLoading: isDepsLoading} = useFetchDeparturesByBusStopIdQuery({busStopId: selectedPoint.id || selectedRouteStop.busStopId, lineName: justClickedLine, date: new Date().toISOString().substring(0, 10)}, {skip: !selectedPoint?.id && !justClickedLine}) || [];
+    const {data: lines, error: linesError, isLoading: isLinesLoading} = useFetchFilteredByBusStopIdQuery(selectedPoint.id, {skip: !selectedPoint?.id}) || [];
+
+    const handleLineClick = (line) => {
+            if (!activeLines.includes(line)) {
+                setJustClickedLine(line);
+                setActiveLines(prev => [...prev, line]);
+            } else if (activeLines.length > 1){
+                setActiveLines(prev => prev.filter(l => l !== line));
+                onDeparturesRemove(line);
+            }
+    }
+
 
     const listRef = useRef(null);
 
@@ -33,12 +49,26 @@ export default function DeparturesList() {
         }
     },[hide])
 
+
+    useEffect(() => {
+        if (departures && !isDepsLoading) {
+            getDepartureTimes(departures)
+        }
+    },[departures, isDepsLoading])
+
+    useEffect(() => {
+        if (lines && !isLinesLoading) {
+            console.log(lines)
+            setActiveLines([lines[0].line.name])
+        }
+    },[lines, isLinesLoading])
+
     return (
         <div ref={listRef} className={styles.container}>
             <div className={styles.label}>{selectedRouteStop && selectedRouteStop.busStop.name || selectedPoint && selectedPoint.name}</div>
             <span className={styles['lines-label']}>Linie</span>
             <div className={styles['lines-btns']}>
-                {fetchedLines && fetchedLines.length > 0 ? fetchedLines.map(line => {
+                {lines && lines.length > 0 ? lines.map(line => {
                     if (activeLines && activeLines.length > 0) {
                         console.log('Active Lines and current line: ', activeLines, line.line.name);
                     }
@@ -68,7 +98,7 @@ export default function DeparturesList() {
             <div className={styles.btns}>
                 <div onClick={() => handleAllDeparturesButtonClick()} className={styles.btn}>Pokaż pełny rozkład</div>
                 <div onClick={() => {
-                    if (selectedPoint) {
+                    if (type === 'searched') {
                         handleBackButtonClick(0)
                     } else handleBackButtonClick(3)
                 }} className={styles.btn}>Wróć</div>

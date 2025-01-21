@@ -1,9 +1,7 @@
-import React from 'react'
+import {useEffect, useState} from 'react'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import ReactDOM from 'react-dom/client'
 import { Provider } from 'react-redux'
-import {store} from './store'
-import { configDotenv } from 'dotenv'
 
 import { UserInterfaceProvider } from './context/userInterface.jsx'
 import {MarkersProvider} from './context/markers'
@@ -31,69 +29,113 @@ import { PATHS } from './constants/paths.js'
 import './index.css'
 import 'leaflet/dist/leaflet.css'
 import LoginPage from './pages/Auth/LoginPage.jsx'
+import Lottie from 'lottie-react'
 
+import loadingAnimationData from './assets/animations/loading-animation.json';
+import createAppStore from './store/index.js'
 
+const ErrorComponent = ({ errorMessage }) => (
+        <div className='error'>{errorMessage}</div>
+      );
+    
+    const AppContainer = () => {
+        const [store, setStore] = useState(null);
+        const [loading, setLoading] = useState(true);
+        const [error, setError] = useState(null);
 
-
-
-const router = createBrowserRouter([
-        {
-                path: '/',
-                element: <App/>,
-                children: [
-                        {index: true, element: <SearchConnections/>}
-                ]
-
-        },
-        {
-                path: `/admin`,
-                element: <AdminPanel/>,
-                children: [
-                        {index: true, element: <WelcomePage/>},
-                        {path: PATHS.createLine, element: <LinesCreator action={ACTIONS.createLine}/> },
-                        {path: PATHS.createLineSuccess, element: <ActionComplete action={ACTIONS.createLine}/>},
-                        {path: PATHS.createVariant, element: <LinesCreator action={ACTIONS.createVariant}/>}, 
-                        {path: PATHS.createVariantSuccess, element: <ActionComplete action={ACTIONS.createVariant}/>},
-                        {path: PATHS.editVariant, element: <LinesCreator action={ACTIONS.editVariant}/>}, 
-                        {path: PATHS.editVariantSuccess, element: <ActionComplete action={ACTIONS.editVariant}/>},
-                        {path: PATHS.deleteLineSuccess, element: <ActionComplete action={ACTIONS.deleteLine}/>},
-                        {path: PATHS.deleteVariantSuccess, element: <ActionComplete action={ACTIONS.deleteVariant} />},
-                        {path: PATHS.allLines, element: <AdminAllLines/>},
-                        {path: PATHS.createBusStops, element: <BusStopsCreator action={ACTIONS.createBusStop}/> },
-                        {path: PATHS.busStops, element: <BusStopsCreator action={ACTIONS.editBusStop}/>},
-                        {path: PATHS.createSchedule, element: <ScheduleCreator/>}
-
-                        
-                ]
-        },
-        {
-                path: `/signin`,
-                element: <AuthPage />,
-                children: [
-                       {index: true, element: <LoginPage/>}
-                ]
+        const router = createBrowserRouter([
+                {
+                        path: '/',
+                        element: <App/>,
+                        children: [
+                                {index: true, element: <SearchConnections/>}
+                        ]
+        
+                },
+                {
+                        path: `/admin`,
+                        element: <AdminPanel/>,
+                        children: [
+                                {index: true, element: <WelcomePage/>},
+                                {path: PATHS.createLine, element: <LinesCreator action={ACTIONS.createLine}/> },
+                                {path: PATHS.createLineSuccess, element: <ActionComplete action={ACTIONS.createLine}/>},
+                                {path: PATHS.createVariant, element: <LinesCreator action={ACTIONS.createVariant}/>}, 
+                                {path: PATHS.createVariantSuccess, element: <ActionComplete action={ACTIONS.createVariant}/>},
+                                {path: PATHS.editVariant, element: <LinesCreator action={ACTIONS.editVariant}/>}, 
+                                {path: PATHS.editVariantSuccess, element: <ActionComplete action={ACTIONS.editVariant}/>},
+                                {path: PATHS.deleteLineSuccess, element: <ActionComplete action={ACTIONS.deleteLine}/>},
+                                {path: PATHS.deleteVariantSuccess, element: <ActionComplete action={ACTIONS.deleteVariant} />},
+                                {path: PATHS.allLines, element: <AdminAllLines/>},
+                                {path: PATHS.createBusStops, element: <BusStopsCreator action={ACTIONS.createBusStop}/> },
+                                {path: PATHS.busStops, element: <BusStopsCreator action={ACTIONS.editBusStop}/>},
+                                {path: PATHS.createSchedule, element: <ScheduleCreator/>}
+        
+                                
+                        ]
+                },
+                {
+                        path: `/signin`,
+                        element: <AuthPage />,
+                        children: [
+                               {index: true, element: <LoginPage/>}
+                        ]
+                }
+        ]);
+    
+        useEffect(() => {
+            const initializeStore = async () => {
+              try {
+                const appStore = await createAppStore();
+                setStore(appStore);
+              } catch (err) {
+                setError(`Error initializing the app: ${err.message}`);
+              } finally {
+                setLoading(false);
+              }
+            };
+        
+            initializeStore();
+          }, []);
+    
+          if (loading || error) {
+            return (
+              <div className='error-box'>
+                {loading ? <Lottie animationData={loadingAnimationData} /> : <ErrorComponent errorMessage={error} />}
+              </div>
+            );
+          }  
+        
+          return (
+                <Provider store={store}>
+                        <MapBehaviorProvider>
+                                <RouteLinePointsProvider>
+                                        <MarkersProvider>
+                                                <CurrentDataProvider>
+                                                        <LinesProvider>
+                                                                <ModalsProvider>
+                                                                        <UserInterfaceProvider>
+                                                                                <AStartSearchProvider>
+                                                                                        <RouterProvider router={router}/>
+                                                                                </AStartSearchProvider>
+                                                                        </UserInterfaceProvider>
+                                                                </ModalsProvider>
+                                                        </LinesProvider>
+                                                </CurrentDataProvider>
+                                        </MarkersProvider>
+                                </RouteLinePointsProvider>
+                        </MapBehaviorProvider>                      
+                </Provider>
+          )
         }
-]);
+
+        export default AppContainer;
+
+
 
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-<Provider store={store}>
-        <MapBehaviorProvider>
-                <RouteLinePointsProvider>
-                        <MarkersProvider>
-                                <CurrentDataProvider>
-                                        <LinesProvider>
-                                                <ModalsProvider>
-                                                        <UserInterfaceProvider>
-                                                                <AStartSearchProvider>
-                                                                        <RouterProvider router={router}/>
-                                                                </AStartSearchProvider>
-                                                        </UserInterfaceProvider>
-                                                </ModalsProvider>
-                                        </LinesProvider>
-                                </CurrentDataProvider>
-                        </MarkersProvider>
-                </RouteLinePointsProvider>
-        </MapBehaviorProvider>                      
-</Provider>)
+        <AppContainer>
+                <App/>
+        </AppContainer>
+)

@@ -13,6 +13,7 @@ import { SIDE_BAR_BUTTONS } from "../../constants/sideBarButtons";
 import styles from './SideBar.module.css';
 import Cookies from "js-cookie";
 import axios from "axios";
+import UserInterfaceContext from "../../context/userInterface";
 
 export default function SideBar() {
     const { activeButton, changeActiveButton } = useContext(SideBarContext);
@@ -25,9 +26,9 @@ export default function SideBar() {
         changeActiveButton(1);
     } else if (location.pathname.endsWith('edit') || location.pathname.endsWith('variants/create')) {
         changeActiveButton(2);
-    } else if (location.pathname.endsWith('bus-stops/create')) {
-        changeActiveButton(3);
     } else if (location.pathname.endsWith('bus-stops')) {
+        changeActiveButton(3);
+    } else if (location.pathname.endsWith('schedules/create')) {
         changeActiveButton(4);
     }
 
@@ -61,7 +62,9 @@ export default function SideBar() {
                 onClick={() => handleClick(button.id)}/>)
             } 
         </nav>
-        <SideBarButton label='Wyloguj' isFocus={false} onClick={handleLogoutClick}/>
+        <SideBarButton label='Wyloguj' isFocus={false} onClick={() => {
+            handleLogoutClick()
+        }}/>
     </div>
     )
 }

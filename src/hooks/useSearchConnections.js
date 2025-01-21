@@ -46,10 +46,10 @@ export function useSearchConnections() {
         switch (number) {
             case 0:
                 console.log('Selected 0')
-                getSelectedPoint(null);
                 onHide(true);
                 setTimeout(() => {
                     handleTypeChange(number);
+                    getSelectedPoint(null);
                 },200);
                 break;
             case 1:
@@ -88,6 +88,7 @@ export function useSearchConnections() {
     }
 
     const handleRouteStopClick = (routeStop) => {
+        getSelectedPoint({name: routeStop.busStop.name, id: routeStop.busStop.id, coordinate: L.latLng(routeStop.busStop.coordinate.lat, routeStop.busStop.coordinate.lng)});
         onRouteStopSelect(routeStop);
         removeAllRouteLinePoints();
         removeAllRouteStopMarkers();
@@ -103,7 +104,7 @@ export function useSearchConnections() {
         removeAllRouteStopMarkers();
         onHide(true);
         setTimeout(() => {
-            handleTypeChange(4);
+            handleTypeChange(7);
         },200);
     }
 
@@ -148,6 +149,9 @@ export function useSearchConnections() {
         } else if (number === 6) {
             toggleMarkerAddingOnMapClick(false);
             onType('all-departures')
+        } else if (number === 7) {
+            toggleMarkerAddingOnMapClick(false);
+            onType('lines-departures')
         }
     }
 

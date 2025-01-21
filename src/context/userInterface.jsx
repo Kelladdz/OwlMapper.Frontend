@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useEffect, useState } from 'react';
+import { createContext, useState } from 'react';
 
 const UserInterfaceContext = createContext();
 
@@ -24,12 +24,10 @@ function UserInterfaceProvider({children}) {
     }
 
     const onListMount = () => {
-        console.log('Search list mount...');
         setIsListMounted(true);
     }
 
     const onListUnmount = () => {
-        console.log('Search list unmount...');
         setIsListMounted(false);
     }   
 
@@ -59,25 +57,19 @@ function UserInterfaceProvider({children}) {
 
     const onLinesDeparturesFetched = (lines) => {
         const sortedLines = lines.sort((a, b) => {
-            // Konwersja elementów na stringi, aby uniknąć problemów
             const strA = String(a);
             const strB = String(b);
           
-            // Sprawdź, czy oba elementy są liczbami
             const isANumber = !isNaN(strA);
             const isBNumber = !isNaN(strB);
           
             if (isANumber && isBNumber) {
-              // Jeśli oba są liczbami, porównaj je jako liczby
               return Number(strA) - Number(strB);
             } else if (isANumber) {
-              // Jeśli tylko 'a' jest liczbą, 'a' powinno być przed 'b'
               return -1;
             } else if (isBNumber) {
-              // Jeśli tylko 'b' jest liczbą, 'b' powinno być przed 'a'
               return 1;
             } else {
-              // Jeśli oba są znakami alfabetycznymi, porównaj je alfabetycznie
               return strA.localeCompare(strB);
             }
           });
@@ -96,14 +88,13 @@ function UserInterfaceProvider({children}) {
             }
             return acc;
           }, []);
-        console.log('Unique variants: ', uniqueVariants);
         setVariantsWithSymbols(uniqueVariants.map((variant, index) => {
             const firstSymbol = 'A'
             if (variant.isDefault) {
                 return {variant: variant.route, symbol: '1'};
             } else {
                 return {variant: variant.route, symbol: String.fromCharCode(firstSymbol.charCodeAt(0) + index)};
-            };
+            }
         }));
     }
 
@@ -124,63 +115,16 @@ function UserInterfaceProvider({children}) {
     }
 
     const onDeparturesChange = (departures) => {
-        console.log('context deps: ', departures)
+        console.log('on departure change: ', departures)
         setDeps(prev => [...prev, ...departures].filter(departure => departure.timeToArrive > 0).sort((a, b) => a.timeToArrive - b.timeToArrive).slice(0, 20))
     }
     const onAllDeparturesChange = (departures) => {
-        console.log('context deps: ', departures)
         setDeps(departures.filter(departure => departure.timeToArrive > 0).sort((a, b) => a.timeToArrive - b.timeToArrive))
     }
 
     const onDeparturesRemove = (lineName) => {
         setDeps(prev => prev.filter(dep => dep.variant.line.name !== lineName))
     }
-    
-    useEffect(() => {
-        if (startOrDestination !== '') {
-            console.log('Focused bar has changed: ', startOrDestination);
-        }
-    }, [startOrDestination])
-
-    useEffect(() => {
-        isListMounted ? console.log('Search list is mounted') : console.log('Search list isn`t mounted');
-    }, [isListMounted])
-
-    useEffect(() => {
-        console.log('To hide: ', hide);
-    },[hide])
-
-    useEffect(() => {
-        console.log('Selected line: ', selectedLine);
-    }, [selectedLine])
-    
-    useEffect(() => {
-        console.log('Hovered route stop: ', hoveredRouteStop);
-    }, [hoveredRouteStop])
-
-    useEffect(() => {
-        console.log('Selected route stop: ', selectedRouteStop)
-    },[selectedRouteStop])
-
-    useEffect(() => {
-        console.log('Fetched lines: ', fetchedLines);
-    }, [fetchedLines])
-
-    useEffect(() => {
-        console.log('Selected departure: ', selectedDeparture);
-    }, [selectedDeparture])
-
-    useEffect(() => {
-        console.log('Variants and symbols: ', variantsWithSymbols);
-    }, [variantsWithSymbols])
-
-    useEffect(() => {
-        console.log('Markings: ', markings);
-    }, [markings])
-
-    useEffect(() => {
-        console.log('Departures: ', deps)
-    },[deps])
 
     return <UserInterfaceContext.Provider value={{
             startOrDestination, onFocusedSearchBar,

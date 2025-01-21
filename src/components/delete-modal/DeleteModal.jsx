@@ -13,8 +13,8 @@ export default function DeleteModal({activeModal}) {
     const {selectedLine, onLineSelect, selectedVariant, onVariantSelect} = useContext(CreatorContext);
 
     const navigate = useNavigate();
-    const [deleteLine, {isLoading}] = useDeleteLineMutation();
-    const [deleteVariant, {isLoadingVariant}] = useDeleteVariantMutation();
+    const [deleteLine, isLoading] = useDeleteLineMutation();
+    const [deleteVariant, isLoadingVariant] = useDeleteVariantMutation();
 
     const modalPrimaryLabels = {
         'delete-line': {firstLine: `Czy na pewno chcesz usunąć linię`, secondLine: `${selectedLine}?`},
@@ -30,10 +30,10 @@ export default function DeleteModal({activeModal}) {
         }
         try {
             if (activeModal === 'delete-variant') {
-                await deleteVariant(request).unwrap();
+                await deleteVariant(request);
                 
             } else if (activeModal === 'delete-line') {
-            await deleteLine(selectedLine).unwrap();
+                await deleteLine(selectedLine);
             } 
         } catch (err) {
             if (activeModal === 'delete-line') {
@@ -42,12 +42,12 @@ export default function DeleteModal({activeModal}) {
                 console.error('Usuwanie połączenia się nie powiodło.', err)
             }
         } finally {
+            onLineSelect(null);
+            onVariantSelect(null)
             if (activeModal === 'delete-variant') {
-                onVariantSelect(null)
                 navigate(`/admin/lines/${selectedLine}/variants/delete/success`);
             };
             if (activeModal === 'delete-line') {
-                onLineSelect(null);
                 navigate('/admin/lines/delete/success');
             
             toggleModal(null)

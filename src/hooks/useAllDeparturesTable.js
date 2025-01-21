@@ -24,38 +24,30 @@ export function useAllDeparturesTable() {
         setCurrentDate(dateString);
     }
 
-    const fetchDepartures = async () => {
-        let newDeps = [];
-    try {
-        const response = await axios.get(`https://localhost:7033/api/departures/filter?busStopId=${selectedRouteStop ? selectedRouteStop.busStopId : selectedPoint.id}&lineName=${activeLine}&date=${currentDate}&page=1&pageSize=0`)
-                .then(response => {
-                    console.log('Response:', response.data);
-                    response.data.forEach(dep => {
-                        const now = new Date();
-                        const [hours, minutes] = [parseInt(dep.departure.time.split(':')[0], 10), parseInt(dep.departure.time.split(':')[1], 10)];
-                        const targetDate = new Date();
-                        targetDate.setHours(hours);
-                        targetDate.setMinutes(minutes); 
-                        const differenceInMs = targetDate - now;
-                        const differenceInMinutes = Math.floor(differenceInMs / (1000 * 60));
-                        
+    const getDepartureTimes = (departures) => {
+        console.log('get departure times: ', departures)
+        const newDeps = departures.map(dep => {
+            const now = new Date();
+            const [hours, minutes] = [parseInt(dep.departure.time.split(':')[0], 10), parseInt(dep.departure.time.split(':')[1], 10)];
+            const targetDate = new Date();
+            targetDate.setHours(hours);
+            targetDate.setMinutes(minutes); 
+            const differenceInMs = targetDate - now;
+            const differenceInMinutes = Math.floor(differenceInMs / (1000 * 60));
+            const timeString = `${targetDate.getHours().toString().padStart(2, '0')}:${targetDate.getMinutes().toString().padStart(2, '0')}`;
 
-                        newDeps.push({
-                        id: dep.departure.id, 
-                        isOnlyInDaysWithoutSchool: dep.departure.isOnlyInDaysWithoutSchool, 
-                        isOnlyInSchoolDays: dep.departure.isOnlyInSchoolDays,
-                        scheduleDay: dep.departure.scheduleDay,
-                        time: dep.departure.time.substring(0,5),
-                        variantId: dep.departure.variantId,
-                        variant: dep.departure.variant,
-                        timeToArrive: differenceInMinutes})
-                    });
-                })
+            return {
+            id: dep.departure.id, 
+            isOnlyInDaysWithoutSchool: dep.departure.isOnlyInDaysWithoutSchool, 
+            isOnlyInSchoolDays: dep.departure.isOnlyInSchoolDays,
+            scheduleDay: dep.departure.scheduleDay,
+            time: dep.departure.time.substring(0,5),
+            variantId: dep.departure.variantId,
+            variant: dep.departure.variant,
+            timeToArrive: differenceInMinutes}
+        })
         onAllDeparturesChange(newDeps);
         onVariantsAndSymbols(newDeps);
-    } catch (error) {
-        console.error('Error fetching departures:', error);
-    }
 };
 
 const chunkDepartureTimes = () => {
@@ -82,13 +74,7 @@ const chunkDepartureTimes = () => {
 };
 
 
-    useEffect(() => {
-        if (currentDate && activeLine) {
-            console.log('Current date:', currentDate);
-            console.log('Active line:', activeLine);
-            fetchDepartures()
-        }
-    },[currentDate, activeLine])
+
 
     useEffect(() => {
         if (deps && variantsWithSymbols) {
@@ -106,5 +92,5 @@ const chunkDepartureTimes = () => {
         }
     },[])
 
-    return {handleCurrentDateChange, handleLineClick, currentDate, chunkedDeps};
+    return {handleCurrentDateChange, handleLineClick, getDepartureTimes, currentDate, chunkedDeps};
 }

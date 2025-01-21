@@ -20,6 +20,8 @@ export default function Schedule() {
                     <DeparturesTable scheduleDay={1} label='Soboty'/>
                     <DeparturesTable scheduleDay={2} label='Niedziele i święta'/>
                 </div>
+                <p className={styles.school}>S - kursuje tylko w dni nauki szkolnej</p>
+                <p className={styles.school}>W - kursuje tylko w dni wolne od nauki szkolnej</p>
                 <ScheduleAdditionalInfoLabel label='Operator: ' value={operator}/>
                 <ScheduleAdditionalInfoLabel label='Organizator: ' value={organizer}/>
             </div>

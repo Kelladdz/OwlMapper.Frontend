@@ -143,7 +143,7 @@ function CreatorProvider({children}) {
 
     useEffect(() => {
         if (options.length > 0) {
-            console.log('Line route options: ', options.map(option => option.label));
+            console.log('Line route options: ', options.map(option => option.label), options.map(option => option.value));
         }
     },[options])
 

@@ -21,3 +21,16 @@ body {
   display: none;
 }
 
+.error {
+  color: red;
+  font-weight: 600;
+  text-align: center;
+}
+
+.error-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}

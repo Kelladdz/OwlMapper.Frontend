@@ -5,16 +5,6 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
   const linesApi = createApi({
     reducerPath: 'lines',
     baseQuery: fetchBaseQuery({ baseUrl: 'https://localhost:7033'}),
-    prepareHeaders: (headers) => {
-        const accessToken = getState().auth.accessToken;
-
-        headers.set('Content-Type', 'application/json; charset=UTF-8');
-        if (accessToken) {
-            console.log('Access Token: ', accessToken);
-            headers.set('Authorization', `Bearer ${accessToken}`);
-        }
-        return headers;
-      },
     endpoints: (builder) => {
         return {
             fetchLine: builder.query({

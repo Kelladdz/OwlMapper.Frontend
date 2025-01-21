@@ -1,8 +1,4 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
-import { useSelector } from "react-redux";
-
-const accessToken = localStorage.getItem('accessToken');
-
 const busStopsApi = createApi({
     reducerPath: 'busStops',
     baseQuery: fetchBaseQuery({ baseUrl: 'https://localhost:7033' }),
@@ -18,6 +14,7 @@ const busStopsApi = createApi({
                 }
             }),
             searchBusStops: builder.query({
+                providesTags: ['BusStops'],
                 query: (term) => {
                     return {
                         url: `/api/bus-stops/search?term=${term}`,

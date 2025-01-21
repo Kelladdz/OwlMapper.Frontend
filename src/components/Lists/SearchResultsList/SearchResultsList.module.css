@@ -1,7 +1,7 @@
 .container {
     height: 20rem;
     width: 100%;
-    background-color: #fff;
+    background-color: rgba(0, 0, 0, 0.2);
     animation: expand-search-list 1s cubic-bezier(.39,.65,0,.99);
 }
 
@@ -18,7 +18,7 @@
 .list {
 
     padding-block: 0rem;
-    border-top: 3px solid #bcbcbc;
+    border-top: 3px solid white;
     height: 100%;
     overflow-y: scroll;
     border-bottom-left-radius: 8px;
@@ -30,12 +30,11 @@
 }
 
 .list::-webkit-scrollbar-track {
-	background-color: #dedede;
 	width: .4rem;
 }
 
 .list::-webkit-scrollbar-thumb {
-	background-color: #838383;
+	background-color: white;
 	border-radius: 30px;
 	width: .4rem;
 } 
@@ -46,7 +45,7 @@
     align-items: center;
     padding-inline: 1rem;
     gap: 1.5rem;
-    border-bottom: 1px solid #bcbcbc;
+    border-bottom: 1px solid rgba(0,0,0,0.5)
 }
 
 .item:hover {
@@ -54,6 +53,7 @@
     box-shadow: inset 0px 0px 31px 0 rgba(35, 92, 178, 0.5);
     animation: on-item-hover 0.1s linear;
     cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 .info {
@@ -64,7 +64,7 @@
 .primary-info {
     font-size: 1rem;
     font-weight: 500;
-    color: #000;
+    color: white;
 }
 
 .secondary-info {

@@ -25,3 +25,10 @@
     margin-top: 0.5625rem;
     margin-bottom: 0.5625rem;
 }
+
+.school {
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 1rem;
+    letter-spacing: -0.01rem;
+}

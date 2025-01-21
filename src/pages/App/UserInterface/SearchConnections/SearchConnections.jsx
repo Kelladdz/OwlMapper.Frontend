@@ -30,7 +30,7 @@ export default function SearchConnections() {
                     <UserInterfaceTab selectedTab={selectedTab} id={0} label='Przystanki' onClick={() => handleTabClick(0)}/>
                     <UserInterfaceTab selectedTab={selectedTab} id={1} label='Linie' onClick={() => handleTabClick(1)}/>
                 </div>
-                {selectedPoint && <DeparturesList />}
+                {type === 'lines-departures' && <DeparturesList type='searched'/>}
                 {type === 'bus-stops' && <ConnectionsSearchInput/>}
                 {type === 'lines' && <UserLinesGrid/>}
                 {type === 'variants' && <UserVariantsList/>}

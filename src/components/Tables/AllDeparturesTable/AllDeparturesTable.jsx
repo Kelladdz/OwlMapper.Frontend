@@ -1,4 +1,4 @@
-import { useContext, useRef, useEffect } from "react";
+import { useContext, useRef, useEffect, useState } from "react";
 import DatePicker from "react-datepicker";
 import UserInterfaceContext from "../../../context/userInterface";
 import { useAllDeparturesTable } from "../../../hooks/useAllDeparturesTable";
@@ -7,19 +7,22 @@ import UserMarkingsList from "../../Lists/UserMarkingsList/UserMarkingsList";
 import styles from './AllDeparturesTable.module.css';
 import { useSearchConnections } from "../../../hooks/useSearchConnections";
 import CurrentDataContext from "../../../context/currentData";
+import {useFetchFilteredByBusStopIdQuery, useFetchDeparturesByBusStopIdQuery} from '../../../store'
 export default function AllDeparturesTable() {
-    const {currentDate, handleCurrentDateChange, handleLineClick, chunkedDeps} = useAllDeparturesTable();
+    const {currentDate, getDepartureTimes, handleCurrentDateChange, chunkedDeps} = useAllDeparturesTable();
     const {handleBackButtonClick} = useSearchConnections();
-    const {activeLine} = useContext(UserInterfaceContext);
-
-    const lineClick = (lineName) => {
-        console.log('Clicked on ', lineName)
+    const {hide, selectedRouteStop, selectedLine} = useContext(UserInterfaceContext);
+    const {selectedPoint} = useContext(CurrentDataContext)
+    const [activeLine, setActiveLine] = useState();
+    const {data: lines, error: linesError, isLoading: isLinesLoading} = useFetchFilteredByBusStopIdQuery(selectedPoint.id, {skip: !selectedPoint?.id}) || [];
+    const {data: departures, error: depsError, isLoading: isDepsLoading} = useFetchDeparturesByBusStopIdQuery({busStopId: selectedPoint.id || selectedRouteStop.busStopId, lineName: activeLine, date: currentDate}, {skip: !selectedPoint?.id && !activeLine}) || [];
+    const handleLineClick = (line) => {
+        setActiveLine(line)
     }
 
     const listRef = useRef(null);
 
-    const {hide,  fetchedLines, selectedRouteStop} = useContext(UserInterfaceContext);
-    const {selectedPoint} = useContext(CurrentDataContext)
+
 
 
     useEffect(() => {
@@ -29,12 +32,25 @@ export default function AllDeparturesTable() {
             list.classList.add(styles.collapsed);
         }
     },[hide])
+
+    useEffect(() => {
+        if (departures && !isDepsLoading) {
+            getDepartureTimes(departures)
+        }
+    },[departures, isDepsLoading])
+
+    useEffect(() => {
+        if (lines && !isLinesLoading) {
+            console.log(lines)
+            setActiveLine([lines[0].line.name])
+        }
+    },[lines, isLinesLoading])
     return (
     <div ref={listRef} className={styles.container}>
         <div className={styles.label}>{selectedRouteStop && selectedRouteStop.busStop.name || selectedPoint.name}</div>
         <span className={styles['lines-label']}>Linie:</span>
         <div className={styles['lines-btns']}>
-            {activeLine && fetchedLines && fetchedLines.length > 0 && fetchedLines.map(line => {
+            {activeLine && lines && lines.length > 0 && lines.map(line => {
                 console.log('Active Line and current line: ', activeLine, line.line.name);
                 const activeLineClass = activeLine && activeLine == line.line.name ? 'active-' : '';
                 console.log(activeLineClass);

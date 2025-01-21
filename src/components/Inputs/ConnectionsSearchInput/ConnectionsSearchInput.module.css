@@ -5,8 +5,7 @@
     width: calc(100% - 2rem);
     position: relative;
     border-radius: 7px;
-    background-color: white;
-    
+    background-color: rgba(0, 0, 0, 0.2);
     overflow-y: hidden;
 }
 
@@ -31,7 +30,7 @@
 }
 
 .expand .input {
-    border-bottom: 1px solid #bcbcbc;
+    border-bottom: 1px solid white;
 }
 
 .input,
@@ -41,6 +40,8 @@
     width: calc(100% - 2.5rem);
     padding-left: 0.5rem;
     border: none;
+    color: white;
+    background-color: transparent;
 }
 
 .input::placeholder
@@ -48,6 +49,7 @@
     font-size: 0.75rem;
     font-weight: 500;
     letter-spacing: -0.06px;
+    color: white!important;
 }
 
 .input:focus-visible,

@@ -10,6 +10,10 @@ export default function AdminLinesGrid() {
     const {chunkLines} = useAdminLinesGrid();
     const {onLineSelect, chunkedLines} = useContext(CreatorContext);
     const {data: lines, error, isLoading} = useFetchLinesQuery() || [];
+
+    useEffect(() => {
+        onLineSelect('')
+    },[])
     
     useEffect(() => {
         if (!isLoading && lines) {

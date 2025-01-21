@@ -6,6 +6,7 @@ import useUserLinesGrid from '../../../hooks/useUserLinesGrid.js';
 import styles from './UserLinesGrid.module.css';
 import UserInterfaceContext from '../../../context/userInterface.jsx';
 import { useSearchConnections } from '../../../hooks/useSearchConnections.js';
+import CurrentDataContext from '../../../context/currentData.jsx';
 export default function UserLinesGrid() {
     const listRef = useRef(null);
     
@@ -13,6 +14,7 @@ export default function UserLinesGrid() {
     const {lines} = useUserLinesGrid();
     const {handleLineClick} = useSearchConnections();
     const {hide} = useContext(UserInterfaceContext);
+    const {selectedPoint, getSelectedPoint} = useContext(CurrentDataContext);
 
     useEffect(() => {
         if(hide && listRef.current) {
@@ -21,6 +23,12 @@ export default function UserLinesGrid() {
             list.classList.add(styles.collapsed);
         }
     },[hide])
+
+    useEffect(() => {
+        if (selectedPoint) {
+            getSelectedPoint(null)
+        }
+    },[])
 
     return (
         <>
