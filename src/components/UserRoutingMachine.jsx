@@ -29,9 +29,7 @@ function createRoutineMachineLayer({ routeLine }) {
     draggableWaypoints: true,
     fitSelectedRoutes: false,
     showAlternatives: false,
-    router: L.Routing.mapbox('pk.eyJ1Ijoia2VsbGFkZHoiLCJhIjoiY2x4bzNpM253MDllODJycXIxb21oczh5cSJ9.YYYTdxFLA39oDTsFgRdmsg'),
-    
-       // Domyślny styl linii
+    router: L.Routing.mapbox('pk.eyJ1Ijoia2VsbGFkZHoiLCJhIjoiY2x4bzNraG1mMDFtajJxcXlxeWo3ejAzbyJ9.8VncgDKjoAARhBncLoMr8Q'),
     });
 
 

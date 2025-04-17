@@ -21,6 +21,10 @@ body {
   display: none;
 }
 
+.leaflet-top .leaflet-right {
+  display: none;
+}
+
 .error {
   color: red;
   font-weight: 600;

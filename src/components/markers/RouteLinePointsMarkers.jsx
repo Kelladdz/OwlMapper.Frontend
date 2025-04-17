@@ -2,7 +2,7 @@ import RouteLinePointsContext from "../../context/routeLines";
 import { useContext } from "react";
 import { Marker } from "react-leaflet";
 import L from 'leaflet';
-import '../../App.css';
+import '../../pages/App/App.css';
 import { useSelector } from "react-redux";
 
 export default function RouteLinePoints() {
